@@ -36,7 +36,7 @@ def get_the_restaurant_refs():
 def get_rating(url):
     """ Retrieves ratings for restaurant.
     
-    0-100 ratings
+    0-100 rating
     -1    no ratings
     -2    restaurant doesn't offer anything at the moment/wrong structure 
     """
@@ -100,6 +100,23 @@ def get_number_of_ratings(url):
             
     return number_of_ratings
 
+def get_delivery_fee(url):
+    """ Retrieves deliver fee for restaurant.
+    
+    depends on the address
+    -2  restaurant doesn't offer anything at the moment/wrong structure
+    """
+
+    g.go(url)
+    try:
+        fee = g.doc.select("(//div[@class='delivery-info__price delivery-info__item'])[1]")
+    except weblib.error.DataNotFound as e:
+        print(type(e))
+        print(e)
+        return -2
+    return fee.text()
+
+
 def create_dataset(names, urls, ratings, number_of_ratings):
     final_dict = {}
     final_dict['restaurant_names'] = names
@@ -115,7 +132,7 @@ def main():
     urls = ['https://www.damejidlo.cz' + ref for ref in refs]
     ratings = [get_rating(ref) for ref in refs]
     number_of_ratings = [get_number_of_ratings(ref) for ref in refs]
-    # delivery_fees 
+    delivery_fees = [get_delivery_fee(ref) for ref in refs]
 
     dataframe = create_dataset(names, urls, ratings, number_of_ratings)
     dataframe.index.name = 'id'
