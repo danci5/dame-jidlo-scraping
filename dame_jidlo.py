@@ -7,6 +7,10 @@ import weblib
 import pandas as pd
 import os
 from grab import Grab
+import googlemaps
+import urllib.parse
+import json
+import configparser
 
 logging.basicConfig(level=logging.DEBUG)
 dame_jidlo = 'https://www.damejidlo.cz'
@@ -14,7 +18,7 @@ g = Grab()
 g.go(dame_jidlo)
 
 def get_the_restaurant_refs():
-    """ Retrieves all the links for restaurants from the damejidlo catalog. """
+    """ Gets all the links for restaurants from the damejidlo catalog. """
     
     # grabbing the catalog
     g.go('/katalog/')
@@ -31,14 +35,14 @@ def get_the_restaurant_refs():
     # xpath for all links of restaurants from ul of prague
     refs = tree.xpath("//@href")
 
-    return refs 
+    return refs
 
 def get_rating(url):
-    """ Retrieves ratings for restaurant.
+    """ Gets ratings for restaurant.
     
     0-100 rating
     -1    no ratings
-    -2    restaurant doesn't offer anything at the moment/wrong structure 
+    None  restaurant doesn't offer anything at the moment/wrong structure 
     """
 
     g.go(url)
@@ -48,7 +52,7 @@ def get_rating(url):
     except weblib.error.DataNotFound as e:
         print(type(e))
         print(e)
-        return -2
+        return None
 
     if len(rat_nodes) == 0:
         # no ratings 
@@ -60,17 +64,17 @@ def get_rating(url):
 
         except Exception as e:
             # formatting went wrong 
-            rating = -2
+            rating = None
             print(type(e))
             print(e)
 
     return rating
 
 def get_number_of_ratings(url):
-    """ Retrieves number of ratings for restaurant.
+    """ Gets number of ratings for restaurant.
     
-    0-x number of ratings
-    -2  restaurant doesn't offer anything at the moment/wrong structure
+    0-x   number of ratings
+    None  restaurant doesn't offer anything at the moment/wrong structure
     """
 
     g.go(url)
@@ -80,7 +84,7 @@ def get_number_of_ratings(url):
     except weblib.error.DataNotFound as e:
         print(type(e))
         print(e)
-        return -2
+        return None
 
     if nor_nodes[0].tag == 'span' or len(nor_nodes) == 0:
         # no ratings or no children for upper element selection
@@ -94,55 +98,152 @@ def get_number_of_ratings(url):
 
         except KeyError as e:
             # formatting went wrong
-            number_of_ratings = -2
+            number_of_ratings = None
             print(type(e))
             print(e)
             
     return number_of_ratings
 
 def get_delivery_fee(url):
-    """ Retrieves deliver fee for restaurant.
-    
-    depends on the address
-    -2  restaurant doesn't offer anything at the moment/wrong structure
+    """ Gets deliver fee for restaurant.
+    DEPENDS on the address
+
+    None    restaurant doesn't offer anything at the moment/wrong structure
     """
 
     g.go(url)
     try:
-        fee = g.doc.select("(//div[@class='delivery-info__price delivery-info__item'])[1]")
+        fee_selection = g.doc.select("(//div[@class='delivery-info__price delivery-info__item'])[1]")
+        fee = fee_selection.text()
     except weblib.error.DataNotFound as e:
         print(type(e))
         print(e)
-        return -2
-    return fee.text()
+        return None
+    return fee
 
+def fill_lat_long_and_return_geocoding_response(url, addresses, lats, lngs):
+    """ Gets address and geocodes the address to lat long with gmaps API.
+    
+    lat   saved into lats list
+    lng   saved into lngs list
+    
+    When incapable of getting lat, lng values, filling None because:
+    -restaurant doesn't offer anything at the moment/wrong structure
+    -the API didnt't handle the format of the address    
 
-def create_dataset(names, urls, ratings, number_of_ratings):
+    Returns the API json response or None.
+    """
+    g.go(url)
+    try:
+        gmaps_link = g.doc.select("(//div[@class='moreinfo__address-image'])[1]/a/@href").text()
+        url_encoded_address = gmaps_link.split('=')[1]
+
+        # URL address decoded to string in utf-8
+        address = urllib.parse.unquote(url_encoded_address).replace('+',' ')
+        addresses.append(address)
+         
+    except weblib.error.DataNotFound as e:
+        print(type(e))
+        print(e)
+        addresses.append(None)
+        lats.append(None)
+        lngs.append(None)
+        return None
+
+    try:    
+        config = configparser.ConfigParser()
+        config.read('auth.cfg')
+        gmaps = googlemaps.Client(key=config['gmaps-geocoding']['api_key'])
+        geocode_result = gmaps.geocode(address)
+        
+        location = geocode_result[0]['geometry']['location']
+        lats.append(location['lat'])
+        lngs.append(location['lng'])
+    except:
+        print(type(e))
+        print(e)
+        lats.append(None)
+        lngs.append(None)
+        return None
+
+    return geocode_result[0]
+
+def get_municipal_district(address):
+    """ Gets the district from the address. 
+    
+    Worth to mention:
+    -it's not always in the address.  
+    -scans through string looking for the first location of Praha 'number'   
+    """
+    if address is not None:
+        municipal_district = re.search('Praha\s(\d+)', address) 
+        return municipal_district.group(1) if municipal_district is not None else None
+    return None
+
+def create_dataset(names, urls, ratings, number_of_ratings, addresses, lats, lngs, municipal_districts, delivery_fees):
     final_dict = {}
-    final_dict['restaurant_names'] = names
-    final_dict['urls'] = urls
-    final_dict['ratings'] = ratings
+    final_dict['restaurant_name'] = names
+    final_dict['url'] = urls
+    final_dict['rating'] = ratings
     final_dict['number_of_ratings'] = number_of_ratings
+    final_dict['full_address'] = addresses
+    final_dict['lat'] = lats
+    final_dict['lng'] = lngs
+    final_dict['prague_municipal_district'] = municipal_districts
+    final_dict['delivery_fee'] = delivery_fees
     df = pd.DataFrame(data=final_dict)
     return df
 
-def main():    
-    refs = get_the_restaurant_refs()
-    names = [ref.strip('/') for ref in refs]
-    urls = ['https://www.damejidlo.cz' + ref for ref in refs]
-    ratings = [get_rating(ref) for ref in refs]
-    number_of_ratings = [get_number_of_ratings(ref) for ref in refs]
-    delivery_fees = [get_delivery_fee(ref) for ref in refs]
-
-    dataframe = create_dataset(names, urls, ratings, number_of_ratings)
-    dataframe.index.name = 'id'
-    
+def export_dataset(dataframe):
     dir_path = os.path.dirname(os.path.realpath(__file__))
-
     csv_file = dataframe.to_csv(os.path.join(dir_path, 'dame_jidlo_prague.csv'), encoding='utf-8')
     out = dataframe.to_json(orient='records')
     with open(os.path.join(dir_path, 'dame_jidlo_prague.json'), 'w') as json_file:
         json_file.write(out)
+
+def save_geocoding_responses(names, geocoding_dicts):
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    for i in range(len(names)):
+        with open(os.path.join(dir_path, 'geocoding_jsons/%s.json' % (names[i])), 'w') as geocoding_file:
+            json.dump(geocoding_dicts[i], geocoding_file, ensure_ascii=False, indent=2)
+
+def main():    
+    refs = get_the_restaurant_refs()
+
+    lats, lngs, addresses = [], [], []
+    geocoding_dicts = [fill_lat_long_and_return_geocoding_response(ref, addresses, lats, lngs) for ref in refs]
+    urls = ['https://www.damejidlo.cz' + ref for ref in refs]
+    names = [ref.strip('/') for ref in refs]
+    ratings = [get_rating(ref) for ref in refs]
+    number_of_ratings = [get_number_of_ratings(ref) for ref in refs]
+    delivery_fees = [get_delivery_fee(ref) for ref in refs]
+    prague_municipal_districts = [get_municipal_district(address) for address in addresses]
+
+    print (len(refs))
+    print ("__________________________________________________")
+    print (len(names))
+    print ("__________________________________________________")
+    print (len(urls))
+    print ("__________________________________________________")
+    print (len(ratings))
+    print ("__________________________________________________")
+    print (len(number_of_ratings))
+    print ("__________________________________________________")
+    print (len(delivery_fees))
+    print ("__________________________________________________")
+    print (len(addresses))
+    print (addresses)
+    print ("__________________________________________________")
+    print (len(geocoding_dicts))
+    print ("__________________________________________________")
+    print (len(prague_municipal_districts))
+
+    dataframe = create_dataset(names, urls, ratings, number_of_ratings, addresses, lats, lngs, prague_municipal_districts, delivery_fees)
+    dataframe.index.name = 'id'
+    dataframe = dataframe[['restaurant_name', 'rating', 'number_of_ratings', 'delivery_fee', 'full_address', 'lat', 'lng', 'prague_municipal_district', 'url']]
+
+    export_dataset(dataframe)
+    save_geocoding_responses(names, geocoding_dicts)
 
 
 if __name__ == "__main__":
