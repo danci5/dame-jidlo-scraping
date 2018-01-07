@@ -1,0 +1,88 @@
+{
+  "place_id": "EjNSeXTDrcWZc2vDoSAzLCAxMTAgMDAgUHJhaGEgMS1TdGFyw6kgTcSbc3RvLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4220592802915,
+        "lat": 50.0854259802915
+      },
+      "southwest": {
+        "lng": 14.4193613197085,
+        "lat": 50.0827280197085
+      }
+    },
+    "location": {
+      "lng": 14.4207103,
+      "lat": 50.084077
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "Rytířská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Rytířská"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Rytířská 3, 110 00 Praha 1-Staré Město, Czechia"
+}

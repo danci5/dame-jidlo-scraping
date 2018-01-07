@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJJ_CmpU6UC0cRqCXyZ7veexQ",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3954558802915,
+        "lat": 50.0602460802915
+      },
+      "southwest": {
+        "lng": 14.3927579197085,
+        "lat": 50.0575481197085
+      }
+    },
+    "location": {
+      "lng": 14.3941069,
+      "lat": 50.0588971
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "25",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "25"
+    },
+    {
+      "long_name": "104",
+      "types": [
+        "premise"
+      ],
+      "short_name": "104"
+    },
+    {
+      "long_name": "Pechlátova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Pechlátova"
+    },
+    {
+      "long_name": "Radlice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Radlice"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Pechlátova 104/25, 150 00 Praha 5-Radlice, Czechia"
+}

@@ -1,0 +1,88 @@
+{
+  "place_id": "Ei1OYSBCxJtsaWRsZSAzOCwgMTUwIDAwIFByYWhhIDUtQW5kxJtsLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4065011802915,
+        "lat": 50.0730728802915
+      },
+      "southwest": {
+        "lng": 14.4038032197085,
+        "lat": 50.0703749197085
+      }
+    },
+    "location": {
+      "lng": 14.4051522,
+      "lat": 50.07172389999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "38",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "38"
+    },
+    {
+      "long_name": "Na Bělidle",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Bělidle"
+    },
+    {
+      "long_name": "Anděl",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Anděl"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Na Bělidle 38, 150 00 Praha 5-Anděl, Czechia"
+}

@@ -1,0 +1,98 @@
+{
+  "place_id": "ChIJzfFBH-uUC0cR0V-FQd40_38",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4308289802915,
+        "lat": 50.09078998029151
+      },
+      "southwest": {
+        "lng": 14.4281310197085,
+        "lat": 50.08809201970851
+      }
+    },
+    "location": {
+      "lng": 14.42948,
+      "lat": 50.08944100000001
+    }
+  },
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "shopping_mall"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "náměstí Republiky",
+      "types": [
+        "route"
+      ],
+      "short_name": "nám. Republiky"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Petrská čtvrť",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Petrská čtvrť"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "nám. Republiky 1, Nové Město, 110 00 Praha 1-Petrská čtvrť, Czechia"
+}

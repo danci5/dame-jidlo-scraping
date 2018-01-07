@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJobJl-_KUC0cRLC-Nj3pfPiY",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4240642802915,
+        "lat": 50.07991218029149
+      },
+      "southwest": {
+        "lng": 14.4213663197085,
+        "lat": 50.07721421970849
+      }
+    },
+    "location": {
+      "lng": 14.4227153,
+      "lat": 50.0785632
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "9",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "9"
+    },
+    {
+      "long_name": "1632",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1632"
+    },
+    {
+      "long_name": "Příčná",
+      "types": [
+        "route"
+      ],
+      "short_name": "Příčná"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Příčná 1632/9, Nové Město, 110 00 Praha-Praha 1, Czechia"
+}

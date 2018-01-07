@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ7X2YQ4GUC0cRBnCe6hKCWdU",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4469739802915,
+        "lat": 50.0730863802915
+      },
+      "southwest": {
+        "lng": 14.4442760197085,
+        "lat": 50.0703884197085
+      }
+    },
+    "location": {
+      "lng": 14.445625,
+      "lat": 50.0717374
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "19",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "19"
+    },
+    {
+      "long_name": "564",
+      "types": [
+        "premise"
+      ],
+      "short_name": "564"
+    },
+    {
+      "long_name": "Voroněžská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Voroněžská"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 10",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 10"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "101 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "101 00"
+    }
+  ],
+  "formatted_address": "Voroněžská 564/19, 101 00 Praha 10-Vinohrady, Czechia"
+}

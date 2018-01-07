@@ -1,0 +1,80 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5724786802915,
+        "lat": 50.0086971802915
+      },
+      "southwest": {
+        "lng": 14.5697807197085,
+        "lat": 50.0059992197085
+      }
+    },
+    "location": {
+      "lng": 14.5711297,
+      "lat": 50.0073482
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "138",
+      "types": [
+        "premise"
+      ],
+      "short_name": "138"
+    },
+    {
+      "long_name": "Pražská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Pražská"
+    },
+    {
+      "long_name": "Čestlice",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Čestlice"
+    },
+    {
+      "long_name": "Praha-východ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Praha-východ"
+    },
+    {
+      "long_name": "Středočeský kraj",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Středočeský kraj"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "251 01",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "251 01"
+    }
+  ],
+  "formatted_address": "Pražská 138, 251 01 Čestlice, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJKbzr0HWOC0cRMTaL1rVJNIw",
+  "partial_match": true
+}

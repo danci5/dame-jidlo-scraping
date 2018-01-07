@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4527048802915,
+        "lat": 50.1288528802915
+      },
+      "southwest": {
+        "lng": 14.4500069197085,
+        "lat": 50.1261549197085
+      }
+    },
+    "location": {
+      "lng": 14.4513559,
+      "lat": 50.1275039
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "1065",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1065"
+    },
+    {
+      "long_name": "Trousilova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Trousilova"
+    },
+    {
+      "long_name": "Kobylisy",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Kobylisy"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "182 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "182 00"
+    }
+  ],
+  "formatted_address": "Trousilova 1065/6, 182 00 Praha 8-Kobylisy, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJ5TVweEDrC0cR8cVpJkQpVq8",
+  "partial_match": true
+}

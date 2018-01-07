@@ -1,0 +1,84 @@
+{
+  "place_id": "ChIJJ-Sv-quSC0cR3PCNiJgLqig",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5727919802915,
+        "lat": 50.09001098029151
+      },
+      "southwest": {
+        "lng": 14.5700940197085,
+        "lat": 50.08731301970851
+      }
+    },
+    "location": {
+      "lng": 14.571443,
+      "lat": 50.08866200000001
+    }
+  },
+  "types": [
+    "establishment",
+    "food",
+    "lodging",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "address_components": [
+    {
+      "long_name": "284/284",
+      "types": [
+        "premise"
+      ],
+      "short_name": "284/284"
+    },
+    {
+      "long_name": "Novozámecká",
+      "types": [
+        "route"
+      ],
+      "short_name": "Novozámecká"
+    },
+    {
+      "long_name": "Praha-Dolní Počernice",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Dolní Počernice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 12",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 12"
+    }
+  ],
+  "formatted_address": "Novozámecká 284/284, 190 12 Praha-Dolní Počernice, Czechia"
+}

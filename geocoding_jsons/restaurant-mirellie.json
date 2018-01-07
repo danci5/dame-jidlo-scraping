@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJHUJFqyaVC0cR_Yzn31NDV-I",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4016207802915,
+        "lat": 50.1007064802915
+      },
+      "southwest": {
+        "lng": 14.3989228197085,
+        "lat": 50.0980085197085
+      }
+    },
+    "location": {
+      "lng": 14.4002718,
+      "lat": 50.0993575
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "14",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "14"
+    },
+    {
+      "long_name": "502",
+      "types": [
+        "premise"
+      ],
+      "short_name": "502"
+    },
+    {
+      "long_name": "Valerije Pavloviče Čkalova",
+      "types": [
+        "route"
+      ],
+      "short_name": "V. P. Čkalova"
+    },
+    {
+      "long_name": "Bubeneč",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Bubeneč"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "V. P. Čkalova 502/14, 160 00 Praha 6-Bubeneč, Czechia"
+}

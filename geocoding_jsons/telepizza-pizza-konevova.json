@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJx9PI3zmTC0cRDGfCMasaxkc",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4983264802915,
+        "lat": 50.09351538029149
+      },
+      "southwest": {
+        "lng": 14.4956285197085,
+        "lat": 50.09081741970849
+      }
+    },
+    "location": {
+      "lng": 14.4969775,
+      "lat": 50.0921664
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "251",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "251"
+    },
+    {
+      "long_name": "2175",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2175"
+    },
+    {
+      "long_name": "Koněvova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Koněvova"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Koněvova 2175/251, 130 00 Praha 3-Žižkov, Czechia"
+}

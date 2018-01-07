@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4790602802915,
+        "lat": 50.0370602802915
+      },
+      "southwest": {
+        "lng": 14.4763623197085,
+        "lat": 50.0343623197085
+      }
+    },
+    "location": {
+      "lng": 14.4777113,
+      "lat": 50.0357113
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "8",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "2298",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2298"
+    },
+    {
+      "long_name": "Gregorova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Gregorova"
+    },
+    {
+      "long_name": "Chodov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Chodov"
+    },
+    {
+      "long_name": "Praha 11",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 11"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "148 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "148 00"
+    }
+  ],
+  "formatted_address": "Gregorova 2298/8, 148 00 Praha 11-Chodov, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJhfkuaM-TC0cRAzx1iJKZGXU",
+  "partial_match": true
+}

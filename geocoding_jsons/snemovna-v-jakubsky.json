@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJZx0nUuqUC0cRrFvb8EoIzxg",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4277714802915,
+        "lat": 50.08979968029149
+      },
+      "southwest": {
+        "lng": 14.4250735197085,
+        "lat": 50.0871017197085
+      }
+    },
+    "location": {
+      "lng": 14.4264225,
+      "lat": 50.0884507
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "674",
+      "types": [
+        "premise"
+      ],
+      "short_name": "674"
+    },
+    {
+      "long_name": "Jakubská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Jakubská"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Jakubská 674/5, Staré Město, 110 00 Praha-Praha 1, Czechia"
+}

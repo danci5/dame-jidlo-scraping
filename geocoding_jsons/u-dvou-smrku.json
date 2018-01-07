@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ8druXSrtC0cRay6boxFCAOM",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5293175802915,
+        "lat": 50.1032013802915
+      },
+      "southwest": {
+        "lng": 14.5266196197085,
+        "lat": 50.1005034197085
+      }
+    },
+    "location": {
+      "lng": 14.5279686,
+      "lat": 50.1018524
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "600",
+      "types": [
+        "premise"
+      ],
+      "short_name": "600"
+    },
+    {
+      "long_name": "Nademlejnská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Nademlejnská"
+    },
+    {
+      "long_name": "Hloubětín",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Hloubětín"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "198 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "198 00"
+    }
+  ],
+  "formatted_address": "Nademlejnská 600/1, 198 00 Praha 9-Hloubětín, Czechia"
+}

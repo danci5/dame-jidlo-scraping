@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4062961802915,
+        "lat": 50.0878426802915
+      },
+      "southwest": {
+        "lng": 14.4035982197085,
+        "lat": 50.0851447197085
+      }
+    },
+    "location": {
+      "lng": 14.4049472,
+      "lat": 50.0864937
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "9",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "9"
+    },
+    {
+      "long_name": "293",
+      "types": [
+        "premise"
+      ],
+      "short_name": "293"
+    },
+    {
+      "long_name": "Maltézské náměstí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Maltézské nám."
+    },
+    {
+      "long_name": "Malá Strana",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Malá Strana"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "118 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "118 00"
+    }
+  ],
+  "formatted_address": "Maltézské nám. 293/9, Malá Strana, 118 00 Praha-Praha 1, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJrcbrsOOUC0cRBYcJPDGSbds",
+  "partial_match": true
+}

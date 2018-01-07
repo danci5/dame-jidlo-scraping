@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJH0VbTfCUC0cR6ybIF03-atI",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4165847802915,
+        "lat": 50.0811019802915
+      },
+      "southwest": {
+        "lng": 14.4138868197085,
+        "lat": 50.0784040197085
+      }
+    },
+    "location": {
+      "lng": 14.4152358,
+      "lat": 50.079753
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "29",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "29"
+    },
+    {
+      "long_name": "220",
+      "types": [
+        "premise"
+      ],
+      "short_name": "220"
+    },
+    {
+      "long_name": "Pštrossova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Pštrossova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Pštrossova 220/29, Nové Město, 110 00 Praha-Praha 1, Czechia"
+}

@@ -1,0 +1,88 @@
+{
+  "place_id": "EjBWIENlbG5pY2kgNCwgMTEwIDAwIFByYWhhIDEtTm92w6kgTcSbc3RvLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4319991802915,
+        "lat": 50.0893992802915
+      },
+      "southwest": {
+        "lng": 14.4293012197085,
+        "lat": 50.0867013197085
+      }
+    },
+    "location": {
+      "lng": 14.4306502,
+      "lat": 50.0880503
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "4",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "4"
+    },
+    {
+      "long_name": "V Celnici",
+      "types": [
+        "route"
+      ],
+      "short_name": "V Celnici"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "V Celnici 4, 110 00 Praha 1-Nové Město, Czechia"
+}

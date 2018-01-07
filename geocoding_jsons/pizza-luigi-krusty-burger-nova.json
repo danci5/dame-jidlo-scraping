@@ -1,0 +1,79 @@
+{
+  "place_id": "EipQcsWvYsSbxb5uw6EgNDIsIDEwMCAwMCBTdHJhxaFuaWNlLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4945407802915,
+        "lat": 50.0689643802915
+      },
+      "southwest": {
+        "lng": 14.4918428197085,
+        "lat": 50.0662664197085
+      }
+    },
+    "location": {
+      "lng": 14.4931918,
+      "lat": 50.0676154
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "42",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "42"
+    },
+    {
+      "long_name": "Průběžná",
+      "types": [
+        "route"
+      ],
+      "short_name": "Průběžná"
+    },
+    {
+      "long_name": "Strašnice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Strašnice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "100 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "100 00"
+    }
+  ],
+  "formatted_address": "Průběžná 42, 100 00 Strašnice, Czechia"
+}

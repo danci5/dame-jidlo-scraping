@@ -1,0 +1,94 @@
+{
+  "place_id": "ChIJzYw_P1GUC0cR9XTD8tp1Ep0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4009108802915,
+        "lat": 50.0682755802915
+      },
+      "southwest": {
+        "lng": 14.3982129197085,
+        "lat": 50.0655776197085
+      }
+    },
+    "location": {
+      "lng": 14.3995619,
+      "lat": 50.0669266
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "8",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "835",
+      "types": [
+        "premise"
+      ],
+      "short_name": "835"
+    },
+    {
+      "long_name": "U Santošky",
+      "types": [
+        "route"
+      ],
+      "short_name": "U Santošky"
+    },
+    {
+      "long_name": "Smíchov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Smíchov"
+    },
+    {
+      "long_name": "Praha",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "U Santošky 835/8, 150 00 Praha-Smíchov, Czechia"
+}

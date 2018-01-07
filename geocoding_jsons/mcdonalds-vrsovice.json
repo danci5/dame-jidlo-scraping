@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJgWR2onaTC0cR6_cfHMloiHo",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4720746802915,
+        "lat": 50.06911478029149
+      },
+      "southwest": {
+        "lng": 14.4693767197085,
+        "lat": 50.0664168197085
+      }
+    },
+    "location": {
+      "lng": 14.4707257,
+      "lat": 50.0677658
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2a",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2a"
+    },
+    {
+      "long_name": "1540",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1540"
+    },
+    {
+      "long_name": "U Slavie",
+      "types": [
+        "route"
+      ],
+      "short_name": "U Slavie"
+    },
+    {
+      "long_name": "Vršovice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vršovice"
+    },
+    {
+      "long_name": "Praha 10",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 10"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "100 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "100 00"
+    }
+  ],
+  "formatted_address": "U Slavie 1540/2a, 100 00 Praha 10-Vršovice, Czechia"
+}

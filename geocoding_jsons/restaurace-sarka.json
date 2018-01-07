@@ -1,0 +1,102 @@
+{
+  "place_id": "ChIJ31p_m96_C0cRUCMhXBCvAB0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3377442802915,
+        "lat": 50.1001517802915
+      },
+      "southwest": {
+        "lng": 14.3350463197085,
+        "lat": 50.09745381970851
+      }
+    },
+    "location": {
+      "lng": 14.3363953,
+      "lat": 50.0988028
+    }
+  },
+  "types": [
+    "campground",
+    "establishment",
+    "lodging",
+    "park",
+    "point_of_interest"
+  ],
+  "address_components": [
+    {
+      "long_name": "Camping Prague Džbán",
+      "types": [
+        "campground",
+        "establishment",
+        "lodging",
+        "park",
+        "point_of_interest"
+      ],
+      "short_name": "Camping Prague Džbán"
+    },
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "672",
+      "types": [
+        "premise"
+      ],
+      "short_name": "672"
+    },
+    {
+      "long_name": "Nad Lávkou",
+      "types": [
+        "route"
+      ],
+      "short_name": "Nad Lávkou"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Camping Prague Džbán, Nad Lávkou 672/5, 160 00 Praha 6, Czechia"
+}

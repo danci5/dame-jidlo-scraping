@@ -1,0 +1,88 @@
+{
+  "place_id": "EjBOYSBQb8WZw63EjcOtIDM2LCAxMTAgMDAgUHJhaGEgMS1GbG9yZW5jLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4365648802915,
+        "lat": 50.0913888802915
+      },
+      "southwest": {
+        "lng": 14.4338669197085,
+        "lat": 50.0886909197085
+      }
+    },
+    "location": {
+      "lng": 14.4352159,
+      "lat": 50.0900399
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "36",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "36"
+    },
+    {
+      "long_name": "Na Poříčí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Poříčí"
+    },
+    {
+      "long_name": "Florenc",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Florenc"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Na Poříčí 36, 110 00 Praha 1-Florenc, Czechia"
+}

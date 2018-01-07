@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ89_t0IaUC0cRKbk14tAD0UM",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4442012802915,
+        "lat": 50.0721114802915
+      },
+      "southwest": {
+        "lng": 14.4415033197085,
+        "lat": 50.0694135197085
+      }
+    },
+    "location": {
+      "lng": 14.4428523,
+      "lat": 50.0707625
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "12",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "12"
+    },
+    {
+      "long_name": "1427",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1427"
+    },
+    {
+      "long_name": "Šmilovského",
+      "types": [
+        "route"
+      ],
+      "short_name": "Šmilovského"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Šmilovského 1427/12, 120 00 Praha 2-Vinohrady, Czechia"
+}

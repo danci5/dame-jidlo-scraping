@@ -1,0 +1,86 @@
+{
+  "place_id": "ChIJuziWhP6SC0cRurrw8j1J-tg",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5119252802915,
+        "lat": 50.06529988029151
+      },
+      "southwest": {
+        "lng": 14.5092273197085,
+        "lat": 50.06260191970851
+      }
+    },
+    "location": {
+      "lng": 14.5105763,
+      "lat": 50.0639509
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "38",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "38"
+    },
+    {
+      "long_name": "1581",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1581"
+    },
+    {
+      "long_name": "Konojedská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Konojedská"
+    },
+    {
+      "long_name": "Strašnice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Strašnice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "100 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "100 00"
+    }
+  ],
+  "formatted_address": "Konojedská 1581/38, 100 00 Praha-Strašnice, Czechia"
+}

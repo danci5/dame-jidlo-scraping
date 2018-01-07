@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJl6MpgCSVC0cR7CfHadvF6NY",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3976114802915,
+        "lat": 50.1011766802915
+      },
+      "southwest": {
+        "lng": 14.3949135197085,
+        "lat": 50.0984787197085
+      }
+    },
+    "location": {
+      "lng": 14.3962625,
+      "lat": 50.0998277
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "576",
+      "types": [
+        "premise"
+      ],
+      "short_name": "576"
+    },
+    {
+      "long_name": "Vítězné náměstí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vítězné nám."
+    },
+    {
+      "long_name": "Dejvice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Dejvice"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Vítězné nám. 576/1, 160 00 Praha 6-Dejvice, Czechia"
+}

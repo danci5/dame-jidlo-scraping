@@ -1,0 +1,83 @@
+{
+  "place_id": "ChIJm8krwaeSC0cRgiVLqmhIUn4",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5831771802915,
+        "lat": 50.08956858029149
+      },
+      "southwest": {
+        "lng": 14.5804792197085,
+        "lat": 50.08687061970849
+      }
+    },
+    "location": {
+      "lng": 14.5818282,
+      "lat": 50.0882196
+    }
+  },
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "Národních hrdinů",
+      "types": [
+        "route"
+      ],
+      "short_name": "Nár. hrdinů"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 12",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 12"
+    }
+  ],
+  "formatted_address": "Nár. hrdinů 3, 190 12 Praha 9, Czechia"
+}

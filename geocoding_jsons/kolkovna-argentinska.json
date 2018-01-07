@@ -1,0 +1,83 @@
+{
+  "place_id": "ChIJ2d5HK7eUC0cRAkSCKUm7Cnc",
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.4451567,
+        "lat": 50.1017842
+      },
+      "southwest": {
+        "lng": 14.4448298,
+        "lat": 50.1008011
+      }
+    },
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4463422302915,
+        "lat": 50.10264163029149
+      },
+      "southwest": {
+        "lng": 14.44364426970849,
+        "lat": 50.09994366970849
+      }
+    },
+    "location": {
+      "lng": 14.4448528,
+      "lat": 50.101254
+    }
+  },
+  "types": [
+    "route"
+  ],
+  "address_components": [
+    {
+      "long_name": "U Garáží",
+      "types": [
+        "route"
+      ],
+      "short_name": "U Garáží"
+    },
+    {
+      "long_name": "Praha 7",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 7"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "170 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "170 00"
+    }
+  ],
+  "formatted_address": "U Garáží, 170 00 Praha 7, Czechia"
+}

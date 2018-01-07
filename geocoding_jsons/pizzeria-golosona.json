@@ -1,0 +1,81 @@
+{
+  "place_id": "ChIJgf8l9JSSC0cRd82uO8iuoh0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5437589802915,
+        "lat": 50.0739469802915
+      },
+      "southwest": {
+        "lng": 14.5410610197085,
+        "lat": 50.0712490197085
+      }
+    },
+    "location": {
+      "lng": 14.54241,
+      "lat": 50.072598
+    }
+  },
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "address_components": [
+    {
+      "long_name": "389/3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "389/3"
+    },
+    {
+      "long_name": "Nákupní",
+      "types": [
+        "route"
+      ],
+      "short_name": "Nákupní"
+    },
+    {
+      "long_name": "Praha-Štěrboholy",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Štěrboholy"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "10200",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "10200"
+    }
+  ],
+  "formatted_address": "Nákupní 389/3, 10200 Praha-Štěrboholy, Czechia"
+}

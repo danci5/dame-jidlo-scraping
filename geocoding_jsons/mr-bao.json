@@ -1,0 +1,94 @@
+{
+  "place_id": "ChIJIbZioVeUC0cRIEt3MBz4HXI",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4059053802915,
+        "lat": 50.0716039802915
+      },
+      "southwest": {
+        "lng": 14.4032074197085,
+        "lat": 50.0689060197085
+      }
+    },
+    "location": {
+      "lng": 14.4045564,
+      "lat": 50.070255
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "2246",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2246"
+    },
+    {
+      "long_name": "Bozděchova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Bozděchova"
+    },
+    {
+      "long_name": "Smíchov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Smíchov"
+    },
+    {
+      "long_name": "Praha",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Bozděchova 2246/3, 150 00 Praha-Smíchov, Czechia"
+}

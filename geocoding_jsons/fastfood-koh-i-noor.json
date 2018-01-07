@@ -1,0 +1,77 @@
+{
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.4774703,
+        "lat": 50.0710404
+      },
+      "southwest": {
+        "lng": 14.4622486,
+        "lat": 50.067804
+      }
+    },
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4774703,
+        "lat": 50.0710404
+      },
+      "southwest": {
+        "lng": 14.4622486,
+        "lat": 50.067804
+      }
+    },
+    "location": {
+      "lng": 14.4700117,
+      "lat": 50.069457
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "Vršovická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vršovická"
+    },
+    {
+      "long_name": "Praha 10",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 10"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    }
+  ],
+  "formatted_address": "Vršovická, Praha 10, Czechia",
+  "types": [
+    "route"
+  ],
+  "place_id": "Eh1WcsWhb3ZpY2vDoSwgUHJhaGEgMTAsIMSMZXNrbw",
+  "partial_match": true
+}

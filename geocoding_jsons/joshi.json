@@ -1,0 +1,81 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3496612802915,
+        "lat": 50.0524970802915
+      },
+      "southwest": {
+        "lng": 14.3469633197085,
+        "lat": 50.0497991197085
+      }
+    },
+    "location": {
+      "lng": 14.3483123,
+      "lat": 50.0511481
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "2835",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2835"
+    },
+    {
+      "long_name": "Petržílkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Petržílkova"
+    },
+    {
+      "long_name": "Praha 13",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 13"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "158 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "158 00"
+    }
+  ],
+  "formatted_address": "Petržílkova 2835, 158 00 Praha 13, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJS4GhBOmVC0cRhE4nhX1rRk8",
+  "partial_match": true
+}

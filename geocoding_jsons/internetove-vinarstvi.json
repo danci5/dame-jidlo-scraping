@@ -1,0 +1,99 @@
+{
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.6159476,
+        "lat": 50.0002051
+      },
+      "southwest": {
+        "lng": 14.6157646,
+        "lat": 50.00010529999999
+      }
+    },
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.6172050802915,
+        "lat": 50.00150418029149
+      },
+      "southwest": {
+        "lng": 14.6145071197085,
+        "lat": 49.99880621970849
+      }
+    },
+    "location": {
+      "lng": 14.6158561,
+      "lat": 50.0001552
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "37",
+      "types": [
+        "premise"
+      ],
+      "short_name": "37"
+    },
+    {
+      "long_name": "Do Kopečka",
+      "types": [
+        "route"
+      ],
+      "short_name": "Do Kopečka"
+    },
+    {
+      "long_name": "Lipany",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Lipany"
+    },
+    {
+      "long_name": "Praha-Kolovraty",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Kolovraty"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "103 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "103 00"
+    }
+  ],
+  "formatted_address": "Do Kopečka 37, 103 00 Praha-Kolovraty-Lipany, Czechia",
+  "types": [
+    "premise"
+  ],
+  "place_id": "ChIJI3y1HZ-OC0cREvj_-6kg0nU",
+  "partial_match": true
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJJfr60iaVC0cRebPWLbi9fRc",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4040464802915,
+        "lat": 50.10048698029149
+      },
+      "southwest": {
+        "lng": 14.4013485197085,
+        "lat": 50.09778901970849
+      }
+    },
+    "location": {
+      "lng": 14.4026975,
+      "lat": 50.099138
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "20",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "20"
+    },
+    {
+      "long_name": "246",
+      "types": [
+        "premise"
+      ],
+      "short_name": "246"
+    },
+    {
+      "long_name": "Jaselská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Jaselská"
+    },
+    {
+      "long_name": "Bubeneč",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Bubeneč"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Jaselská 246/20, 160 00 Praha 6-Bubeneč, Czechia"
+}

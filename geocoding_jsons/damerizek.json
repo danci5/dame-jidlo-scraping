@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJFe1mbHmUC0cRAbs-Ww_YxMo",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4414795802915,
+        "lat": 50.0624384802915
+      },
+      "southwest": {
+        "lng": 14.4387816197085,
+        "lat": 50.05974051970851
+      }
+    },
+    "location": {
+      "lng": 14.4401306,
+      "lat": 50.0610895
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "800",
+      "types": [
+        "premise"
+      ],
+      "short_name": "800"
+    },
+    {
+      "long_name": "Na Květnici",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Květnici"
+    },
+    {
+      "long_name": "Nusle",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nusle"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "140 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "140 00"
+    }
+  ],
+  "formatted_address": "Na Květnici 800/1, 140 00 Praha 4-Nusle, Czechia"
+}

@@ -1,0 +1,103 @@
+{
+  "place_id": "ChIJGb7qg_uUC0cRt5u6Y8Knodk",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4064111802915,
+        "lat": 50.08144508029149
+      },
+      "southwest": {
+        "lng": 14.4037132197085,
+        "lat": 50.0787471197085
+      }
+    },
+    "location": {
+      "lng": 14.4050622,
+      "lat": 50.0800961
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "12",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "12"
+    },
+    {
+      "long_name": "583",
+      "types": [
+        "premise"
+      ],
+      "short_name": "583"
+    },
+    {
+      "long_name": "Mělnická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Mělnická"
+    },
+    {
+      "long_name": "Malá Strana",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Malá Strana"
+    },
+    {
+      "long_name": "Smíchov",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Smíchov"
+    },
+    {
+      "long_name": "Praha",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Mělnická 583/12, Malá Strana, 150 00 Praha-Smíchov, Czechia"
+}

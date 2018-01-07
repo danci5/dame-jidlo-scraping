@@ -1,0 +1,88 @@
+{
+  "place_id": "EjBOZXJ1ZG92YSAzMiwgMTE4IDAwIFByYWhhIDEtTWFsw6EgU3RyYW5hLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3998374802915,
+        "lat": 50.0898388802915
+      },
+      "southwest": {
+        "lng": 14.3971395197085,
+        "lat": 50.0871409197085
+      }
+    },
+    "location": {
+      "lng": 14.3984885,
+      "lat": 50.0884899
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "32",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "32"
+    },
+    {
+      "long_name": "Nerudova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Nerudova"
+    },
+    {
+      "long_name": "Malá Strana",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Malá Strana"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "118 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "118 00"
+    }
+  ],
+  "formatted_address": "Nerudova 32, 118 00 Praha 1-Malá Strana, Czechia"
+}

@@ -1,0 +1,87 @@
+{
+  "place_id": "ChIJ8YAT0qGUC0cRSb_EcNTOf6k",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4587768802915,
+        "lat": 50.0842038802915
+      },
+      "southwest": {
+        "lng": 14.4560789197085,
+        "lat": 50.0815059197085
+      }
+    },
+    "location": {
+      "lng": 14.4574279,
+      "lat": 50.0828549
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "23",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "23"
+    },
+    {
+      "long_name": "1000",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1000"
+    },
+    {
+      "long_name": "Táboritská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Táboritská"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Táboritská 1000/23, 130 00 Praha 3, Czechia"
+}

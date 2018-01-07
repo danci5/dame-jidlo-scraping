@@ -1,0 +1,98 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4127839802915,
+        "lat": 50.10070218029149
+      },
+      "southwest": {
+        "lng": 14.4100860197085,
+        "lat": 50.09800421970849
+      }
+    },
+    "location": {
+      "lng": 14.411435,
+      "lat": 50.0993532
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "4",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "4"
+    },
+    {
+      "long_name": "623",
+      "types": [
+        "premise"
+      ],
+      "short_name": "623"
+    },
+    {
+      "long_name": "U Vorlíků",
+      "types": [
+        "route"
+      ],
+      "short_name": "U Vorlíků"
+    },
+    {
+      "long_name": "Bubeneč",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Bubeneč"
+    },
+    {
+      "long_name": "Praha",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "U Vorlíků 623/4, 160 00 Praha-Bubeneč, Czechia",
+  "types": [
+    "embassy",
+    "establishment",
+    "point_of_interest"
+  ],
+  "place_id": "ChIJ6TvcGNmUC0cRds2rSGXulPs",
+  "partial_match": true
+}

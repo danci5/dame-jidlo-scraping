@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJQyT1sWOTC0cRzAj4S8DaM1A",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4609828802915,
+        "lat": 50.0807627802915
+      },
+      "southwest": {
+        "lng": 14.4582849197085,
+        "lat": 50.0780648197085
+      }
+    },
+    "location": {
+      "lng": 14.4596339,
+      "lat": 50.0794138
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "46",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "46"
+    },
+    {
+      "long_name": "1644",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1644"
+    },
+    {
+      "long_name": "Lucemburská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Lucemburská"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Lucemburská 1644/46, 130 00 Praha 3-Žižkov, Czechia"
+}

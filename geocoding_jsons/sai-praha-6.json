@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ8XA2LAyVC0cROfPodDXCr-k",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3777402802915,
+        "lat": 50.0850593802915
+      },
+      "southwest": {
+        "lng": 14.3750423197085,
+        "lat": 50.0823614197085
+      }
+    },
+    "location": {
+      "lng": 14.3763913,
+      "lat": 50.0837104
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "14",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "14"
+    },
+    {
+      "long_name": "405",
+      "types": [
+        "premise"
+      ],
+      "short_name": "405"
+    },
+    {
+      "long_name": "Liborova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Liborova"
+    },
+    {
+      "long_name": "Břevnov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Břevnov"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "169 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "169 00"
+    }
+  ],
+  "formatted_address": "Liborova 405/14, 169 00 Praha 6-Břevnov, Czechia"
+}

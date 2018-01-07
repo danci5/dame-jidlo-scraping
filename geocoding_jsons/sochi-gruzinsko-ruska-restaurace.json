@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5575271802915,
+        "lat": 50.1070004802915
+      },
+      "southwest": {
+        "lng": 14.5548292197085,
+        "lat": 50.1043025197085
+      }
+    },
+    "location": {
+      "lng": 14.5561782,
+      "lat": 50.1056515
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "329",
+      "types": [
+        "premise"
+      ],
+      "short_name": "329"
+    },
+    {
+      "long_name": "Vajgarská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vajgarská"
+    },
+    {
+      "long_name": "Kyje",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Kyje"
+    },
+    {
+      "long_name": "Praha 14",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 14"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "198 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "198 00"
+    }
+  ],
+  "formatted_address": "Vajgarská 329/1, 198 00 Praha 14-Kyje, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJx31s9jftC0cR-Fjteg8y7LY",
+  "partial_match": true
+}

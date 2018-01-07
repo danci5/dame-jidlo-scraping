@@ -1,0 +1,88 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4870582802915,
+        "lat": 50.0156522802915
+      },
+      "southwest": {
+        "lng": 14.4843603197085,
+        "lat": 50.0129543197085
+      }
+    },
+    "location": {
+      "lng": 14.4857093,
+      "lat": 50.01430329999999
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "70",
+      "types": [
+        "premise"
+      ],
+      "short_name": "70"
+    },
+    {
+      "long_name": "K Verneráku",
+      "types": [
+        "route"
+      ],
+      "short_name": "K Verneráku"
+    },
+    {
+      "long_name": "Praha-Kunratice",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Kunratice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "148 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "148 00"
+    }
+  ],
+  "formatted_address": "K Verneráku 70/1, 148 00 Praha-Kunratice, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJATNb6IORC0cRls7RVz-PjE8",
+  "partial_match": true
+}

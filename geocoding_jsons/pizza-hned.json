@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJGbJLqXiUC0cRje0Ljd0fZ3s",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4471181802915,
+        "lat": 50.06303148029149
+      },
+      "southwest": {
+        "lng": 14.4444202197085,
+        "lat": 50.06033351970849
+      }
+    },
+    "location": {
+      "lng": 14.4457692,
+      "lat": 50.0616825
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "51",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "51"
+    },
+    {
+      "long_name": "1680",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1680"
+    },
+    {
+      "long_name": "Svatoslavova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Svatoslavova"
+    },
+    {
+      "long_name": "Nusle",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nusle"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "140 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "140 00"
+    }
+  ],
+  "formatted_address": "Svatoslavova 1680/51, 140 00 Praha 4-Nusle, Czechia"
+}

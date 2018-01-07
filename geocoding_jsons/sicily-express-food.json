@@ -1,0 +1,88 @@
+{
+  "place_id": "EjBMYXphcnNrw6EgNSwgMTEwIDAwIFByYWhhIDEtTm92w6kgTcSbc3RvLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4222199802915,
+        "lat": 50.0806560802915
+      },
+      "southwest": {
+        "lng": 14.4195220197085,
+        "lat": 50.07795811970851
+      }
+    },
+    "location": {
+      "lng": 14.420871,
+      "lat": 50.0793071
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "Lazarská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Lazarská"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Lazarská 5, 110 00 Praha 1-Nové Město, Czechia"
+}

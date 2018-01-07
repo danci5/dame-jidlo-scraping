@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJGZCjNoyUC0cRi2YHWRL5sCE",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4319731802915,
+        "lat": 50.0781049802915
+      },
+      "southwest": {
+        "lng": 14.4292752197085,
+        "lat": 50.0754070197085
+      }
+    },
+    "location": {
+      "lng": 14.4306242,
+      "lat": 50.076756
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "76",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "76"
+    },
+    {
+      "long_name": "617",
+      "types": [
+        "premise"
+      ],
+      "short_name": "617"
+    },
+    {
+      "long_name": "Legerova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Legerova"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Legerova 617/76, 120 00 Praha 2-Vinohrady, Czechia"
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJoUHLCICTC0cRPOwHzLiSBd0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4503546802915,
+        "lat": 50.0675096802915
+      },
+      "southwest": {
+        "lng": 14.4476567197085,
+        "lat": 50.0648117197085
+      }
+    },
+    "location": {
+      "lng": 14.4490057,
+      "lat": 50.0661607
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "160",
+      "types": [
+        "premise"
+      ],
+      "short_name": "160"
+    },
+    {
+      "long_name": "Vršovická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vršovická"
+    },
+    {
+      "long_name": "Vršovice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vršovice"
+    },
+    {
+      "long_name": "Praha 10",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 10"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "101 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "101 00"
+    }
+  ],
+  "formatted_address": "Vršovická 160/1, 101 00 Praha 10-Vršovice, Czechia"
+}

@@ -1,0 +1,88 @@
+{
+  "place_id": "EjROYXZyw6F0aWxvdmEgMTAsIDExMCAwMCBQcmFoYSAxLU5vdsOpIE3Em3N0bywgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4246781802915,
+        "lat": 50.0799512802915
+      },
+      "southwest": {
+        "lng": 14.4219802197085,
+        "lat": 50.0772533197085
+      }
+    },
+    "location": {
+      "lng": 14.4233292,
+      "lat": 50.0786023
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "10",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "10"
+    },
+    {
+      "long_name": "Navrátilova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Navrátilova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Navrátilova 10, 110 00 Praha 1-Nové Město, Czechia"
+}

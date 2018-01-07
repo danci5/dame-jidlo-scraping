@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJC0XtQ6SVC0cRcA9R6FuXUFQ",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3733323802915,
+        "lat": 50.0710423802915
+      },
+      "southwest": {
+        "lng": 14.3706344197085,
+        "lat": 50.0683444197085
+      }
+    },
+    "location": {
+      "lng": 14.3719834,
+      "lat": 50.0696934
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "4",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "4"
+    },
+    {
+      "long_name": "8",
+      "types": [
+        "premise"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "U Kavalírky",
+      "types": [
+        "route"
+      ],
+      "short_name": "U Kavalírky"
+    },
+    {
+      "long_name": "Košíře",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Košíře"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "U Kavalírky 8/4, 150 00 Praha 5-Košíře, Czechia"
+}

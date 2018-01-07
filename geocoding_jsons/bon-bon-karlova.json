@@ -1,0 +1,88 @@
+{
+  "place_id": "EjBLYXJsb3ZhIDQ4LCAxMTAgMDAgUHJhaGEgMS1TdGFyw6kgTcSbc3RvLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4206065802915,
+        "lat": 50.08775418029149
+      },
+      "southwest": {
+        "lng": 14.4179086197085,
+        "lat": 50.08505621970849
+      }
+    },
+    "location": {
+      "lng": 14.4192576,
+      "lat": 50.08640519999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "48",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "48"
+    },
+    {
+      "long_name": "Karlova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Karlova"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Karlova 48, 110 00 Praha 1-Staré Město, Czechia"
+}

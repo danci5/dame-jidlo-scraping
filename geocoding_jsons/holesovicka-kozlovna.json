@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJk39CcLGUC0cRKJHYG2bFZgM",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4500485802915,
+        "lat": 50.1042886802915
+      },
+      "southwest": {
+        "lng": 14.4473506197085,
+        "lat": 50.1015907197085
+      }
+    },
+    "location": {
+      "lng": 14.4486996,
+      "lat": 50.1029397
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "28",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "28"
+    },
+    {
+      "long_name": "1501",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1501"
+    },
+    {
+      "long_name": "Dělnická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Dělnická"
+    },
+    {
+      "long_name": "Holešovice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Holešovice"
+    },
+    {
+      "long_name": "Praha 7",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 7"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "170 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "170 00"
+    }
+  ],
+  "formatted_address": "Dělnická 1501/28, 170 00 Praha 7-Holešovice, Czechia"
+}

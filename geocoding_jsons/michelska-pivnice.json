@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJMf1UB4aTC0cRlXKNPW8G7Jg",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4521804802915,
+        "lat": 50.0578789802915
+      },
+      "southwest": {
+        "lng": 14.4494825197085,
+        "lat": 50.0551810197085
+      }
+    },
+    "location": {
+      "lng": 14.4508315,
+      "lat": 50.05653
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "104",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "104"
+    },
+    {
+      "long_name": "320",
+      "types": [
+        "premise"
+      ],
+      "short_name": "320"
+    },
+    {
+      "long_name": "Nuselská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Nuselská"
+    },
+    {
+      "long_name": "Michle",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Michle"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "140 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "140 00"
+    }
+  ],
+  "formatted_address": "Nuselská 320/104, 140 00 Praha 4-Michle, Czechia"
+}

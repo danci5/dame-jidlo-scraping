@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJjzhERTjtC0cRFUbJxaiYaWY",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5572222802915,
+        "lat": 50.10904628029149
+      },
+      "southwest": {
+        "lng": 14.5545243197085,
+        "lat": 50.10634831970849
+      }
+    },
+    "location": {
+      "lng": 14.5558733,
+      "lat": 50.1076973
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "266",
+      "types": [
+        "premise"
+      ],
+      "short_name": "266"
+    },
+    {
+      "long_name": "Za černým mostem",
+      "types": [
+        "route"
+      ],
+      "short_name": "Za černým mostem"
+    },
+    {
+      "long_name": "Kyje",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Kyje"
+    },
+    {
+      "long_name": "Praha 14",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 14"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "198 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "198 00"
+    }
+  ],
+  "formatted_address": "Za černým mostem 266/2, 198 00 Praha 14-Kyje, Czechia"
+}

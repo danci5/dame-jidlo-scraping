@@ -1,0 +1,88 @@
+{
+  "place_id": "EitQbHplxYhza8OhIDQsIDE1MCAwMCBQcmFoYSA1LUFuZMSbbCwgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4040082802915,
+        "lat": 50.0732531802915
+      },
+      "southwest": {
+        "lng": 14.4013103197085,
+        "lat": 50.0705552197085
+      }
+    },
+    "location": {
+      "lng": 14.4026593,
+      "lat": 50.0719042
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "4",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "4"
+    },
+    {
+      "long_name": "Plzeňská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Plzeňská"
+    },
+    {
+      "long_name": "Anděl",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Anděl"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Plzeňská 4, 150 00 Praha 5-Anděl, Czechia"
+}

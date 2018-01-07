@@ -1,0 +1,88 @@
+{
+  "place_id": "ChIJkTmkkJWUC0cR-B8l7rvHb2s",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4366819802915,
+        "lat": 50.09010428029149
+      },
+      "southwest": {
+        "lng": 14.4339840197085,
+        "lat": 50.0874063197085
+      }
+    },
+    "location": {
+      "lng": 14.435333,
+      "lat": 50.0887553
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "15",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "15"
+    },
+    {
+      "long_name": "Na Florenci",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Florenci"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Florentinum (commercial center and offices), Na Florenci 15, 110 00 Praha 1-Nové Město, Czechia"
+}

@@ -1,0 +1,81 @@
+{
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4853491802915,
+        "lat": 50.0147028802915
+      },
+      "southwest": {
+        "lng": 14.4826512197085,
+        "lat": 50.0120049197085
+      }
+    },
+    "location": {
+      "lng": 14.4840002,
+      "lat": 50.0133539
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "14",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "14"
+    },
+    {
+      "long_name": "náměstí Prezidenta Masaryka",
+      "types": [
+        "route"
+      ],
+      "short_name": "náměstí Prezidenta Masaryka"
+    },
+    {
+      "long_name": "Praha-Kunratice",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Kunratice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "148 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "148 00"
+    }
+  ],
+  "formatted_address": "náměstí Prezidenta Masaryka 14, 148 00 Praha-Kunratice, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "EkFuw6FtxJtzdMOtIFByZXppZGVudGEgTWFzYXJ5a2EgMTQsIDE0OCAwMCBQcmFoYS1LdW5yYXRpY2UsIMSMZXNrbw",
+  "partial_match": true
+}

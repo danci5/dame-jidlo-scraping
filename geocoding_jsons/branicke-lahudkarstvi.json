@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJMz_5bxuUC0cRzzWIuzBwYYA",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4163367802915,
+        "lat": 50.0365414802915
+      },
+      "southwest": {
+        "lng": 14.4136388197085,
+        "lat": 50.0338435197085
+      }
+    },
+    "location": {
+      "lng": 14.4149878,
+      "lat": 50.0351925
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "75",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "75"
+    },
+    {
+      "long_name": "215",
+      "types": [
+        "premise"
+      ],
+      "short_name": "215"
+    },
+    {
+      "long_name": "Branická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Branická"
+    },
+    {
+      "long_name": "Braník",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Braník"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "147 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "147 00"
+    }
+  ],
+  "formatted_address": "Branická 215/75, 147 00 Praha 4-Braník, Czechia"
+}

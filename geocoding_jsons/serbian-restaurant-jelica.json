@@ -1,0 +1,73 @@
+{
+  "place_id": "EiFOYSBabMOtY2hvdsSbIDM1LCBQcmFoYSA1LCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4092865802915,
+        "lat": 50.0501842802915
+      },
+      "southwest": {
+        "lng": 14.4065886197085,
+        "lat": 50.0474863197085
+      }
+    },
+    "location": {
+      "lng": 14.4079376,
+      "lat": 50.0488353
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "35",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "35"
+    },
+    {
+      "long_name": "Na Zlíchově",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Zlíchově"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    }
+  ],
+  "formatted_address": "Na Zlíchově 35, Praha 5, Czechia"
+}

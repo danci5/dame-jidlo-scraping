@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJo9buW1frC0cR_6yokwvt5LY",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4702198802915,
+        "lat": 50.11783328029149
+      },
+      "southwest": {
+        "lng": 14.4675219197085,
+        "lat": 50.1151353197085
+      }
+    },
+    "location": {
+      "lng": 14.4688709,
+      "lat": 50.1164843
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "520",
+      "types": [
+        "premise"
+      ],
+      "short_name": "520"
+    },
+    {
+      "long_name": "náměstí Na Stráži",
+      "types": [
+        "route"
+      ],
+      "short_name": "nám. Na Stráži"
+    },
+    {
+      "long_name": "Libeň",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Libeň"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "180 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "180 00"
+    }
+  ],
+  "formatted_address": "nám. Na Stráži 520/2, 180 00 Praha 8-Libeň, Czechia"
+}

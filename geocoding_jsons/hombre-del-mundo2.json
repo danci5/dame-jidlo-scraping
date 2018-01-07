@@ -1,0 +1,94 @@
+{
+  "place_id": "ChIJx5G8mFeUC0cRj0rd2BOpWjs",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4062700802915,
+        "lat": 50.0716394802915
+      },
+      "southwest": {
+        "lng": 14.4035721197085,
+        "lat": 50.0689415197085
+      }
+    },
+    "location": {
+      "lng": 14.4049211,
+      "lat": 50.0702905
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "21",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "21"
+    },
+    {
+      "long_name": "29",
+      "types": [
+        "premise"
+      ],
+      "short_name": "29"
+    },
+    {
+      "long_name": "Nádražní",
+      "types": [
+        "route"
+      ],
+      "short_name": "Nádražní"
+    },
+    {
+      "long_name": "Smíchov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Smíchov"
+    },
+    {
+      "long_name": "Praha",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Nádražní 29/21, 150 00 Praha-Smíchov, Czechia"
+}

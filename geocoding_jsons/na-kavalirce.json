@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJBcbyRqSVC0cR7GArrAh0_5E",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3736395802915,
+        "lat": 50.0711672802915
+      },
+      "southwest": {
+        "lng": 14.3709416197085,
+        "lat": 50.0684693197085
+      }
+    },
+    "location": {
+      "lng": 14.3722906,
+      "lat": 50.06981829999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "173",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "173"
+    },
+    {
+      "long_name": "251",
+      "types": [
+        "premise"
+      ],
+      "short_name": "251"
+    },
+    {
+      "long_name": "Plzeňská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Plzeňská"
+    },
+    {
+      "long_name": "Košíře",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Košíře"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Plzeňská 251/173, 150 00 Praha 5-Košíře, Czechia"
+}

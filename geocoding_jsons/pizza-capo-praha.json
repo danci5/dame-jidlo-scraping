@@ -1,0 +1,80 @@
+{
+  "place_id": "ChIJqRGLEzGNC0cRwCc2S7QQJso",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.6144609802915,
+        "lat": 50.08249248029149
+      },
+      "southwest": {
+        "lng": 14.6117630197085,
+        "lat": 50.07979451970849
+      }
+    },
+    "location": {
+      "lng": 14.613112,
+      "lat": 50.0811435
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "49",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "49"
+    },
+    {
+      "long_name": "Českobrodská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Českobrodská"
+    },
+    {
+      "long_name": "Praha-Běchovice",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Běchovice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 11",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 11"
+    }
+  ],
+  "formatted_address": "Českobrodská 49, 190 11 Praha-Běchovice, Czechia"
+}

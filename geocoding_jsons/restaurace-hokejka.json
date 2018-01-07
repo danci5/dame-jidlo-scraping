@@ -1,0 +1,96 @@
+{
+  "place_id": "ChIJvXcx5FrtC0cRL27yHc52I-A",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5756067802915,
+        "lat": 50.10707618029149
+      },
+      "southwest": {
+        "lng": 14.5729088197085,
+        "lat": 50.10437821970849
+      }
+    },
+    "location": {
+      "lng": 14.5742578,
+      "lat": 50.1057272
+    }
+  },
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "771",
+      "types": [
+        "premise"
+      ],
+      "short_name": "771"
+    },
+    {
+      "long_name": "Breitcetlova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Breitcetlova"
+    },
+    {
+      "long_name": "Černý Most",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Černý Most"
+    },
+    {
+      "long_name": "Praha 14",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 14"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "19000",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "19000"
+    }
+  ],
+  "formatted_address": "Breitcetlova 771/6, 19000 Praha 14-Černý Most, Czechia"
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJDeUydD6-C0cRvk2O7poKN5o",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3099780802915,
+        "lat": 50.06659168029149
+      },
+      "southwest": {
+        "lng": 14.3072801197085,
+        "lat": 50.0638937197085
+      }
+    },
+    "location": {
+      "lng": 14.3086291,
+      "lat": 50.0652427
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2B",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2B"
+    },
+    {
+      "long_name": "1392",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1392"
+    },
+    {
+      "long_name": "Makovského",
+      "types": [
+        "route"
+      ],
+      "short_name": "Makovského"
+    },
+    {
+      "long_name": "Řepy",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Řepy"
+    },
+    {
+      "long_name": "Praha 17",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 17"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "163 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "163 00"
+    }
+  ],
+  "formatted_address": "Makovského 1392/2B, 163 00 Praha 17-Řepy, Czechia"
+}

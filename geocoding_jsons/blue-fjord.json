@@ -1,0 +1,88 @@
+{
+  "place_id": "Ei5NYXNuw6EgMSwgMTEwIDAwIFByYWhhIDEtU3RhcsOpIE3Em3N0bywgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4241503802915,
+        "lat": 50.0907147802915
+      },
+      "southwest": {
+        "lng": 14.4214524197085,
+        "lat": 50.0880168197085
+      }
+    },
+    "location": {
+      "lng": 14.4228014,
+      "lat": 50.0893658
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "Masná",
+      "types": [
+        "route"
+      ],
+      "short_name": "Masná"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Masná 1, 110 00 Praha 1-Staré Město, Czechia"
+}

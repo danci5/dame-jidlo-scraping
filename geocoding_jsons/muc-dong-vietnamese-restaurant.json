@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJNwKJHOaUC0cR6uZz8deFSbU",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4167700802915,
+        "lat": 50.0890614802915
+      },
+      "southwest": {
+        "lng": 14.4140721197085,
+        "lat": 50.0863635197085
+      }
+    },
+    "location": {
+      "lng": 14.4154211,
+      "lat": 50.08771249999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "8",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "97",
+      "types": [
+        "premise"
+      ],
+      "short_name": "97"
+    },
+    {
+      "long_name": "Křižovnická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Křižovnická"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Křižovnická 97/8, Staré Město, 110 00 Praha-Praha 1, Czechia"
+}

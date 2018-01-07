@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJRVoLEqrsC0cRz9_dEu_IYEs",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4738655802915,
+        "lat": 50.1114382802915
+      },
+      "southwest": {
+        "lng": 14.4711676197085,
+        "lat": 50.1087403197085
+      }
+    },
+    "location": {
+      "lng": 14.4725166,
+      "lat": 50.1100893
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "80",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "80"
+    },
+    {
+      "long_name": "1419",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1419"
+    },
+    {
+      "long_name": "Zenklova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Zenklova"
+    },
+    {
+      "long_name": "Libeň",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Libeň"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "180 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "180 00"
+    }
+  ],
+  "formatted_address": "Zenklova 1419/80, 180 00 Praha 8-Libeň, Czechia"
+}

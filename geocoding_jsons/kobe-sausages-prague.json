@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJK2gcRvKUC0cRE6y0_o804pg",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4221691802915,
+        "lat": 50.0803729802915
+      },
+      "southwest": {
+        "lng": 14.4194712197085,
+        "lat": 50.0776750197085
+      }
+    },
+    "location": {
+      "lng": 14.4208202,
+      "lat": 50.079024
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "11",
+      "types": [
+        "premise"
+      ],
+      "short_name": "11"
+    },
+    {
+      "long_name": "Lazarská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Lazarská"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Lazarská 11/6, Nové Město, 120 00 Praha-Praha 2, Czechia"
+}

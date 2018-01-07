@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJRcAhk2KTC0cRG6IDHiRwuFI",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4579489802915,
+        "lat": 50.07957888029149
+      },
+      "southwest": {
+        "lng": 14.4552510197085,
+        "lat": 50.0768809197085
+      }
+    },
+    "location": {
+      "lng": 14.4566,
+      "lat": 50.0782299
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "2004",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2004"
+    },
+    {
+      "long_name": "Radhošťská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Radhošťská"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Radhošťská 2004/5, 130 00 Praha 3-Vinohrady, Czechia"
+}

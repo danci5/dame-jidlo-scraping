@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJj4b3BKuVC0cRpmJMoLS1BO4",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3909886802915,
+        "lat": 50.07270448029151
+      },
+      "southwest": {
+        "lng": 14.3882907197085,
+        "lat": 50.07000651970851
+      }
+    },
+    "location": {
+      "lng": 14.3896397,
+      "lat": 50.0713555
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "233",
+      "types": [
+        "premise"
+      ],
+      "short_name": "233"
+    },
+    {
+      "long_name": "Erbenova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Erbenova"
+    },
+    {
+      "long_name": "Košíře",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Košíře"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Erbenova 233/1, 150 00 Praha 5-Košíře, Czechia"
+}

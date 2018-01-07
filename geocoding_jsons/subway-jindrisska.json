@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJOz8uUpOUC0cR1NkCsRQalP0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4306809802915,
+        "lat": 50.08580698029149
+      },
+      "southwest": {
+        "lng": 14.4279830197085,
+        "lat": 50.08310901970849
+      }
+    },
+    "location": {
+      "lng": 14.429332,
+      "lat": 50.084458
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "30",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "30"
+    },
+    {
+      "long_name": "973",
+      "types": [
+        "premise"
+      ],
+      "short_name": "973"
+    },
+    {
+      "long_name": "Jindřišská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Jindřišská"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Jindřišská 973/30, 110 00 Praha 1-Nové Město, Czechia"
+}

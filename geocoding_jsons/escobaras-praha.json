@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJn8C30GmVC0cRFu0aRb3IU-o",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3683115802915,
+        "lat": 50.09925648029149
+      },
+      "southwest": {
+        "lng": 14.3656136197085,
+        "lat": 50.09655851970849
+      }
+    },
+    "location": {
+      "lng": 14.3669626,
+      "lat": 50.0979075
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "7",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "7"
+    },
+    {
+      "long_name": "417",
+      "types": [
+        "premise"
+      ],
+      "short_name": "417"
+    },
+    {
+      "long_name": "Kladenská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Kladenská"
+    },
+    {
+      "long_name": "Vokovice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vokovice"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Kladenská 417/7, 160 00 Praha 6-Vokovice, Czechia"
+}

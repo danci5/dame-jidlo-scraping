@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJL_YEI_mUC0cRukM6MNecn9c",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4048638802915,
+        "lat": 50.0771458802915
+      },
+      "southwest": {
+        "lng": 14.4021659197085,
+        "lat": 50.0744479197085
+      }
+    },
+    "location": {
+      "lng": 14.4035149,
+      "lat": 50.0757969
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "37",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "37"
+    },
+    {
+      "long_name": "296",
+      "types": [
+        "premise"
+      ],
+      "short_name": "296"
+    },
+    {
+      "long_name": "Štefánikova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Štefánikova"
+    },
+    {
+      "long_name": "Smíchov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Smíchov"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Štefánikova 296/37, 150 00 Praha 5-Smíchov, Czechia"
+}

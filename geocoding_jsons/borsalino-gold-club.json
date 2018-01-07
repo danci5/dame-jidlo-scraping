@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ6STIS_OUC0cROXFwyZS5--s",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4255763802915,
+        "lat": 50.0777612802915
+      },
+      "southwest": {
+        "lng": 14.4228784197085,
+        "lat": 50.0750633197085
+      }
+    },
+    "location": {
+      "lng": 14.4242274,
+      "lat": 50.0764123
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "7",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "7"
+    },
+    {
+      "long_name": "540",
+      "types": [
+        "premise"
+      ],
+      "short_name": "540"
+    },
+    {
+      "long_name": "Štěpánská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Štěpánská"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Štěpánská 540/7, Nové Město, 120 00 Praha-Praha 2, Czechia"
+}

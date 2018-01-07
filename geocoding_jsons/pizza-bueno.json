@@ -1,0 +1,86 @@
+{
+  "place_id": "ChIJu7uI5hqTC0cRe7tJn1TuSec",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5003489802915,
+        "lat": 50.07399728029149
+      },
+      "southwest": {
+        "lng": 14.4976510197085,
+        "lat": 50.07129931970849
+      }
+    },
+    "location": {
+      "lng": 14.499,
+      "lat": 50.0726483
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "118",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "118"
+    },
+    {
+      "long_name": "2272",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2272"
+    },
+    {
+      "long_name": "V Olšinách",
+      "types": [
+        "route"
+      ],
+      "short_name": "V Olšinách"
+    },
+    {
+      "long_name": "Strašnice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Strašnice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "100 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "100 00"
+    }
+  ],
+  "formatted_address": "V Olšinách 2272/118, 100 00 Praha-Strašnice, Czechia"
+}

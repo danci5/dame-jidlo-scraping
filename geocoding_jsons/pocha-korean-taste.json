@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJhwWtWGGUC0cRKpftP0LyP3w",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4275272802915,
+        "lat": 50.0668865802915
+      },
+      "southwest": {
+        "lng": 14.4248293197085,
+        "lat": 50.0641886197085
+      }
+    },
+    "location": {
+      "lng": 14.4261783,
+      "lat": 50.0655376
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "14",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "14"
+    },
+    {
+      "long_name": "506",
+      "types": [
+        "premise"
+      ],
+      "short_name": "506"
+    },
+    {
+      "long_name": "Oldřichova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Oldřichova"
+    },
+    {
+      "long_name": "Nusle",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nusle"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "128 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "128 00"
+    }
+  ],
+  "formatted_address": "Oldřichova 506/14, 128 00 Praha 2-Nusle, Czechia"
+}

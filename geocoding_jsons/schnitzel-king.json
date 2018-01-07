@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJF-y3a5eUC0cR2YnwnlUE4Uk",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4436024802915,
+        "lat": 50.08636878029149
+      },
+      "southwest": {
+        "lng": 14.4409045197085,
+        "lat": 50.08367081970849
+      }
+    },
+    "location": {
+      "lng": 14.4422535,
+      "lat": 50.0850198
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "1840",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1840"
+    },
+    {
+      "long_name": "Seifertova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Seifertova"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Seifertova 1840/2, 130 00 Praha 3-Žižkov, Czechia"
+}

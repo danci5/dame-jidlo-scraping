@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJXRRjAomUC0cRbPN_C0xOxRM",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4345555802915,
+        "lat": 50.0733639802915
+      },
+      "southwest": {
+        "lng": 14.4318576197085,
+        "lat": 50.0706660197085
+      }
+    },
+    "location": {
+      "lng": 14.4332066,
+      "lat": 50.072015
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "16",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "16"
+    },
+    {
+      "long_name": "685",
+      "types": [
+        "premise"
+      ],
+      "short_name": "685"
+    },
+    {
+      "long_name": "Koubkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Koubkova"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Koubkova 685/16, Vinohrady, 120 00 Praha-Praha 2, Czechia"
+}

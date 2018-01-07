@@ -1,0 +1,80 @@
+{
+  "place_id": "EipLb3N0bmlja8OpIG7DoW0uIDMsIDEzMCAwMCBQcmFoYSAzLCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4496883802915,
+        "lat": 50.08736818029149
+      },
+      "southwest": {
+        "lng": 14.4469904197085,
+        "lat": 50.08467021970849
+      }
+    },
+    "location": {
+      "lng": 14.4483394,
+      "lat": 50.0860192
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "Kostnické náměstí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Kostnické nám."
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Kostnické nám. 3, 130 00 Praha 3, Czechia"
+}

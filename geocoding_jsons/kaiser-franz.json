@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJc0z1vJyUC0cRkmE30iag6bE",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4501640802915,
+        "lat": 50.0798445802915
+      },
+      "southwest": {
+        "lng": 14.4474661197085,
+        "lat": 50.0771466197085
+      }
+    },
+    "location": {
+      "lng": 14.4488151,
+      "lat": 50.0784956
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "1554",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1554"
+    },
+    {
+      "long_name": "náměstí Jiřího z Poděbrad",
+      "types": [
+        "route"
+      ],
+      "short_name": "nám. J. z Poděbrad"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "nám. J. z Poděbrad 1554/6, 130 00 Praha 3-Vinohrady, Czechia"
+}

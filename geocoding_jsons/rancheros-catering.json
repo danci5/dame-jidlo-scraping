@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJW9klhZWUC0cRIHHI2q2eR7Q",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4368889802915,
+        "lat": 50.0903446802915
+      },
+      "southwest": {
+        "lng": 14.4341910197085,
+        "lat": 50.0876467197085
+      }
+    },
+    "location": {
+      "lng": 14.43554,
+      "lat": 50.0889957
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "19",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "19"
+    },
+    {
+      "long_name": "1020",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1020"
+    },
+    {
+      "long_name": "Na Florenci",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Florenci"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Na Florenci 1020/19, Nové Město, 110 00 Praha-Praha 1, Czechia"
+}

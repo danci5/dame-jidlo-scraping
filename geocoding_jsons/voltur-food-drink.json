@@ -1,0 +1,84 @@
+{
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.4524525,
+        "lat": 50.1466389
+      },
+      "southwest": {
+        "lng": 14.450414,
+        "lat": 50.146035
+      }
+    },
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4527822302915,
+        "lat": 50.1476859302915
+      },
+      "southwest": {
+        "lng": 14.4500842697085,
+        "lat": 50.1449879697085
+      }
+    },
+    "location": {
+      "lng": 14.4514801,
+      "lat": 50.1461242
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "K Ďáblicům",
+      "types": [
+        "route"
+      ],
+      "short_name": "K Ďáblicům"
+    },
+    {
+      "long_name": "Praha-Dolní Chabry",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Dolní Chabry"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "184 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "184 00"
+    }
+  ],
+  "formatted_address": "K Ďáblicům, 184 00 Praha-Dolní Chabry, Czechia",
+  "types": [
+    "route"
+  ],
+  "place_id": "ChIJIaWvOgnrC0cRSYNxHTdqwVk",
+  "partial_match": true
+}

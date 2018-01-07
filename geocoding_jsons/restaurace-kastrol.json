@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3352585802915,
+        "lat": 50.0381920802915
+      },
+      "southwest": {
+        "lng": 14.3325606197085,
+        "lat": 50.0354941197085
+      }
+    },
+    "location": {
+      "lng": 14.3339096,
+      "lat": 50.0368431
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "1625",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1625"
+    },
+    {
+      "long_name": "Ohradské náměstí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Ohradské nám."
+    },
+    {
+      "long_name": "Stodůlky",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Stodůlky"
+    },
+    {
+      "long_name": "Praha 13",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 13"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "155 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "155 00"
+    }
+  ],
+  "formatted_address": "Ohradské nám. 1625/2, 155 00 Praha 13-Stodůlky, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJ0_Oy-AiWC0cRdbjpNPNoI58",
+  "partial_match": true
+}

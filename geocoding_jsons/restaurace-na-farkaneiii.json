@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJc9hH9rOVC0cRMniZXJzFoCI",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3818742802915,
+        "lat": 50.06128298029149
+      },
+      "southwest": {
+        "lng": 14.3791763197085,
+        "lat": 50.0585850197085
+      }
+    },
+    "location": {
+      "lng": 14.3805253,
+      "lat": 50.059934
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "32",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "32"
+    },
+    {
+      "long_name": "194",
+      "types": [
+        "premise"
+      ],
+      "short_name": "194"
+    },
+    {
+      "long_name": "Na Farkáně III",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Farkáně III"
+    },
+    {
+      "long_name": "Radlice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Radlice"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Na Farkáně III 194/32, 150 00 Praha 5-Radlice, Czechia"
+}

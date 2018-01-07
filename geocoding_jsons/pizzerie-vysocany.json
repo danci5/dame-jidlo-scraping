@@ -1,0 +1,80 @@
+{
+  "place_id": "EidTb2tvbG92c2vDoSAzMDYsIDE5MCAwMCBQcmFoYSA5LCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4978432802915,
+        "lat": 50.1107597802915
+      },
+      "southwest": {
+        "lng": 14.4951453197085,
+        "lat": 50.1080618197085
+      }
+    },
+    "location": {
+      "lng": 14.4964943,
+      "lat": 50.1094108
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "306",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "306"
+    },
+    {
+      "long_name": "Sokolovská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Sokolovská"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 00"
+    }
+  ],
+  "formatted_address": "Sokolovská 306, 190 00 Praha 9, Czechia"
+}

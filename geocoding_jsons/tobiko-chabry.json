@@ -1,0 +1,51 @@
+{
+  "place_id": "ChIJi1h6IwnrC0cRKVabO2Box3c",
+  "geometry": {
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4526509802915,
+        "lat": 50.14771298029149
+      },
+      "southwest": {
+        "lng": 14.4499530197085,
+        "lat": 50.1450150197085
+      }
+    },
+    "location": {
+      "lng": 14.451302,
+      "lat": 50.146364
+    }
+  },
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "store"
+  ],
+  "address_components": [
+    {
+      "long_name": "Praha-Dolní Chabry",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha-Dolní Chabry"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "18400",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "18400"
+    }
+  ],
+  "formatted_address": "K Ďáblicům 1171/1, Supermarket BILLA, 18400 Praha-Dolní Chabry, Czechia"
+}

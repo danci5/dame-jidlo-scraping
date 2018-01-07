@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4245040802915,
+        "lat": 50.0593415802915
+      },
+      "southwest": {
+        "lng": 14.4218061197085,
+        "lat": 50.0566436197085
+      }
+    },
+    "location": {
+      "lng": 14.4231551,
+      "lat": 50.0579926
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "18",
+      "types": [
+        "premise"
+      ],
+      "short_name": "18"
+    },
+    {
+      "long_name": "Na Dolinách",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Dolinách"
+    },
+    {
+      "long_name": "Podolí",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Podolí"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "147 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "147 00"
+    }
+  ],
+  "formatted_address": "Na Dolinách 18/5, 147 00 Praha 4-Podolí, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJSQejMG-UC0cRNvBmBy4orKI",
+  "partial_match": true
+}

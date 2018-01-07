@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJGT3LzX2VC0cRgzXzLCmZdF4",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3463115802915,
+        "lat": 50.08746668029149
+      },
+      "southwest": {
+        "lng": 14.3436136197085,
+        "lat": 50.08476871970849
+      }
+    },
+    "location": {
+      "lng": 14.3449626,
+      "lat": 50.0861177
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "17",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "17"
+    },
+    {
+      "long_name": "1875",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1875"
+    },
+    {
+      "long_name": "Brunclíkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Brunclíkova"
+    },
+    {
+      "long_name": "Břevnov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Břevnov"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "162 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "162 00"
+    }
+  ],
+  "formatted_address": "Brunclíkova 1875/17, 162 00 Praha 6-Břevnov, Czechia"
+}

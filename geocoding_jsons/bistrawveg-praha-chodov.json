@@ -1,0 +1,97 @@
+{
+  "place_id": "ChIJdfTTwjKSC0cR_roSxracA58",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4918742802915,
+        "lat": 50.0332660802915
+      },
+      "southwest": {
+        "lng": 14.4891763197085,
+        "lat": 50.0305681197085
+      }
+    },
+    "location": {
+      "lng": 14.4905253,
+      "lat": 50.0319171
+    }
+  },
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "shopping_mall"
+  ],
+  "address_components": [
+    {
+      "long_name": "19",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "19"
+    },
+    {
+      "long_name": "2321",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2321"
+    },
+    {
+      "long_name": "Roztylská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Roztylská"
+    },
+    {
+      "long_name": "Praha 11",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 11"
+    },
+    {
+      "long_name": "Praha 11-Chodov",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha 11-Chodov"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "148 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "148 00"
+    }
+  ],
+  "formatted_address": "Roztylská 2321/19, 148 00 Praha 11-Chodov-Praha 11, Czechia"
+}

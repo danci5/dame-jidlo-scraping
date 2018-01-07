@@ -1,0 +1,88 @@
+{
+  "place_id": "EjFHb3JhemRvdmEgMjIsIDEyMCAwMCBQcmFoYSAyLU5vdsOpIE3Em3N0bywgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4163579802915,
+        "lat": 50.07674058029149
+      },
+      "southwest": {
+        "lng": 14.4136600197085,
+        "lat": 50.0740426197085
+      }
+    },
+    "location": {
+      "lng": 14.415009,
+      "lat": 50.0753916
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "22",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "22"
+    },
+    {
+      "long_name": "Gorazdova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Gorazdova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Gorazdova 22, 120 00 Praha 2-Nové Město, Czechia"
+}

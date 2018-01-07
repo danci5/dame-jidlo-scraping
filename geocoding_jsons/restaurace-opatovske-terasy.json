@@ -1,0 +1,105 @@
+{
+  "place_id": "ChIJwWg1NRiSC0cRrEAvFmyJLNQ",
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.5192263,
+        "lat": 50.0256013
+      },
+      "southwest": {
+        "lng": 14.5184329,
+        "lat": 50.02509629999999
+      }
+    },
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5201785802915,
+        "lat": 50.02669778029149
+      },
+      "southwest": {
+        "lng": 14.5174806197085,
+        "lat": 50.0239998197085
+      }
+    },
+    "location": {
+      "lng": 14.5188296,
+      "lat": 50.0253488
+    }
+  },
+  "types": [
+    "premise"
+  ],
+  "address_components": [
+    {
+      "long_name": "14",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "14"
+    },
+    {
+      "long_name": "1754",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1754"
+    },
+    {
+      "long_name": "Opatovská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Opatovská"
+    },
+    {
+      "long_name": "Chodov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Chodov"
+    },
+    {
+      "long_name": "Praha 11",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 11"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "149 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "149 00"
+    }
+  ],
+  "formatted_address": "Opatovská 1754/14, 149 00 Praha 11-Chodov, Czechia"
+}

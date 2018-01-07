@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJSV5Rd7TsC0cRgGAHMgOlpno",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4936176802915,
+        "lat": 50.1080479802915
+      },
+      "southwest": {
+        "lng": 14.4909197197085,
+        "lat": 50.1053500197085
+      }
+    },
+    "location": {
+      "lng": 14.4922687,
+      "lat": 50.106699
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "53",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "53"
+    },
+    {
+      "long_name": "957",
+      "types": [
+        "premise"
+      ],
+      "short_name": "957"
+    },
+    {
+      "long_name": "Drahobejlova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Drahobejlova"
+    },
+    {
+      "long_name": "Libeň",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Libeň"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 00"
+    }
+  ],
+  "formatted_address": "Drahobejlova 957/53, 190 00 Praha 9-Libeň, Czechia"
+}

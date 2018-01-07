@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJJ2RszyWVC0cRlPLmHcWpq8w",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4016486802915,
+        "lat": 50.1038674802915
+      },
+      "southwest": {
+        "lng": 14.3989507197085,
+        "lat": 50.1011695197085
+      }
+    },
+    "location": {
+      "lng": 14.4002997,
+      "lat": 50.1025185
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "629",
+      "types": [
+        "premise"
+      ],
+      "short_name": "629"
+    },
+    {
+      "long_name": "Charlese de Gaulla",
+      "types": [
+        "route"
+      ],
+      "short_name": "Charlese de Gaulla"
+    },
+    {
+      "long_name": "Bubeneč",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Bubeneč"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Charlese de Gaulla 629/5, 160 00 Praha 6-Bubeneč, Czechia"
+}

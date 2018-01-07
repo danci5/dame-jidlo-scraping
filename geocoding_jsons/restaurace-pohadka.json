@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJefurm1-TC0cRCuVd4lP8PRg",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4627619802915,
+        "lat": 50.08982278029149
+      },
+      "southwest": {
+        "lng": 14.4600640197085,
+        "lat": 50.0871248197085
+      }
+    },
+    "location": {
+      "lng": 14.461413,
+      "lat": 50.0884738
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "75",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "75"
+    },
+    {
+      "long_name": "1030",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1030"
+    },
+    {
+      "long_name": "Roháčova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Roháčova"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Roháčova 1030/75, 130 00 Praha 3-Žižkov, Czechia"
+}

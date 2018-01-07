@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJiwcdLI-UC0cRH5LVgBLVPuY",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4363295802915,
+        "lat": 50.07560608029149
+      },
+      "southwest": {
+        "lng": 14.4336316197085,
+        "lat": 50.07290811970849
+      }
+    },
+    "location": {
+      "lng": 14.4349806,
+      "lat": 50.0742571
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "34",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "34"
+    },
+    {
+      "long_name": "237",
+      "types": [
+        "premise"
+      ],
+      "short_name": "237"
+    },
+    {
+      "long_name": "Rumunská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Rumunská"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Rumunská 237/34, 120 00 Praha 2-Vinohrady, Czechia"
+}

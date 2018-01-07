@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJw2fO9HCUC0cRDuWJ-S8Y57Y",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4344611802915,
+        "lat": 50.0584533802915
+      },
+      "southwest": {
+        "lng": 14.4317632197085,
+        "lat": 50.0557554197085
+      }
+    },
+    "location": {
+      "lng": 14.4331122,
+      "lat": 50.0571044
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "9",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "9"
+    },
+    {
+      "long_name": "1705",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1705"
+    },
+    {
+      "long_name": "Lomnického",
+      "types": [
+        "route"
+      ],
+      "short_name": "Lomnického"
+    },
+    {
+      "long_name": "Nusle",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nusle"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "140 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "140 00"
+    }
+  ],
+  "formatted_address": "Lomnického 1705/9, 140 00 Praha 4-Nusle, Czechia"
+}

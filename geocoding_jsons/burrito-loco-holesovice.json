@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJeYlSS8aUC0cRcuzxJ1dRd8Q",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4339694802915,
+        "lat": 50.10021368029151
+      },
+      "southwest": {
+        "lng": 14.4312715197085,
+        "lat": 50.09751571970851
+      }
+    },
+    "location": {
+      "lng": 14.4326205,
+      "lat": 50.09886470000001
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "831",
+      "types": [
+        "premise"
+      ],
+      "short_name": "831"
+    },
+    {
+      "long_name": "Milady Horákové",
+      "types": [
+        "route"
+      ],
+      "short_name": "M. Horákové"
+    },
+    {
+      "long_name": "Holešovice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Holešovice"
+    },
+    {
+      "long_name": "Praha 7",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 7"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "170 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "170 00"
+    }
+  ],
+  "formatted_address": "M. Horákové 831/3, 170 00 Praha 7-Holešovice, Czechia"
+}

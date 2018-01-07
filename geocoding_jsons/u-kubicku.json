@@ -1,0 +1,84 @@
+{
+  "place_id": "ChIJtyc6rQ6XC0cRdS7zGrI75to",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3381279802915,
+        "lat": 49.9535449802915
+      },
+      "southwest": {
+        "lng": 14.3354300197085,
+        "lat": 49.9508470197085
+      }
+    },
+    "location": {
+      "lng": 14.336779,
+      "lat": 49.952196
+    }
+  },
+  "types": [
+    "establishment",
+    "food",
+    "meal_delivery",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "address_components": [
+    {
+      "long_name": "420",
+      "types": [
+        "premise"
+      ],
+      "short_name": "420"
+    },
+    {
+      "long_name": "U Berounky",
+      "types": [
+        "route"
+      ],
+      "short_name": "U Berounky"
+    },
+    {
+      "long_name": "Praha-Lipence",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Lipence"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "155 31",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "155 31"
+    }
+  ],
+  "formatted_address": "U Berounky 420, 155 31 Praha-Lipence, Czechia"
+}

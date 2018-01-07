@@ -1,0 +1,77 @@
+{
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.4706897,
+        "lat": 50.072183
+      },
+      "southwest": {
+        "lng": 14.4643354,
+        "lat": 50.0709875
+      }
+    },
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4706897,
+        "lat": 50.07293423029149
+      },
+      "southwest": {
+        "lng": 14.4643354,
+        "lat": 50.0702362697085
+      }
+    },
+    "location": {
+      "lng": 14.467694,
+      "lat": 50.0716127
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "Dvacátého osmého pluku",
+      "types": [
+        "route"
+      ],
+      "short_name": "28. pluku"
+    },
+    {
+      "long_name": "Praha 10",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 10"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    }
+  ],
+  "formatted_address": "28. pluku, Praha 10, Czechia",
+  "types": [
+    "route"
+  ],
+  "place_id": "EhsyOC4gcGx1a3UsIFByYWhhIDEwLCDEjGVza28",
+  "partial_match": true
+}

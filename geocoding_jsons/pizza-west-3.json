@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJnTy6gn6UC0cR3lVeROb23BQ",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4419145802915,
+        "lat": 50.06609638029149
+      },
+      "southwest": {
+        "lng": 14.4392166197085,
+        "lat": 50.06339841970849
+      }
+    },
+    "location": {
+      "lng": 14.4405656,
+      "lat": 50.06474739999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "5",
+      "types": [
+        "premise"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "náměstí Bratří Synků",
+      "types": [
+        "route"
+      ],
+      "short_name": "nám. Bratří Synků"
+    },
+    {
+      "long_name": "Nusle",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nusle"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "140 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "140 00"
+    }
+  ],
+  "formatted_address": "nám. Bratří Synků 5/1, 140 00 Praha 4-Nusle, Czechia"
+}

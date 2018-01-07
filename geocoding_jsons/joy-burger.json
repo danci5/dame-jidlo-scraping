@@ -1,0 +1,88 @@
+{
+  "place_id": "EjFDZWxldG7DoSAzOCwgMTEwIDAwIFByYWhhIDEtU3RhcsOpIE3Em3N0bywgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4278265802915,
+        "lat": 50.0885824802915
+      },
+      "southwest": {
+        "lng": 14.4251286197085,
+        "lat": 50.0858845197085
+      }
+    },
+    "location": {
+      "lng": 14.4264776,
+      "lat": 50.0872335
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "38",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "38"
+    },
+    {
+      "long_name": "Celetná",
+      "types": [
+        "route"
+      ],
+      "short_name": "Celetná"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Celetná 38, 110 00 Praha 1-Staré Město, Czechia"
+}

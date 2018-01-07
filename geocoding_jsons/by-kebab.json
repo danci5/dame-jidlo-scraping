@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJi-u9unySC0cREu6YgA3rs2w",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5453409802915,
+        "lat": 50.0516638802915
+      },
+      "southwest": {
+        "lng": 14.5426430197085,
+        "lat": 50.0489659197085
+      }
+    },
+    "location": {
+      "lng": 14.543992,
+      "lat": 50.0503149
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "24",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "24"
+    },
+    {
+      "long_name": "1182",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1182"
+    },
+    {
+      "long_name": "Plukovníka Mráze",
+      "types": [
+        "route"
+      ],
+      "short_name": "Plukovníka Mráze"
+    },
+    {
+      "long_name": "Hostivař",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Hostivař"
+    },
+    {
+      "long_name": "Praha 15",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 15"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "102 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "102 00"
+    }
+  ],
+  "formatted_address": "Plukovníka Mráze 1182/24, 102 00 Praha 15-Hostivař, Czechia"
+}

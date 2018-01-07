@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ13HemE2TC0cRi-eDi-CPHiI",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4847393802915,
+        "lat": 50.1028437802915
+      },
+      "southwest": {
+        "lng": 14.4820414197085,
+        "lat": 50.1001458197085
+      }
+    },
+    "location": {
+      "lng": 14.4833904,
+      "lat": 50.1014948
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "2350",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2350"
+    },
+    {
+      "long_name": "Malletova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Malletova"
+    },
+    {
+      "long_name": "Libeň",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Libeň"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 00"
+    }
+  ],
+  "formatted_address": "Malletova 2350/6, 190 00 Praha 9-Libeň, Czechia"
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ10aH4_GUC0cRc-0mPzzR2Sg",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4197795802915,
+        "lat": 50.0823029802915
+      },
+      "southwest": {
+        "lng": 14.4170816197085,
+        "lat": 50.0796050197085
+      }
+    },
+    "location": {
+      "lng": 14.4184306,
+      "lat": 50.080954
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "123",
+      "types": [
+        "premise"
+      ],
+      "short_name": "123"
+    },
+    {
+      "long_name": "Mikulandská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Mikulandská"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Mikulandská 123/2, Nové Město, 110 00 Praha-Praha 1, Czechia"
+}

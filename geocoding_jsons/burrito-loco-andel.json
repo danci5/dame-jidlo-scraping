@@ -1,0 +1,88 @@
+{
+  "place_id": "Ei7FoHRlZsOhbmlrb3ZhIDcsIDE1MCAwMCBQcmFoYSA1LUFuZMSbbCwgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4049597802915,
+        "lat": 50.0740208802915
+      },
+      "southwest": {
+        "lng": 14.4022618197085,
+        "lat": 50.0713229197085
+      }
+    },
+    "location": {
+      "lng": 14.4036108,
+      "lat": 50.0726719
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "7",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "7"
+    },
+    {
+      "long_name": "Štefánikova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Štefánikova"
+    },
+    {
+      "long_name": "Anděl",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Anděl"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Štefánikova 7, 150 00 Praha 5-Anděl, Czechia"
+}

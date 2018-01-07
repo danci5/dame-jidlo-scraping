@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJg2ldQvGUC0cRvJOSw_Bvat4",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4179560802915,
+        "lat": 50.0788380802915
+      },
+      "southwest": {
+        "lng": 14.4152581197085,
+        "lat": 50.0761401197085
+      }
+    },
+    "location": {
+      "lng": 14.4166071,
+      "lat": 50.0774891
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "14",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "14"
+    },
+    {
+      "long_name": "260",
+      "types": [
+        "premise"
+      ],
+      "short_name": "260"
+    },
+    {
+      "long_name": "Myslíkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Myslíkova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Myslíkova 260/14, Nové Město, 120 00 Praha-Praha 2, Czechia"
+}

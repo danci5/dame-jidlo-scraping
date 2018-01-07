@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJWQ1Uc4iUC0cR3Ysu118tAa0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4367398802915,
+        "lat": 50.07131608029151
+      },
+      "southwest": {
+        "lng": 14.4340419197085,
+        "lat": 50.06861811970851
+      }
+    },
+    "location": {
+      "lng": 14.4353909,
+      "lat": 50.06996710000001
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "785",
+      "types": [
+        "premise"
+      ],
+      "short_name": "785"
+    },
+    {
+      "long_name": "Šafaříkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Šafaříkova"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Šafaříkova 785/1, 120 00 Praha 2-Vinohrady, Czechia"
+}

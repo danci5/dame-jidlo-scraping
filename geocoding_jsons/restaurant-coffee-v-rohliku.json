@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4296812802915,
+        "lat": 50.05259988029151
+      },
+      "southwest": {
+        "lng": 14.4269833197085,
+        "lat": 50.04990191970851
+      }
+    },
+    "location": {
+      "lng": 14.4283323,
+      "lat": 50.05125090000001
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "1130",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1130"
+    },
+    {
+      "long_name": "Na Hřebenech II",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Hřebenech II"
+    },
+    {
+      "long_name": "Podolí",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Podolí"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "147 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "147 00"
+    }
+  ],
+  "formatted_address": "Na Hřebenech II 1130/6, 147 00 Praha 4-Podolí, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJbfFIX3KUC0cR8BNN_LR4DfI",
+  "partial_match": true
+}

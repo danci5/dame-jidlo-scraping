@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJuyuBR5iUC0cRLX5LxEB0To4",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4476786802915,
+        "lat": 50.0877623802915
+      },
+      "southwest": {
+        "lng": 14.4449807197085,
+        "lat": 50.0850644197085
+      }
+    },
+    "location": {
+      "lng": 14.4463297,
+      "lat": 50.0864134
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "727",
+      "types": [
+        "premise"
+      ],
+      "short_name": "727"
+    },
+    {
+      "long_name": "Orebitská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Orebitská"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Orebitská 727/3, 130 00 Praha 3-Žižkov, Czechia"
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJeS5D9gmWC0cRdzWW4lS2-sA",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3398397802915,
+        "lat": 50.0393947802915
+      },
+      "southwest": {
+        "lng": 14.3371418197085,
+        "lat": 50.0366968197085
+      }
+    },
+    "location": {
+      "lng": 14.3384908,
+      "lat": 50.0380458
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "16",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "16"
+    },
+    {
+      "long_name": "2577",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2577"
+    },
+    {
+      "long_name": "Prusíkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Prusíkova"
+    },
+    {
+      "long_name": "Stodůlky",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Stodůlky"
+    },
+    {
+      "long_name": "Praha 13",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 13"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "155 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "155 00"
+    }
+  ],
+  "formatted_address": "Prusíkova 2577/16, 155 00 Praha 13-Stodůlky, Czechia"
+}

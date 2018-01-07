@@ -1,0 +1,77 @@
+{
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.3351281,
+        "lat": 50.0698316
+      },
+      "southwest": {
+        "lng": 14.3336026,
+        "lat": 50.0608668
+      }
+    },
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3357143302915,
+        "lat": 50.0698316
+      },
+      "southwest": {
+        "lng": 14.3330163697085,
+        "lat": 50.0608668
+      }
+    },
+    "location": {
+      "lng": 14.3351281,
+      "lat": 50.06538579999999
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "Bucharova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Bucharova"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    }
+  ],
+  "formatted_address": "Bucharova, Praha 5, Czechia",
+  "types": [
+    "route"
+  ],
+  "place_id": "EhpCdWNoYXJvdmEsIFByYWhhIDUsIMSMZXNrbw",
+  "partial_match": true
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJia3palOTC0cRMnUlRpjbu0E",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4787138802915,
+        "lat": 50.1052127802915
+      },
+      "southwest": {
+        "lng": 14.4760159197085,
+        "lat": 50.1025148197085
+      }
+    },
+    "location": {
+      "lng": 14.4773649,
+      "lat": 50.1038638
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "9",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "9"
+    },
+    {
+      "long_name": "420",
+      "types": [
+        "premise"
+      ],
+      "short_name": "420"
+    },
+    {
+      "long_name": "Vacínova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vacínova"
+    },
+    {
+      "long_name": "Libeň",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Libeň"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "180 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "180 00"
+    }
+  ],
+  "formatted_address": "Vacínova 420/9, 180 00 Praha 8-Libeň, Czechia"
+}

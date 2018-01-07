@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJnfuikSCVC0cRdBJSTF0AKIA",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4062428802915,
+        "lat": 50.0983786802915
+      },
+      "southwest": {
+        "lng": 14.4035449197085,
+        "lat": 50.0956807197085
+      }
+    },
+    "location": {
+      "lng": 14.4048939,
+      "lat": 50.0970297
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "109",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "109"
+    },
+    {
+      "long_name": "116",
+      "types": [
+        "premise"
+      ],
+      "short_name": "116"
+    },
+    {
+      "long_name": "Milady Horákové",
+      "types": [
+        "route"
+      ],
+      "short_name": "M. Horákové"
+    },
+    {
+      "long_name": "Hradčany",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Hradčany"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "M. Horákové 116/109, 160 00 Praha 6-Hradčany, Czechia"
+}

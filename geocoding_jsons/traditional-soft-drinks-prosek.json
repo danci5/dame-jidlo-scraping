@@ -1,0 +1,80 @@
+{
+  "place_id": "EidaYWvFocOtbnNrw6EgMTEsIDE5MCAwMCBQcmFoYSA5LCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4960360802915,
+        "lat": 50.13153828029151
+      },
+      "southwest": {
+        "lng": 14.4933381197085,
+        "lat": 50.12884031970851
+      }
+    },
+    "location": {
+      "lng": 14.4946871,
+      "lat": 50.1301893
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "11",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "11"
+    },
+    {
+      "long_name": "Zakšínská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Zakšínská"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 00"
+    }
+  ],
+  "formatted_address": "Zakšínská 11, 190 00 Praha 9, Czechia"
+}

@@ -1,0 +1,80 @@
+{
+  "place_id": "EiTFoHTDunJvdmEgNTUsIDE0MCAwMCBQcmFoYSA0LCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4509760802915,
+        "lat": 50.03094318029149
+      },
+      "southwest": {
+        "lng": 14.4482781197085,
+        "lat": 50.0282452197085
+      }
+    },
+    "location": {
+      "lng": 14.4496271,
+      "lat": 50.0295942
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "55",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "55"
+    },
+    {
+      "long_name": "Štúrova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Štúrova"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "140 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "140 00"
+    }
+  ],
+  "formatted_address": "Štúrova 55, 140 00 Praha 4, Czechia"
+}

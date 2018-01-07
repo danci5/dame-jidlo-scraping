@@ -1,0 +1,80 @@
+{
+  "place_id": "EipTdMWZZWxuacSNbsOhIDE2NjAsIDE4MiAwMCBQcmFoYSA4LCDEjGVza28",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4700729802915,
+        "lat": 50.1277706802915
+      },
+      "southwest": {
+        "lng": 14.4673750197085,
+        "lat": 50.12507271970851
+      }
+    },
+    "location": {
+      "lng": 14.468724,
+      "lat": 50.1264217
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1660",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1660"
+    },
+    {
+      "long_name": "Střelničná",
+      "types": [
+        "route"
+      ],
+      "short_name": "Střelničná"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "182 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "182 00"
+    }
+  ],
+  "formatted_address": "Střelničná 1660, 182 00 Praha 8, Czechia"
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJqXDRH0TrC0cRaWFpMmaCqUg",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4574051802915,
+        "lat": 50.1239240802915
+      },
+      "southwest": {
+        "lng": 14.4547072197085,
+        "lat": 50.1212261197085
+      }
+    },
+    "location": {
+      "lng": 14.4560562,
+      "lat": 50.1225751
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "10",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "10"
+    },
+    {
+      "long_name": "124",
+      "types": [
+        "premise"
+      ],
+      "short_name": "124"
+    },
+    {
+      "long_name": "Klapkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Klapkova"
+    },
+    {
+      "long_name": "Kobylisy",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Kobylisy"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "182 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "182 00"
+    }
+  ],
+  "formatted_address": "Klapkova 124/10, 182 00 Praha 8-Kobylisy, Czechia"
+}

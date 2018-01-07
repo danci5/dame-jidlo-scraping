@@ -1,0 +1,80 @@
+{
+  "place_id": "EiZWZXNlbHNrw6EgNjYzLCAxOTkgMDAgUHJhaGEgMTgsIMSMZXNrbw",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5023902802915,
+        "lat": 50.1383311802915
+      },
+      "southwest": {
+        "lng": 14.4996923197085,
+        "lat": 50.1356332197085
+      }
+    },
+    "location": {
+      "lng": 14.5010413,
+      "lat": 50.1369822
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "663",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "663"
+    },
+    {
+      "long_name": "Veselská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Veselská"
+    },
+    {
+      "long_name": "Praha 18",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 18"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "199 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "199 00"
+    }
+  ],
+  "formatted_address": "Veselská 663, 199 00 Praha 18, Czechia"
+}

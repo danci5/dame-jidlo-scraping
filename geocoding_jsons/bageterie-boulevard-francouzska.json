@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJHc8RWY-UC0cRPfy7vyuFeSc",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4394236802915,
+        "lat": 50.0757191802915
+      },
+      "southwest": {
+        "lng": 14.4367257197085,
+        "lat": 50.0730212197085
+      }
+    },
+    "location": {
+      "lng": 14.4380747,
+      "lat": 50.0743702
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "80",
+      "types": [
+        "premise"
+      ],
+      "short_name": "80"
+    },
+    {
+      "long_name": "Francouzská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Francouzská"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Francouzská 80/6, 120 00 Praha 2-Vinohrady, Czechia"
+}

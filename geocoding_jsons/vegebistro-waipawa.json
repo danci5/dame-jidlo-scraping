@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJHxjEVHmTC0cRff5gCDHt_28",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4597211802915,
+        "lat": 50.0720973802915
+      },
+      "southwest": {
+        "lng": 14.4570232197085,
+        "lat": 50.0693994197085
+      }
+    },
+    "location": {
+      "lng": 14.4583722,
+      "lat": 50.0707484
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "22",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "22"
+    },
+    {
+      "long_name": "651",
+      "types": [
+        "premise"
+      ],
+      "short_name": "651"
+    },
+    {
+      "long_name": "Kodaňská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Kodaňská"
+    },
+    {
+      "long_name": "Vršovice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vršovice"
+    },
+    {
+      "long_name": "Praha 10",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 10"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "101 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "101 00"
+    }
+  ],
+  "formatted_address": "Kodaňská 651/22, 101 00 Praha 10-Vršovice, Czechia"
+}

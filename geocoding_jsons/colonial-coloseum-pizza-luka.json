@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ1_zSO_-VC0cR3kmP8138Z1k",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3242502802915,
+        "lat": 50.0467708802915
+      },
+      "southwest": {
+        "lng": 14.3215523197085,
+        "lat": 50.0440729197085
+      }
+    },
+    "location": {
+      "lng": 14.3229013,
+      "lat": 50.0454219
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "2590",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2590"
+    },
+    {
+      "long_name": "Mukařovského",
+      "types": [
+        "route"
+      ],
+      "short_name": "Mukařovského"
+    },
+    {
+      "long_name": "Stodůlky",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Stodůlky"
+    },
+    {
+      "long_name": "Praha 13",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 13"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "155 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "155 00"
+    }
+  ],
+  "formatted_address": "Mukařovského 2590/2, 155 00 Praha 13-Stodůlky, Czechia"
+}

@@ -1,0 +1,88 @@
+{
+  "place_id": "EjRNZXppYnJhbnNrw6EgMTMsIDExMCAwMCBQcmFoYSAxLU5vdsOpIE3Em3N0bywgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4305451802915,
+        "lat": 50.0796625802915
+      },
+      "southwest": {
+        "lng": 14.4278472197085,
+        "lat": 50.0769646197085
+      }
+    },
+    "location": {
+      "lng": 14.4291962,
+      "lat": 50.07831359999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "13",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "13"
+    },
+    {
+      "long_name": "Mezibranská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Mezibranská"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Mezibranská 13, 110 00 Praha 1-Nové Město, Czechia"
+}

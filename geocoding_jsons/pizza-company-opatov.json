@@ -1,0 +1,76 @@
+{
+  "place_id": "ChIJ6aHwgiSSC0cRNxbcUOxy2eE",
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.5128073,
+        "lat": 50.0308117
+      },
+      "southwest": {
+        "lng": 14.5035571,
+        "lat": 50.0209351
+      }
+    },
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5128073,
+        "lat": 50.0308117
+      },
+      "southwest": {
+        "lng": 14.5035571,
+        "lat": 50.0209351
+      }
+    },
+    "location": {
+      "lng": 14.5083429,
+      "lat": 50.0258335
+    }
+  },
+  "types": [
+    "route"
+  ],
+  "address_components": [
+    {
+      "long_name": "Chilská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Chilská"
+    },
+    {
+      "long_name": "Praha 11",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 11"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    }
+  ],
+  "formatted_address": "Chilská, Praha 11, Czechia"
+}

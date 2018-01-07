@@ -1,0 +1,81 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3978533802915,
+        "lat": 49.9758545802915
+      },
+      "southwest": {
+        "lng": 14.3951554197085,
+        "lat": 49.9731566197085
+      }
+    },
+    "location": {
+      "lng": 14.3965044,
+      "lat": 49.9745056
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "623",
+      "types": [
+        "premise"
+      ],
+      "short_name": "623"
+    },
+    {
+      "long_name": "U Malé řeky",
+      "types": [
+        "route"
+      ],
+      "short_name": "U Malé řeky"
+    },
+    {
+      "long_name": "Praha-Zbraslav",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Zbraslav"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "156 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "156 00"
+    }
+  ],
+  "formatted_address": "U Malé řeky 623, 156 00 Praha-Zbraslav, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJRQWGhDOXC0cRwRddZMcoUZs",
+  "partial_match": true
+}

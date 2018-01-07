@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJD0ZJCfKUC0cRBS-u3hWRsIw",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4222638802915,
+        "lat": 50.0820794802915
+      },
+      "southwest": {
+        "lng": 14.4195659197085,
+        "lat": 50.0793815197085
+      }
+    },
+    "location": {
+      "lng": 14.4209149,
+      "lat": 50.08073049999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "17",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "17"
+    },
+    {
+      "long_name": "1390",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1390"
+    },
+    {
+      "long_name": "Vladislavova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vladislavova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Vladislavova 1390/17, Nové Město, 110 00 Praha-Praha 1, Czechia"
+}

@@ -1,0 +1,94 @@
+{
+  "place_id": "ChIJJ2HEvqqVC0cR5zLweHPEaiE",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3933740802915,
+        "lat": 50.07438008029149
+      },
+      "southwest": {
+        "lng": 14.3906761197085,
+        "lat": 50.0716821197085
+      }
+    },
+    "location": {
+      "lng": 14.3920251,
+      "lat": 50.07303109999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "67",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "67"
+    },
+    {
+      "long_name": "877",
+      "types": [
+        "premise"
+      ],
+      "short_name": "877"
+    },
+    {
+      "long_name": "Holečkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Holečkova"
+    },
+    {
+      "long_name": "Smíchov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Smíchov"
+    },
+    {
+      "long_name": "Praha",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Holečkova 877/67, 150 00 Praha-Smíchov, Czechia"
+}

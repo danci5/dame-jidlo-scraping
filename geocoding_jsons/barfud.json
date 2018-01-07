@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJK1Yh85eUC0cReyXrdYam6EY",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4456071802915,
+        "lat": 50.0885998802915
+      },
+      "southwest": {
+        "lng": 14.4429092197085,
+        "lat": 50.0859019197085
+      }
+    },
+    "location": {
+      "lng": 14.4442582,
+      "lat": 50.0872509
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "107",
+      "types": [
+        "premise"
+      ],
+      "short_name": "107"
+    },
+    {
+      "long_name": "Husitská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Husitská"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Husitská 107/3, 130 00 Praha 3-Žižkov, Czechia"
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJrfRwUfKUC0cRxnNx07HN6ok",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4227737802915,
+        "lat": 50.08004898029151
+      },
+      "southwest": {
+        "lng": 14.4200758197085,
+        "lat": 50.07735101970851
+      }
+    },
+    "location": {
+      "lng": 14.4214248,
+      "lat": 50.0787
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "12",
+      "types": [
+        "premise"
+      ],
+      "short_name": "12"
+    },
+    {
+      "long_name": "Vodičkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vodičkova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Vodičkova 12/5, Nové Město, 120 00 Praha-Praha 2, Czechia"
+}

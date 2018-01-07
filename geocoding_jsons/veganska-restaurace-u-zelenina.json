@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJj4oa9JiUC0cR1giJLUt2PQ0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4498561802915,
+        "lat": 50.0877062802915
+      },
+      "southwest": {
+        "lng": 14.4471582197085,
+        "lat": 50.0850083197085
+      }
+    },
+    "location": {
+      "lng": 14.4485072,
+      "lat": 50.0863573
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "4",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "4"
+    },
+    {
+      "long_name": "576",
+      "types": [
+        "premise"
+      ],
+      "short_name": "576"
+    },
+    {
+      "long_name": "Jeronýmova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Jeronýmova"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Jeronýmova 576/4, 130 00 Praha 3-Žižkov, Czechia"
+}

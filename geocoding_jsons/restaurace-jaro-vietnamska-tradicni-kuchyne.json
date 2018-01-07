@@ -1,0 +1,105 @@
+{
+  "place_id": "ChIJ-9N6wUeTC0cRs9DlGR_L-U8",
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.4897484,
+        "lat": 50.0923202
+      },
+      "southwest": {
+        "lng": 14.4891909,
+        "lat": 50.0921535
+      }
+    },
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4908186302915,
+        "lat": 50.0935858302915
+      },
+      "southwest": {
+        "lng": 14.4881206697085,
+        "lat": 50.0908878697085
+      }
+    },
+    "location": {
+      "lng": 14.4894697,
+      "lat": 50.0922369
+    }
+  },
+  "types": [
+    "premise"
+  ],
+  "address_components": [
+    {
+      "long_name": "214",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "214"
+    },
+    {
+      "long_name": "1956",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1956"
+    },
+    {
+      "long_name": "Koněvova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Koněvova"
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Koněvova 1956/214, 130 00 Praha 3-Žižkov, Czechia"
+}

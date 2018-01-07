@@ -4,7 +4,7 @@ id,restaurant_name,rating,number_of_ratings,delivery_fee,full_address,lat,lng,pr
 2,abiy-kebab-pizza,-1.0,0,0 Kč,"Štefánikova 5/59, Praha 5 15000",50.07807030000001,14.4038743,5,https://www.damejidlo.cz/abiy-kebab-pizza
 3,al-capone,81.0,19,0 Kč,"Na Poříčí 36, Praha 1 11000",50.0900399,14.4352159,1,https://www.damejidlo.cz/al-capone
 4,pizzerie-al-mulino,88.0,46,zdarma,"Národních hrdinů 3, Praha 9 19000",50.0882196,14.5818282,9,https://www.damejidlo.cz/pizzerie-al-mulino
-5,al-tagliere,52.0,5,29 Kč (zdarma od 500 Kč),"Ječná 5, Praha 2 12000",50.075604,14.4223784,2,https://www.damejidlo.cz/al-tagliere
+5,al-tagliere,52.0,5,29 Kč (zdarma od 500 Kč),"Ječná 5, Praha 2 12000",50.07584689999999,14.4213067,2,https://www.damejidlo.cz/al-tagliere
 6,alberto-ristorante-praha,66.0,6,49 Kč (zdarma od 1 000 Kč),"Radlická 41/953, Praha 5 15000",50.06154000000001,14.4011255,5,https://www.damejidlo.cz/alberto-ristorante-praha
 7,alcohol24,-1.0,0,50 Kč,"Králodvorská 664/11, Praha 11000",50.0882295,14.4268916,11000,https://www.damejidlo.cz/alcohol24
 8,amfora-pizza-mansfeldova,82.0,20,49 Kč,"Mansfeldova 805/12, Praha 9 19800",50.1071001,14.5792845,9,https://www.damejidlo.cz/amfora-pizza-mansfeldova
@@ -49,3 +49,874 @@ id,restaurant_name,rating,number_of_ratings,delivery_fee,full_address,lat,lng,pr
 47,bep-viet-ii,92.0,129,29 Kč (zdarma od 700 Kč),"Michelská 2, Praha 4 14000",50.0544249,14.4527129,4,https://www.damejidlo.cz/bep-viet-ii
 48,best-doner-kebab,90.0,66,49 Kč,"Tupolevova 747, Praha 9 19000",50.1347782,14.5067561,9,https://www.damejidlo.cz/best-doner-kebab
 49,big-pizza-ii,83.0,201,0 Kč,"Seifertova 49, Praha 3 13000",50.0851513,14.4453658,3,https://www.damejidlo.cz/big-pizza-ii
+50,bistrawveg-cernymost,-1.0,0,49 Kč,"Chlumecká 765/6, Praha 9 19800",50.108793,14.5832921,9,https://www.damejidlo.cz/bistrawveg-cernymost
+51,bistrawveg-praha-chodov,-1.0,0,49 Kč (zdarma od 700 Kč),"Roztylská 2321/19 - OC Chodov, Praha 148 00",50.0319171,14.4905253,148,https://www.damejidlo.cz/bistrawveg-praha-chodov
+52,bistro-apetit-quick,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Sokolovská 105/76, Praha 8 18600",50.0934829,14.4495996,8,https://www.damejidlo.cz/bistro-apetit-quick
+53,bistro-bartga,91.0,216,zdarma až 29 Kč (zdarma od 390 Kč),"Siemensova 2716/2, Praha 15500",50.0480356,14.3059722,15500,https://www.damejidlo.cz/bistro-bartga
+54,de-lyna-2,,,,,,,,https://www.damejidlo.cz/de-lyna-2
+55,bistro-grill-farma-jonas,77.0,18,zdarma,"Šlikova 293/27, Praha 6 16900",50.0834977,14.3764851,6,https://www.damejidlo.cz/bistro-grill-farma-jonas
+56,bistro-happy-vikend,85.0,215,69 Kč,"Ruská 777/152, Praha 10 11000",50.0737145,14.4765137,10,https://www.damejidlo.cz/bistro-happy-vikend
+57,bistro-happy-ruska,86.0,85,49 Kč,"Ruská 777/152, Praha 10000",50.0737145,14.4765137,10000,https://www.damejidlo.cz/bistro-happy-ruska
+58,bistro-pho-viet,77.0,35,29 Kč,"U Plynárny 757/6, Praha 4 14000",50.05492539999999,14.4543153,4,https://www.damejidlo.cz/bistro-pho-viet
+59,bistro-valecek,92.0,10,29 Kč (zdarma od 700 Kč),"Jaselská 246/20, Praha 6 16000",50.099138,14.4026975,6,https://www.damejidlo.cz/bistro-valecek
+60,bistro-zastav-se,-1.0,0,29 Kč (zdarma od 700 Kč),"Koněvova 61, Praha 3 13000",50.0890412,14.4610831,3,https://www.damejidlo.cz/bistro-zastav-se
+61,blackberry-cafe-restaurant,82.0,143,59 Kč,"Michelská 31, Praha 4 - Michle 14000",50.05175879999999,14.4551052,4,https://www.damejidlo.cz/blackberry-cafe-restaurant
+62,bohemia-bagel-lazenska,-1.0,0,29 Kč (zdarma od 600 Kč),"Lázeňská 19, Praha 11000",50.0871933,14.4060011,11000,https://www.damejidlo.cz/bohemia-bagel-lazenska
+63,bon-bon-karlova,-1.0,0,29 Kč (zdarma od 600 Kč),"Karlova 48, Praha 1 11000",50.08640519999999,14.4192576,1,https://www.damejidlo.cz/bon-bon-karlova
+64,borsalino-gold-club,70.0,421,0 Kč,"Štěpánská 540/7, Praha - Nové Město 12000",50.0764123,14.4242274,,https://www.damejidlo.cz/borsalino-gold-club
+65,borsalino-party-service,-1.0,0,139 Kč,"Palackého 717/11, Praha - Nové Město 11000",50.0810565,14.4236969,,https://www.damejidlo.cz/borsalino-party-service
+66,borsalino-premium,67.0,62,0 Kč,"Palackého 717/11, Praha - Nové Město 11000",50.0810565,14.4236969,,https://www.damejidlo.cz/borsalino-premium
+67,brambor-king,100.0,5,29 Kč (zdarma od 700 Kč),"U Slavie 1527, Praha 10 10000",50.0677682,14.4680777,10,https://www.damejidlo.cz/brambor-king
+68,branicka-tankovna,77.0,23,29 Kč,"U Staré Pošty 8/1, Praha 4 14700",50.03612409999999,14.4129044,4,https://www.damejidlo.cz/branicka-tankovna
+69,branicke-lahudkarstvi,-1.0,0,29 Kč,"Branická 75, Praha 4 14700",50.0351925,14.4149878,4,https://www.damejidlo.cz/branicke-lahudkarstvi
+70,balls-brixton,93.0,18,19 Kč (zdarma od 700 Kč),"Korunní 783/23, Praha 2 12000",50.0754573,14.4417492,2,https://www.damejidlo.cz/balls-brixton
+71,bstreet-bistro,90.0,8,29 Kč (zdarma od 700 Kč),"Bozděchova 5, Praha 5 15000",50.0703187,14.4042156,5,https://www.damejidlo.cz/bstreet-bistro
+72,bubbleology-atrium-flora,-1.0,0,29 Kč (zdarma od 700 Kč),"Vinohradská 2828/151, Praha 3 13000",50.0781362,14.4614033,3,https://www.damejidlo.cz/bubbleology-atrium-flora
+73,bubbleology-ccm,-1.0,0,49 Kč,"Chlumecká 765/6, Praha 19000",50.108793,14.5832921,19000,https://www.damejidlo.cz/bubbleology-ccm
+74,bubbleology-centrum-chodov,-1.0,0,29 Kč (zdarma od 700 Kč),"Roztylská 2321/19, Praha 4 14000",50.0320692,14.4909962,4,https://www.damejidlo.cz/bubbleology-centrum-chodov
+75,bubbleology-novodvorska-plaza,-1.0,0,,"Novodvorská 136, Praha 4 14000",50.0267644,14.4329116,4,https://www.damejidlo.cz/bubbleology-novodvorska-plaza
+76,bubbleology-oc-novy-smichov,-1.0,0,29 Kč (zdarma od 700 Kč),"Plzeňská 8, Praha 5 15000",50.0729376,14.4023466,5,https://www.damejidlo.cz/bubbleology-oc-novy-smichov
+77,buf-an,-1.0,0,49 Kč,"Thákurova 18a, Praha 6 16000",50.1030501,14.3887834,6,https://www.damejidlo.cz/buf-an
+78,burger-de-soto-ii,92.0,281,59 Kč,"Nuselská 78, Praha 4 14000",50.0592352,14.4495577,4,https://www.damejidlo.cz/burger-de-soto-ii
+79,burger-fresh,56.0,12,zdarma,"Kodaňská 57, Praha 10 10100",50.0708965,14.4594737,10,https://www.damejidlo.cz/burger-fresh
+80,burger-fresh-zabehlicka,60.0,15,zdarma,"Záběhlická 131/33, Praha 10 - Záběhlice 10000",50.0559258,14.4815921,10,https://www.damejidlo.cz/burger-fresh-zabehlicka
+81,burger-joy,80.0,14,0 Kč,"Náměstí bratří Synků 7, Praha 4 14000",50.0638875,14.4413361,4,https://www.damejidlo.cz/burger-joy
+82,burger-king-28-rijna,88.0,24,29 Kč (zdarma od 2 000 Kč),"28. října 767/12, Praha 1 11000",50.0835769,14.4227079,1,https://www.damejidlo.cz/burger-king-28-rijna
+83,burger-king-harfa,86.0,96,29 Kč (zdarma od 2 000 Kč),"Českomoravská 2420/15A, Praha 9 19093",50.10382449999999,14.4912498,9,https://www.damejidlo.cz/burger-king-harfa
+84,burger-king-letnany,77.0,16,29 Kč,"Veselská 663, Praha 18 19900",50.1369822,14.5010413,18,https://www.damejidlo.cz/burger-king-letnany
+85,burger-king-zlicin,86.0,27,29 Kč (zdarma od 2 000 Kč),"Řevnická 1, Praha 5 15000",50.053295,14.2875481,5,https://www.damejidlo.cz/burger-king-zlicin
+86,burger-online,94.0,22,49 Kč (zdarma od 700 Kč),"Petržílkova 2583/13, Praha 13 15800",50.0508856,14.3454717,13,https://www.damejidlo.cz/burger-online
+87,burger-evropska2,94.0,14,zdarma až 49 Kč,"Evropská 157a/46, Praha 6 16200",50.0927934,14.3297724,6,https://www.damejidlo.cz/burger-evropska2
+88,cafe-wine-old-star,88.0,34,79 Kč,"Sarajevská 1690/25, Praha 2 12000",50.0673937,14.4350263,2,https://www.damejidlo.cz/cafe-wine-old-star
+89,save-time,77.0,28,59 Kč až 149 Kč,"U Berounky 420, Praha - Lipence 15000",49.952196,14.336779,,https://www.damejidlo.cz/save-time
+90,burrito-loco-praha-6,84.0,53,29 Kč (zdarma od 1 000 Kč),"Dejvická 6, Praha 6 16000",50.0980932,14.4038802,6,https://www.damejidlo.cz/burrito-loco-praha-6
+91,burrito-loco-seifertova,74.0,20,29 Kč (zdarma od 700 Kč),"Seifertova 50, Praha 3 13000",50.08398709999999,14.4531019,3,https://www.damejidlo.cz/burrito-loco-seifertova
+92,burrito-loco-sokolovska,93.0,6,49 Kč (zdarma od 700 Kč),"Sokolovská 79/81, Praha 8 18000",50.09392,14.4501096,8,https://www.damejidlo.cz/burrito-loco-sokolovska
+93,burrito-loco-vitezna,91.0,63,29 Kč (zdarma od 700 Kč),"Vítězná 15, Praha 5 15000",50.08118169999999,14.4045968,5,https://www.damejidlo.cz/burrito-loco-vitezna
+94,burrito-loco,77.0,30,29 Kč (zdarma od 700 Kč),"Masná 2, Praha 1 11000",50.0892133,14.423253,1,https://www.damejidlo.cz/burrito-loco
+95,burrito-loco-holesovice,90.0,42,29 Kč (zdarma od 700 Kč),"Milady Horákové 831/3, Praha 7 17000",50.09886470000001,14.4326205,7,https://www.damejidlo.cz/burrito-loco-holesovice
+96,burrito-loco-spalena,83.0,51,29 Kč (zdarma od 700 Kč),"Spálená 43, Praha 1 11000",50.0812439,14.4194122,1,https://www.damejidlo.cz/burrito-loco-spalena
+97,burrito-loco-andel,87.0,42,29 Kč (zdarma od 700 Kč),"Štefánikova 7, Praha 5 15000",50.0726719,14.4036108,5,https://www.damejidlo.cz/burrito-loco-andel
+98,burrito-loco-vinohradska,78.0,60,29 Kč (zdarma od 700 Kč),"Vinohradská 60, Praha 3 13000",50.0770111,14.4497764,3,https://www.damejidlo.cz/burrito-loco-vinohradska
+99,by-kebab,-1.0,0,49 Kč,"Plukovníka Mráze 1182/24, Praha 15 10200",50.0503149,14.543992,15,https://www.damejidlo.cz/by-kebab
+100,c-p-vietnamska-thajska-restaurace,88.0,30,29 Kč (zdarma od 700 Kč),"Novákových 894/9, Praha 8 18000",50.1033772,14.4748221,8,https://www.damejidlo.cz/c-p-vietnamska-thajska-restaurace
+101,c-t-pho-viet,67.0,17,29 Kč (zdarma od 1 000 Kč),"Karlovo nám. 317/5, Praha 2 12000",50.0742913,14.4183589,2,https://www.damejidlo.cz/c-t-pho-viet
+102,cacao,93.0,23,29 Kč (zdarma od 1 000 Kč),"V CELNICI 1031/4, Praha 1 11000",50.0878856,14.4300736,1,https://www.damejidlo.cz/cacao
+103,cafe-bambus-praha,-1.0,0,59 Kč (zdarma od 800 Kč),"Benediktská 12, Praha 1 11000",50.09025339999999,14.4273949,1,https://www.damejidlo.cz/cafe-bambus-praha
+104,fusion-sushi,88.0,208,69 Kč,"Balbínova 19, Praha 2 12000",50.0785535,14.4350496,2,https://www.damejidlo.cz/fusion-sushi
+105,cafe-buddha-norska,90.0,187,69 Kč,"Norská 14, Praha 10 10000",50.0718974,14.4555555,10,https://www.damejidlo.cz/cafe-buddha-norska
+106,cafe-ng-kinsky,-1.0,0,29 Kč (zdarma od 700 Kč),"Staroměstské náměstí 606/11, Praha 1 11000",50.0875692,14.4211875,1,https://www.damejidlo.cz/cafe-ng-kinsky
+107,canttina,91.0,492,79 Kč,"Pod Paťankou 1B, Praha 6 16000",50.1114315,14.3927658,6,https://www.damejidlo.cz/canttina
+108,capua,66.0,6,29 Kč (zdarma od 700 Kč),"Milady Horákové 9, Praha 7 17000",50.099064,14.4317005,7,https://www.damejidlo.cz/capua
+109,restaurant-u-velke-prahy,84.0,185,199 Kč (zdarma od 900 Kč),"Ježovická 6, Praha 9 19016",50.0693006,14.6509552,9,https://www.damejidlo.cz/restaurant-u-velke-prahy
+110,caviar-house,-1.0,0,69 Kč,"Zborovská 49, Praha 5 15000",50.0810499,14.4069136,5,https://www.damejidlo.cz/caviar-house
+111,cihelna-la-familia,70.0,19,29 Kč (zdarma od 600 Kč),"Křižíkova 26, Praha 8 18000",50.0919401,14.4490648,8,https://www.damejidlo.cz/cihelna-la-familia
+112,cipa-gastro,-1.0,0,19 Kč (zdarma od 700 Kč),"Hořejší Nábřeží 368, Praha 15000",50.0668977,14.4110637,15000,https://www.damejidlo.cz/cipa-gastro
+113,ciros,,,,,,,,https://www.damejidlo.cz/ciros
+114,classe-italia-ristorante,68.0,5,29 Kč (zdarma od 700 Kč),"Partyzánská 5, Praha 7 17000",50.1078467,14.4366067,7,https://www.damejidlo.cz/classe-italia-ristorante
+115,coffee-inn,-1.0,0,29 Kč (zdarma od 700 Kč),"Sokolovská 264/227, Praha 9 19000",50.1068197,14.4894265,9,https://www.damejidlo.cz/coffee-inn
+116,coffee-park,-1.0,0,29 Kč (zdarma od 700 Kč),"Chopinova 6, Praha 12000",50.0791085,14.445115,12000,https://www.damejidlo.cz/coffee-park
+117,colonial-coloseum-pizza-luka,100.0,5,59 Kč (zdarma od 1 000 Kč),"Mukařovského 2, Praha 15500",50.0454219,14.3229013,15500,https://www.damejidlo.cz/colonial-coloseum-pizza-luka
+118,corleone-andel2,85.0,24,zdarma,"Na Bělidle 42, Praha 5 15000",50.0715206,14.4044629,5,https://www.damejidlo.cz/corleone-andel2
+119,corleone-pankrac,86.0,48,zdarma,"Hvězdova 2860/24, Praha 4 14000",50.0508655,14.4348482,4,https://www.damejidlo.cz/corleone-pankrac
+120,corleone-prosek-ii,87.0,95,zdarma až 60 Kč,"Vysočanská 382, Praha 9 19000",50.1194637,14.4991532,9,https://www.damejidlo.cz/corleone-prosek-ii
+121,crodonut-club,-1.0,0,79 Kč (zdarma od 800 Kč),"Nám. Prezidenta Masaryka 14, Praha 4 – Kunratice 14000",50.0133539,14.4840002,4,https://www.damejidlo.cz/crodonut-club
+122,crocknroll,-1.0,0,29 Kč,"Koněvova 11, Praha 3 13000",50.0874892,14.4546146,3,https://www.damejidlo.cz/crocknroll
+123,curry-tikka,88.0,21,49 Kč,"Na Chvalské Tvrzi 858/1, Praha - Horní Počernice 19300",50.111556,14.5963397,,https://www.damejidlo.cz/curry-tikka
+124,curry-house,94.0,65,29 Kč až 49 Kč (zdarma od 1 000 Kč),"Novákových 7, Praha 8 18000",50.1032336,14.4747294,8,https://www.damejidlo.cz/curry-house
+125,curry-palace,87.0,116,90 Kč,"Jirečkova 13, Praha 7 17000",50.0991884,14.4230108,7,https://www.damejidlo.cz/curry-palace
+126,grill,89.0,482,59 Kč (zdarma od 600 Kč),"K zahrádkám 1047/21a, Praha 5 15000",50.0489403,14.3256408,5,https://www.damejidlo.cz/grill
+127,cerveny-koral,54.0,7,29 Kč (zdarma od 700 Kč),"Lodžská 850/6 (OC Krakov), Praha 8 18100",50.1276854,14.418456,8,https://www.damejidlo.cz/cerveny-koral
+128,ceska-jidelna-u-sotonu-ii,88.0,133,zdarma až 59 Kč,"Nuselská 78, Praha 4 14000",50.0592352,14.4495577,4,https://www.damejidlo.cz/ceska-jidelna-u-sotonu-ii
+129,ceske-jidlo-1,53.0,6,29 Kč (zdarma od 700 Kč),"Wilsonova 8, Praha 2 12000",50.0832387,14.4350214,2,https://www.damejidlo.cz/ceske-jidlo-1
+130,ceskoslovenska-rizkovna,98.0,110,zdarma až 99 Kč,"Přátelství 74/12A, Praha 10 10000",50.029866,14.6007653,10,https://www.damejidlo.cz/ceskoslovenska-rizkovna
+131,cina-jede-jizni-mesto,84.0,103,zdarma (zdarma od 99 Kč),"Hrusická 2617/3A, Praha 4 14000",50.0486467,14.4846588,4,https://www.damejidlo.cz/cina-jede-jizni-mesto
+132,cinska-restaurace-xiu-shan-shui,76.0,5,49 Kč,"Hrusická 2617/3A, Praha 4 14000",50.0486467,14.4846588,4,https://www.damejidlo.cz/cinska-restaurace-xiu-shan-shui
+133,dai-marinai-balkan-restaurants,-1.0,0,49 Kč (zdarma od 700 Kč),"Zázvorkova 25/3, Praha 5 15500",50.0451641,14.3318797,5,https://www.damejidlo.cz/dai-marinai-balkan-restaurants
+134,damerizek,91.0,256,29 Kč (zdarma od 500 Kč),"Na Květnici 1, Praha 4 14000",50.0610895,14.4401306,4,https://www.damejidlo.cz/damerizek
+135,deli-viet-restaurant,81.0,30,29 Kč (zdarma od 700 Kč),"Opletalova 20, Praha 1 11000",50.0817105,14.4305535,1,https://www.damejidlo.cz/deli-viet-restaurant
+136,detaillo-atrium-flora,-1.0,0,zdarma,"Vinohradská 2828/151, Praha 3 13000",50.0781362,14.4614033,3,https://www.damejidlo.cz/detaillo-atrium-flora
+137,detaillo-restaurant-centrum-chodov,-1.0,0,zdarma,"Roztylská 2321/19, Praha 4 14800",50.0320692,14.4909962,4,https://www.damejidlo.cz/detaillo-restaurant-centrum-chodov
+138,diversion-bistro-1,88.0,10,29 Kč (zdarma od 700 Kč),"Mělnická 12, Praha 15000",50.0800961,14.4050622,15000,https://www.damejidlo.cz/diversion-bistro-1
+139,dobrej-rizek-taky-burger,93.0,25,zdarma až 35 Kč,"Průběžná 180/42, Praha 10 10000",50.067478,14.4935032,10,https://www.damejidlo.cz/dobrej-rizek-taky-burger
+140,dobry-rizek-praha-1,70.0,8,75 Kč,"U Plynárny 692/62, Praha 4 14000",50.0566633,14.4688903,4,https://www.damejidlo.cz/dobry-rizek-praha-1
+141,domaci-testoviny-honza-matej,89.0,171,49 Kč,"Seifertova 573/11, Praha 3 13000",50.0854803,14.4409478,3,https://www.damejidlo.cz/domaci-testoviny-honza-matej
+142,donor-kebab,83.0,32,29 Kč (zdarma od 700 Kč),"Ostrovského 1/34, Praha 5 15000",50.0689928,14.4045141,5,https://www.damejidlo.cz/donor-kebab
+143,doner-kebab-praha-4,73.0,9,29 Kč (zdarma od 700 Kč),"Čestmírova 365/3, Praha 4 14000",50.0643229,14.4418634,4,https://www.damejidlo.cz/doner-kebab-praha-4
+144,donut-club-praha,-1.0,0,79 Kč (zdarma od 800 Kč),"Nám. Prezidenta Masaryka 14, Praha 4 – Kunratice 14000",50.0133539,14.4840002,4,https://www.damejidlo.cz/donut-club-praha
+145,donuter,90.0,184,49 Kč,"Seifertova 996/31, Praha 3 13000",50.085387,14.4432661,3,https://www.damejidlo.cz/donuter
+146,donuter-zlicin,66.0,6,49 Kč,"Řevnická 1, Praha 5 15000",50.053295,14.2875481,5,https://www.damejidlo.cz/donuter-zlicin
+147,dumpkings,76.0,126,29 Kč,"Fügnerovo náměstí 1866/5, Praha 2 12000",50.0714994,14.4300181,2,https://www.damejidlo.cz/dumpkings
+148,dumpkingsii,66.0,40,29 Kč až 95 Kč,"Jankovcova 938/18a, Praha 7 17000",50.11088700000001,14.4503522,7,https://www.damejidlo.cz/dumpkingsii
+149,dutch-pub-restaurant,-1.0,0,29 Kč (zdarma od 600 Kč),"Vladislavova 1390/17, Praha 1 11000",50.08073049999999,14.4209149,1,https://www.damejidlo.cz/dutch-pub-restaurant
+150,e-sampanske,-1.0,0,250 Kč,"U dětského hřiště 11, Praha 5 15800",50.0540873,14.358733,5,https://www.damejidlo.cz/e-sampanske
+151,eat-well,-1.0,0,29 Kč (zdarma od 700 Kč),"Kostnické náměstí 3, Praha 3 13000",50.0860192,14.4483394,3,https://www.damejidlo.cz/eat-well
+152,edemame,90.0,116,69 Kč,"Norská 14, Praha 10 11000",50.0718974,14.4555555,10,https://www.damejidlo.cz/edemame
+153,el-centro-restaurante-espanol,-1.0,0,59 Kč (zdarma od 600 Kč),"Maltézské náměstí 9, Praha 1 11000",50.0864937,14.4049472,1,https://www.damejidlo.cz/el-centro-restaurante-espanol
+154,el-emir-koruna,-1.0,0,59 Kč (zdarma od 1 000 Kč),"Václavské náměstí 1, Praha 1 11000",50.08413530000001,14.4242691,1,https://www.damejidlo.cz/el-emir-koruna
+155,el-chapo,91.0,122,79 Kč (zdarma od 700 Kč),"bořanovická 43, Praha 8 18200",50.1280327,14.4592472,8,https://www.damejidlo.cz/el-chapo
+156,engawa-sushi-bar,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Petrské náměstí 1664/5, Praha 1 11000",50.0910761,14.4323489,1,https://www.damejidlo.cz/engawa-sushi-bar
+157,escobaras-praha,70.0,8,49 Kč,"Kladenská 7, Praha 160 00",50.0979075,14.3669626,160,https://www.damejidlo.cz/escobaras-praha
+158,etnosvet,,,,,,,,https://www.damejidlo.cz/etnosvet
+159,famagusta,-1.0,0,29 Kč (zdarma od 600 Kč),"Vyšehradská 1446/53, Praha 2 12800",50.0733484,14.4182655,2,https://www.damejidlo.cz/famagusta
+160,fastfood-u-pilota,-1.0,0,49 Kč,"U Prioru 938/6, Praha 6 16000",50.0878307,14.3156852,6,https://www.damejidlo.cz/fastfood-u-pilota
+161,fastfood-koh-i-noor,-1.0,0,49 Kč,"Vršovická 51, Praha 10 10000",50.069457,14.4700117,10,https://www.damejidlo.cz/fastfood-koh-i-noor
+162,restaurace-sofia,-1.0,0,49 Kč,"Na Průhonu 242/41, Praha 8 18000",50.13850189999999,14.4360029,8,https://www.damejidlo.cz/restaurace-sofia
+163,fiasko-burger-andel,90.0,448,59 Kč,"Stroupežnického 9, Praha 15000",50.0697456,14.4030764,15000,https://www.damejidlo.cz/fiasko-burger-andel
+164,fiesta-mexicka-restaurace-1,91.0,18,29 Kč (zdarma od 1 000 Kč),"Václavkova 176/2, Praha 6 16000",50.0976648,14.4008986,6,https://www.damejidlo.cz/fiesta-mexicka-restaurace-1
+165,fili-restaurant,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Ve Smečkách 22, Praha 1 11000",50.0789741,14.4273085,1,https://www.damejidlo.cz/fili-restaurant
+166,fine-bistro,86.0,40,19 Kč až 99 Kč,"Žukovského 888/2, Praha - Ruzyně 16100",50.0903033,14.3095116,,https://www.damejidlo.cz/fine-bistro
+167,fitness-restaurace,,,,,,,,https://www.damejidlo.cz/fitness-restaurace
+168,flavours-wine-and-deli,-1.0,0,19 Kč (zdarma od 500 Kč),"Záhřebská 29, Praha 2 12000",50.0726796,14.4384443,2,https://www.damejidlo.cz/flavours-wine-and-deli
+169,fofr-pizza-ii,62.0,16,zdarma až 69 Kč,"Koněvova 148, Praha 3 13000",50.0912738,14.4742536,3,https://www.damejidlo.cz/fofr-pizza-ii
+170,food-house-by-fitness-menu,-1.0,0,29 Kč (zdarma od 700 Kč),"Na Strži 1721/63, Praha 14000",50.04995049999999,14.4390808,14000,https://www.damejidlo.cz/food-house-by-fitness-menu
+171,jidlo-lasky-praha,90.0,53,39 Kč,"Nerudova 32, Praha 1 11800",50.0884899,14.3984885,1,https://www.damejidlo.cz/jidlo-lasky-praha
+172,fraktal,65.0,7,49 Kč (zdarma od 1 000 Kč),"Šmeralova 1, Praha 7 17000",50.10027220000001,14.4225082,7,https://www.damejidlo.cz/fraktal
+173,fraskys-bistrot,,,,,,,,https://www.damejidlo.cz/fraskys-bistrot
+174,fresco-vento-1,-1.0,0,29 Kč (zdarma od 700 Kč),"Rašínovo Nábřeží 62, Praha 12000",50.0734854,14.4141354,12000,https://www.damejidlo.cz/fresco-vento-1
+175,o-papa-cerny-most,,,,,,,,https://www.damejidlo.cz/o-papa-cerny-most
+176,o-papa-revolucni,,,,,,,,https://www.damejidlo.cz/o-papa-revolucni
+177,fresh-point-pizza,82.0,35,29 Kč,"Terronská 52, Praha 6 16000",50.108424,14.3958149,6,https://www.damejidlo.cz/fresh-point-pizza
+178,frutiko-cz-ovocne-kytice,-1.0,0,169 Kč,"Mezi vodami 1955/19, Praha 12 14300",50.0093732,14.4017136,12,https://www.damejidlo.cz/frutiko-cz-ovocne-kytice
+179,fuji,-1.0,0,49 Kč (zdarma od 500 Kč),"Švehlova 1391/32, Praha 10 - Hostivař 10200",50.0532812,14.5171881,10,https://www.damejidlo.cz/fuji
+180,gamberorosso,-1.0,0,29 Kč (zdarma od 700 Kč),"Jakubská 744/4, Praha 1 11000",50.0880419,14.4250891,1,https://www.damejidlo.cz/gamberorosso
+181,gangster-burger,93.0,410,59 Kč,"Pechlátova 104/25, Praha 5 15000",50.0588971,14.3941069,5,https://www.damejidlo.cz/gangster-burger
+182,gangsterburger,91.0,208,59 Kč,"Novákových 32, Praha 8 18000",50.10440029999999,14.4787182,8,https://www.damejidlo.cz/gangsterburger
+183,gao-restaurant,77.0,16,29 Kč (zdarma od 700 Kč),"Václavské nám. 799/48, Praha 11000",50.0807314,14.4276324,11000,https://www.damejidlo.cz/gao-restaurant
+184,gastronom-original-gambrinus-restaurant-i,82.0,18,49 Kč (zdarma od 1 000 Kč),"Petržílkova 2583/13, Praha 13 15800",50.0508856,14.3454717,13,https://www.damejidlo.cz/gastronom-original-gambrinus-restaurant-i
+185,giallorossa,73.0,26,50 Kč (zdarma od 400 Kč),"Jakubská 2, Praha 1 11000",50.08814049999999,14.4245608,1,https://www.damejidlo.cz/giallorossa
+186,giallorossa-vinohradska,87.0,146,55 Kč,"Vinohradská 66, Praha 3 13000",50.0770829,14.4507525,3,https://www.damejidlo.cz/giallorossa-vinohradska
+187,gidos-pizza,91.0,702,zdarma,"NÁMĚSTÍ NA STRÁŽI 520/2, Praha 8 18000",50.1164843,14.4688709,8,https://www.damejidlo.cz/gidos-pizza
+188,glutarna-praha6,-1.0,0,49 Kč,"Rozvojová 269, Praha 6 16000",50.1278978,14.3825636,6,https://www.damejidlo.cz/glutarna-praha6
+189,golden-pacific-restaurant,-1.0,0,59 Kč (zdarma od 700 Kč),"Radlická 117, Praha 5 15800",50.0476058,14.3537456,5,https://www.damejidlo.cz/golden-pacific-restaurant
+190,golden-pacifik-cukrarna,100.0,5,59 Kč (zdarma od 700 Kč),"Radlická 117, Praha 5 15800",50.0476058,14.3537456,5,https://www.damejidlo.cz/golden-pacifik-cukrarna
+191,golden-tikka-praha,-1.0,0,29 Kč (zdarma od 700 Kč),"Kateřinská 42, Praha 2 12000",50.075191,14.4284305,2,https://www.damejidlo.cz/golden-tikka-praha
+192,gourmet-deli-bar,-1.0,0,29 Kč (zdarma od 700 Kč),"Celetná 988/38, Praha 1 11000",50.0871162,14.4265374,1,https://www.damejidlo.cz/gourmet-deli-bar
+193,gourmet-house,87.0,34,29 Kč (zdarma od 700 Kč),"Bucharova 2817/9, Praha 15800",50.05131799999999,14.350458,15800,https://www.damejidlo.cz/gourmet-house
+194,gourmet-hous,-1.0,0,zdarma až 29 Kč,"Bucharova 2817/9, Praha 15800",50.05131799999999,14.350458,15800,https://www.damejidlo.cz/gourmet-hous
+195,govinda-delicious,97.0,18,29 Kč (zdarma od 700 Kč),"Na Hrázi 216/5, Praha 8 18000",50.1052847,14.4737641,8,https://www.damejidlo.cz/govinda-delicious
+196,grand-rasoi-indian-thai-restaurant,-1.0,0,49 Kč (zdarma od 700 Kč),"Slezská 1668/56, Praha 2 12000",50.0761204,14.4465896,2,https://www.damejidlo.cz/grand-rasoi-indian-thai-restaurant
+197,green-day-salads,-1.0,0,29 Kč,"Jindřišská 24/941, Praha 1 11000",50.0843836,14.4291808,1,https://www.damejidlo.cz/green-day-salads
+198,green-garden-restaurant,66.0,6,29 Kč (zdarma od 700 Kč),"Fügnerovo náměstí 1865/4, Praha 2 12000",50.0715854,14.4302933,2,https://www.damejidlo.cz/green-garden-restaurant
+199,grill-sushi-bar,-1.0,0,29 Kč (zdarma od 700 Kč),"Lodžská 850/6 (OC Krakov), Praha 8 18100",50.1276854,14.418456,8,https://www.damejidlo.cz/grill-sushi-bar
+200,grill-king,-1.0,0,29 Kč,"Na Bělidle 27, Praha 15000",50.0715459,14.4057071,15000,https://www.damejidlo.cz/grill-king
+201,grilled-fried,-1.0,0,29 Kč (zdarma od 700 Kč),"Koněvova 100, Praha 3 13000",50.0896772,14.4656641,3,https://www.damejidlo.cz/grilled-fried
+202,grosseto-brumlovka-ii,,,,,,,,https://www.damejidlo.cz/grosseto-brumlovka-ii
+203,grosseto-dejvice-ii,88.0,63,29 Kč (zdarma od 2 000 Kč),"Jugoslávských partyzánů 8, Praha 6 16000",50.1032437,14.3955144,6,https://www.damejidlo.cz/grosseto-dejvice-ii
+204,gusto-pizza-kebab-1,80.0,124,0 Kč,"Čestmírova 363/1, Praha 4 14000",50.064263,14.4415996,4,https://www.damejidlo.cz/gusto-pizza-kebab-1
+205,gusto-veneto,-1.0,0,29 Kč (zdarma od 700 Kč),"Varšavská 715/36, Praha 2 12000",50.0734189,14.4385547,2,https://www.damejidlo.cz/gusto-veneto
+206,habanero-mexican-grill,87.0,85,29 Kč až 39 Kč (zdarma od 300 Kč),"Roztylská 2321/19, Praha 4 14000",50.0320692,14.4909962,4,https://www.damejidlo.cz/habanero-mexican-grill
+207,hallo-pizza-praha-10,77.0,32,zdarma,"Topolova 16, Praha 10 10000",50.0569538,14.5076384,10,https://www.damejidlo.cz/hallo-pizza-praha-10
+208,happy-bean-bistro,93.0,13,29 Kč (zdarma od 700 Kč),"Laubova 1659/2, Praha - Vinohrady 13000",50.0786969,14.4504786,,https://www.damejidlo.cz/happy-bean-bistro
+209,happy-restaurant,75.0,18,29 Kč (zdarma od 700 Kč),"Miškovická 235/12, Praha 19000",50.1230631,14.503361,19000,https://www.damejidlo.cz/happy-restaurant
+210,havana-grill,-1.0,0,29 Kč (zdarma od 600 Kč),"Rumunská 34, Praha 2 12000",50.0742571,14.4349806,2,https://www.damejidlo.cz/havana-grill
+211,havana-w,-1.0,0,59 Kč (zdarma od 1 000 Kč),"Dvacátého osmého pluku 119/33, Praha 10 11000",50.0718924,14.467494,10,https://www.damejidlo.cz/havana-w
+212,hercovka-bar-grill,-1.0,0,49 Kč (zdarma od 700 Kč),"Trojská 157/36, Praha 18000",50.1221085,14.4506291,18000,https://www.damejidlo.cz/hercovka-bar-grill
+213,himalaya-indian-restaurant,84.0,5,29 Kč (zdarma od 600 Kč),"Soukenická 1084/2, Praha 1 11000",50.0907068,14.4281256,1,https://www.damejidlo.cz/himalaya-indian-restaurant
+214,hloupy-honza,42.0,7,29 Kč (zdarma od 700 Kč),"Školská 12, Praha 1 11000",50.0782751,14.4243411,1,https://www.damejidlo.cz/hloupy-honza
+215,hoja-taiwanese-bistro,,,,,,,,https://www.damejidlo.cz/hoja-taiwanese-bistro
+216,holesovicka-kozlovna,84.0,25,29 Kč (zdarma od 700 Kč),"Dělnická 28, Praha 7 17000",50.1029397,14.4486996,7,https://www.damejidlo.cz/holesovicka-kozlovna
+217,hombre-del-mundo2,84.0,10,zdarma až 40 Kč,"Nádražní 21/29, Praha 5 15000",50.0702905,14.4049211,5,https://www.damejidlo.cz/hombre-del-mundo2
+218,home-office-nove-butovice,-1.0,0,49 Kč (zdarma od 700 Kč),"Radlická 117, Praha 5 15800",50.0476058,14.3537456,5,https://www.damejidlo.cz/home-office-nove-butovice
+219,home-office-bistro-harfa,-1.0,0,29 Kč (zdarma od 700 Kč),"Českomoravská 2420/15A, Praha 9 19093",50.10382449999999,14.4912498,9,https://www.damejidlo.cz/home-office-bistro-harfa
+220,home-office-bistro,-1.0,0,29 Kč (zdarma od 700 Kč),"Radlická 3185/1C, Praha 5 15000",50.071596,14.4011331,5,https://www.damejidlo.cz/home-office-bistro
+221,hooters-havelska,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Havelská 25, Praha 1 11000",50.0855291,14.421814,1,https://www.damejidlo.cz/hooters-havelska
+222,hooters-vodickova,73.0,9,49 Kč (zdarma od 600 Kč),"Vodičkova 5, Praha 2 12000",50.0787,14.4214248,2,https://www.damejidlo.cz/hooters-vodickova
+223,hoppallaaa,-1.0,0,29 Kč,"Příčná 1632/9, Praha 1 11000",50.0785632,14.4227153,1,https://www.damejidlo.cz/hoppallaaa
+224,hospoda-u-stareho-lva,90.0,20,29 Kč (zdarma od 700 Kč),"Lidická 799/13, Praha 5 15000",50.0724274,14.4086505,5,https://www.damejidlo.cz/hospoda-u-stareho-lva
+225,hospudka-regina,92.0,11,49 Kč (zdarma od 700 Kč),"Konojedská 38, Praha - Strašnice 10000",50.0639509,14.5105763,,https://www.damejidlo.cz/hospudka-regina
+226,hospudka-u-ferdy,,,,,,,,https://www.damejidlo.cz/hospudka-u-ferdy
+227,hospudka-v-parku,87.0,34,49 Kč,"Freyova 1/12, Praha 19000",50.10768059999999,14.5033627,19000,https://www.damejidlo.cz/hospudka-v-parku
+228,hospudka-v-parku2,85.0,98,29 Kč až 49 Kč,"Freyova 1/12, Praha 19000",50.10768059999999,14.5033627,19000,https://www.damejidlo.cz/hospudka-v-parku2
+229,na-stare-sokolovne,87.0,55,zdarma,"Podolská 90/5, Praha 4 14000",50.0540537,14.4184483,4,https://www.damejidlo.cz/na-stare-sokolovne
+230,na-stare-sokolovne-dj,88.0,7,29 Kč (zdarma od 700 Kč),"Podolská 90/5, Praha 4 14000",50.0540537,14.4184483,4,https://www.damejidlo.cz/na-stare-sokolovne-dj
+231,hostinec-na-stare-vozovne,,,,,,,,https://www.damejidlo.cz/hostinec-na-stare-vozovne
+232,hostinec-ve-mlyne,90.0,17,,"Jalodvorská 841/16, Praha 14200",50.0159014,14.4573291,14200,https://www.damejidlo.cz/hostinec-ve-mlyne
+233,rest-u-carodejky,80.0,12,49 Kč (zdarma od 600 Kč),"Kodaňská 55, Praha 10 10000",50.0765044,14.4928551,10,https://www.damejidlo.cz/rest-u-carodejky
+234,hotel-baroko,76.0,5,29 Kč (zdarma od 700 Kč),"Tomsova 11/13, Praha 10 10800",50.085634,14.5131097,10,https://www.damejidlo.cz/hotel-baroko
+235,hotel-svornost,82.0,23,zdarma až 100 Kč,"Novozámecká 284, Praha 9 19000",50.08866200000001,14.571443,9,https://www.damejidlo.cz/hotel-svornost
+236,hotovkarna-cz,89.0,64,zdarma (zdarma od 1 000 Kč),"Pod Paťankou 1A, Praha 6 16000",50.1129523,14.3928628,6,https://www.damejidlo.cz/hotovkarna-cz
+237,hurry-curry-indian-fast-food,91.0,44,49 Kč,"Mikovcova 475/7, Praha 2 12000",50.0766786,14.4312877,2,https://www.damejidlo.cz/hurry-curry-indian-fast-food
+238,checkout-food,-1.0,0,29 Kč (zdarma od 500 Kč),"Francouzská 76, Praha 10 10000",50.0718899,14.4462616,10,https://www.damejidlo.cz/checkout-food
+239,ku-bar-lounge-i,-1.0,0,29 Kč (zdarma od 700 Kč),"Rytířská 13, Praha 1 11000",50.0843347,14.4213437,1,https://www.damejidlo.cz/ku-bar-lounge-i
+240,cheetah-falafel-wrap,88.0,27,50 Kč až 60 Kč,"U Malé řeky 623, Praha 5 15000",49.9745056,14.3965044,5,https://www.damejidlo.cz/cheetah-falafel-wrap
+241,mr-kebab,86.0,151,29 Kč (zdarma od 700 Kč),"Vinohradská 228, Praha 10 10000",50.0769404,14.4875532,10,https://www.damejidlo.cz/mr-kebab
+242,chicken-records-praha-modrany-a-jizni-mesto,62.0,14,zdarma,"Hrusická 2617/3A, Praha 4 14000",50.0486467,14.4846588,4,https://www.damejidlo.cz/chicken-records-praha-modrany-a-jizni-mesto
+243,chickin,87.0,26,29 Kč (zdarma od 700 Kč),"Dejvická 188/6, Praha 16000",50.0980932,14.4038802,16000,https://www.damejidlo.cz/chickin
+244,chlebicky-kobylisy,,,,,,,,https://www.damejidlo.cz/chlebicky-kobylisy
+245,chop-d-praha,90.0,90,29 Kč (zdarma od 700 Kč),"Na Florenci 15, Praha 1 11000",50.0887553,14.435333,1,https://www.damejidlo.cz/chop-d-praha
+246,chopstix-restaurant,-1.0,0,29 Kč (zdarma od 700 Kč),"Jungmannova 736/10, Praha 11000",50.0803333,14.4225257,11000,https://www.damejidlo.cz/chopstix-restaurant
+247,chutnej-fast-food,88.0,46,79 Kč,"Voroněžská 19, Praha 10100",50.0717374,14.445625,10100,https://www.damejidlo.cz/chutnej-fast-food
+248,chutnoff-bakery-and-bistro,98.0,27,99 Kč,"Zelená 4/744, Praha 6 16000",50.1072606,14.3953755,6,https://www.damejidlo.cz/chutnoff-bakery-and-bistro
+249,chutnoff-centrum,85.0,8,29 Kč (zdarma od 700 Kč),"Legerova 76, Praha 2 12000",50.076756,14.4306242,2,https://www.damejidlo.cz/chutnoff-centrum
+250,i-vietnam,81.0,370,29 Kč,"Kongresová 1, Praha 4 14000",50.0627877,14.432054,4,https://www.damejidlo.cz/i-vietnam
+251,i-vietnamii,87.0,384,zdarma až 95 Kč,"Jankovcova 18, Praha 7 17000",50.1105294,14.4507429,7,https://www.damejidlo.cz/i-vietnamii
+252,ice-n-go,-1.0,0,29 Kč (zdarma od 700 Kč),"Bránická 61, Praha 4 Braník 14700",50.0359439,14.4136929,4,https://www.damejidlo.cz/ice-n-go
+253,incruenti-restaurant,,,,,,,,https://www.damejidlo.cz/incruenti-restaurant
+254,indian-aroma,88.0,10,69 Kč,"Křižíkova 176/27, Praha 8 18000",50.0910429,14.4434461,8,https://www.damejidlo.cz/indian-aroma
+255,indian-by-nature,91.0,14,29 Kč (zdarma od 700 Kč),"Pernerova 478/1, Praha 8 18600",50.0893256,14.4450233,8,https://www.damejidlo.cz/indian-by-nature
+256,indian-by-nature-dejvice,89.0,51,29 Kč (zdarma od 700 Kč),"Mařákova 290/7, Praha 6 16000",50.09849819999999,14.4026659,6,https://www.damejidlo.cz/indian-by-nature-dejvice
+257,indian-happy-tandoor,68.0,5,59 Kč,"Zenklova 62/232, Praha 8 18000",50.1207828,14.4576609,8,https://www.damejidlo.cz/indian-happy-tandoor
+258,indian-jewel,-1.0,0,19 Kč (zdarma od 800 Kč),"Týn 6, Praha 1 11000",50.0880143,14.4232629,1,https://www.damejidlo.cz/indian-jewel
+259,indian-jewel-praha,87.0,13,19 Kč (zdarma od 450 Kč),"Týn 6, Praha 1 11000",50.0880143,14.4232629,1,https://www.damejidlo.cz/indian-jewel-praha
+260,indian-restaurant-rasoi,-1.0,0,29 Kč (zdarma od 600 Kč),"Dlouhá 741/13, Praha 1 11000",50.0898607,14.4233418,1,https://www.damejidlo.cz/indian-restaurant-rasoi
+261,chanchala-indicka-restaurace,-1.0,0,0 Kč,"Palladium Nám. Republiky 1 A, Praha 1 11000",50.08944100000001,14.42948,1,https://www.damejidlo.cz/chanchala-indicka-restaurace
+262,indicka-a-nepalska-restaurace-lumbini,88.0,24,39 Kč (zdarma od 700 Kč),"Koněvova 52/25, Praha 3 13000",50.0879189,14.4567097,3,https://www.damejidlo.cz/indicka-a-nepalska-restaurace-lumbini
+263,indicka-restaurace-everest,92.0,144,29 Kč (zdarma od 700 Kč),"Anny letenské 5, Praha 2 12000",50.0773213,14.4373086,2,https://www.damejidlo.cz/indicka-restaurace-everest
+264,indicka-restaurace-kathmandu,86.0,9,29 Kč (zdarma od 700 Kč),"Vojtěšská 241/9, Praha 11000",50.078357,14.4147707,11000,https://www.damejidlo.cz/indicka-restaurace-kathmandu
+265,sai-praha-6,85.0,8,49 Kč (zdarma od 700 Kč),"Liborova 14, Praha 6 16900",50.0837104,14.3763913,6,https://www.damejidlo.cz/sai-praha-6
+266,indicka-restaurace-taaj-palace,91.0,24,29 Kč (zdarma od 600 Kč),"Nádražní 9b, Praha 5 15000",50.0666731,14.4068879,5,https://www.damejidlo.cz/indicka-restaurace-taaj-palace
+267,internetove-vinarstvi,-1.0,0,zdarma až 49 Kč,"Do Kopečka 37, Praha 10 10300",50.0001552,14.6158561,10,https://www.damejidlo.cz/internetove-vinarstvi
+268,istanbul-kebab-praha-5,84.0,5,29 Kč (zdarma od 700 Kč),"Štefánikova 296/37, Praha 5 15000",50.0757969,14.4035149,5,https://www.damejidlo.cz/istanbul-kebab-praha-5
+269,jam-s-soul,-1.0,0,29 Kč (zdarma od 500 Kč),"Soběslavská 23, Praha 3 13000",50.0774182,14.4744125,3,https://www.damejidlo.cz/jam-s-soul
+270,japonsko-korejska-restaurace-u-kavalira,-1.0,0,59 Kč (zdarma od 600 Kč),"Jaselská 10, Praha 6 16000",50.0992667,14.4035482,6,https://www.damejidlo.cz/japonsko-korejska-restaurace-u-kavalira
+271,jewel,-1.0,0,29 Kč (zdarma od 500 Kč),"Rytířská 3, Praha 1 11000",50.084077,14.4207103,1,https://www.damejidlo.cz/jewel
+272,jia-yao-shifu,53.0,12,29 Kč (zdarma od 700 Kč),"Vladivostocká 1460/10, Praha 10 10000",50.0688048,14.4797083,10,https://www.damejidlo.cz/jia-yao-shifu
+273,jidelna-holesovice,-1.0,0,zdarma až 39 Kč,"Jankovcova 63, Praha 7 17000",50.1104818,14.4481348,7,https://www.damejidlo.cz/jidelna-holesovice
+274,jidelna-kucharek-bez-domova,95.0,24,49 Kč až 79 Kč,"Brožíkova 281/6, Praha 5 15000",50.0715005,14.3887157,5,https://www.damejidlo.cz/jidelna-kucharek-bez-domova
+275,jidelna-liben,,,,,,,,https://www.damejidlo.cz/jidelna-liben
+276,jidelna-lighthouse,,,,,,,,https://www.damejidlo.cz/jidelna-lighthouse
+277,jidelna-u-atelieru,,,,,,,,https://www.damejidlo.cz/jidelna-u-atelieru
+278,jidlovnoci-cz,86.0,168,29 Kč,"Na Bělidle 38, Praha 5 15000",50.07172389999999,14.4051522,5,https://www.damejidlo.cz/jidlovnoci-cz
+279,jin-man-tang,94.0,23,49 Kč,"Náchodská 789/27, Praha 9 19300",50.1126795,14.594958,9,https://www.damejidlo.cz/jin-man-tang
+280,jina-krajina,77.0,7,59 Kč (zdarma od 1 000 Kč),"Řeznická 1890/4, Praha 1 11000",50.0780943,14.4222365,1,https://www.damejidlo.cz/jina-krajina
+281,johnny-pizza,86.0,12,29 Kč (zdarma od 700 Kč),"Koubkova 685/16, Praha 2 12000",50.072015,14.4332066,2,https://www.damejidlo.cz/johnny-pizza
+282,joshi,98.0,63,zdarma,"Petržílkova 2835/7, Praha 5 15800",50.0511481,14.3483123,5,https://www.damejidlo.cz/joshi
+283,joy-burger,-1.0,0,29 Kč,"Celetná 38, Praha 1 11000",50.0872335,14.4264776,1,https://www.damejidlo.cz/joy-burger
+284,kafarna-podoli2,-1.0,0,29 Kč (zdarma od 700 Kč),"Na Dolinách 47, Praha 4 14000",50.0570682,14.4302357,4,https://www.damejidlo.cz/kafarna-podoli2
+285,kafarna-vinohrady2,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Bezručovy sady 1, Praha 2 12000",50.0731069,14.448408,2,https://www.damejidlo.cz/kafarna-vinohrady2
+286,kafe-79-tradicni-vietnamska-restaurace,-1.0,0,29 Kč (zdarma od 700 Kč),"Žitná 4, Praha 2 12000",50.0772007,14.4219725,2,https://www.damejidlo.cz/kafe-79-tradicni-vietnamska-restaurace
+287,kaiser-franz,100.0,10,20 Kč,"náměstí Jiřího z Poděbrad 6, Praha 13000",50.0784956,14.4488151,13000,https://www.damejidlo.cz/kaiser-franz
+288,kaiser-franz-dj,-1.0,0,29 Kč (zdarma od 700 Kč),"náměstí Jiřího z Poděbrad 6, Praha 13000",50.0784956,14.4488151,13000,https://www.damejidlo.cz/kaiser-franz-dj
+289,kantyna-staropramen,,,,,,,,https://www.damejidlo.cz/kantyna-staropramen
+290,kare-cafe,-1.0,0,29 Kč (zdarma od 500 Kč),"Jungmanova 34, Praha 1 11000",50.082659,14.4222297,1,https://www.damejidlo.cz/kare-cafe
+291,karlin-food,-1.0,0,29 Kč,"Sokolovská 120/62, Praha 8 18600",50.0926355,14.4457002,8,https://www.damejidlo.cz/karlin-food
+292,kavala,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Charlese de Gaulla 629/5, Praha 16000",50.1025185,14.4002997,16000,https://www.damejidlo.cz/kavala
+293,kavarna-cafe-adastra-praha,-1.0,0,29 Kč (zdarma od 700 Kč),"Podskalská 8, Praha 2 12000",50.0690649,14.4155787,2,https://www.damejidlo.cz/kavarna-cafe-adastra-praha
+294,kavarna-globe,-1.0,0,29 Kč (zdarma od 600 Kč),"Pštrossova 1925/6, Praha 11000",50.0780708,14.4164218,11000,https://www.damejidlo.cz/kavarna-globe
+295,mariana-miuller,-1.0,0,49 Kč (zdarma od 700 Kč),"Zázvorkova 23, Praha - Stodůlky 15500",50.04532409999999,14.3320826,,https://www.damejidlo.cz/mariana-miuller
+296,kavarna-mlsounek,-1.0,0,,"Libušská 11/216, Praha 4 14200",50.0099757,14.4611779,4,https://www.damejidlo.cz/kavarna-mlsounek
+297,kavarna-cukrarna-angelo,-1.0,0,29 Kč (zdarma od 700 Kč),"Drahobejlova 40, Praha 9 19000",50.10579509999999,14.4902938,9,https://www.damejidlo.cz/kavarna-cukrarna-angelo
+298,kebab-antalya,86.0,134,49 Kč,"Bělohorská 240/81, Praha 6 16000",50.0838274,14.3692828,6,https://www.damejidlo.cz/kebab-antalya
+299,atlas-montes,83.0,139,29 Kč,"Koněvova 69, Praha 3 13000",50.0892002,14.4618837,3,https://www.damejidlo.cz/atlas-montes
+300,kebab-istanbul-cakovice,90.0,16,49 Kč,"Kostelecká 822/75, Praha 9 19000",50.1504211,14.505412,9,https://www.damejidlo.cz/kebab-istanbul-cakovice
+301,kebab-house-copy,87.0,84,29 Kč (zdarma od 700 Kč),"Bělehradská 288/69, Praha 2 12000",50.0730672,14.4330042,2,https://www.damejidlo.cz/kebab-house-copy
+302,kebab-house-modrany,100.0,5,,"Rilská 3172/3, Praha 12 14300",50.00884019999999,14.4274635,12,https://www.damejidlo.cz/kebab-house-modrany
+303,kebab-pizza-bar,-1.0,0,29 Kč (zdarma od 700 Kč),"Ve Smečkách 16, Praha 1 11000",50.0784569,14.4270784,1,https://www.damejidlo.cz/kebab-pizza-bar
+304,kfc-p6,72.0,10,99 Kč,"Etiopská 686/3, Praha 6 16000",50.0968432,14.3545299,6,https://www.damejidlo.cz/kfc-p6
+305,kfc-andel,92.0,15,99 Kč,"Plzeňská 2, Praha 5 15000",50.0720307,14.4040814,5,https://www.damejidlo.cz/kfc-andel
+306,kfc-praha14,88.0,7,99 Kč,"Chlumecká 765/6, Praha 9 19800",50.108793,14.5832921,9,https://www.damejidlo.cz/kfc-praha14
+307,kfc-dejvice,72.0,10,99 Kč,"Vítězné nám. 1, Praha 6 16000",50.0998277,14.3962625,6,https://www.damejidlo.cz/kfc-dejvice
+308,kfc-flora,88.0,10,109 Kč,"Vinohradská 151, Praha 3 13000",50.0782613,14.4613023,3,https://www.damejidlo.cz/kfc-flora
+309,kfc-narodni,88.0,25,109 Kč,"Na Poříčí 1894/46, Praha 1 11000",50.0902331,14.4364996,1,https://www.damejidlo.cz/kfc-narodni
+310,kfc-harfa,85.0,11,99 Kč,"Českomoravská 2420/5a, Praha 9 19000",50.1033485,14.4907198,9,https://www.damejidlo.cz/kfc-harfa
+311,kfc-hostivar,-1.0,0,99 Kč,"Turkova 2317/5, Praha 11 14900",50.0367827,14.4933031,11,https://www.damejidlo.cz/kfc-hostivar
+312,kfc-pankrac,93.0,13,99 Kč,"Na Pankráci 1721/86, Praha 4 14000",50.0511586,14.4391031,4,https://www.damejidlo.cz/kfc-pankrac
+313,klub-cestovatelu-praha-poledni-menu,,,,,,,,https://www.damejidlo.cz/klub-cestovatelu-praha-poledni-menu
+314,klub-cestovatelu-praha,100.0,5,29 Kč (zdarma od 600 Kč),"Masarykovo nábřeží 22, Praha 1 11000",50.0786644,14.4142472,1,https://www.damejidlo.cz/klub-cestovatelu-praha
+315,klub-varta,92.0,27,49 Kč,"Boloňská 310, Praha 15 10900",50.0471526,14.5601707,15,https://www.damejidlo.cz/klub-varta
+316,kobe-sausages-prague,-1.0,0,29 Kč (zdarma od 700 Kč),"Lazarská 6, Praha 12000",50.079024,14.4208202,12000,https://www.damejidlo.cz/kobe-sausages-prague
+317,kogo-polpo,68.0,5,29 Kč (zdarma od 700 Kč),"Vladislavova 21, Praha 1 11000",50.08112500000001,14.4211552,1,https://www.damejidlo.cz/kogo-polpo
+318,kolacove-kralovstvi,-1.0,0,29 Kč (zdarma od 700 Kč),"Táborská 583/28, Praha 14000",50.0617969,14.4377271,14000,https://www.damejidlo.cz/kolacove-kralovstvi
+319,koley-burger-pizza,,,,,,,,https://www.damejidlo.cz/koley-burger-pizza
+320,kolkovna-argentinska,86.0,37,29 Kč (zdarma od 1 000 Kč),"U garáží 1, Praha 17000",50.101254,14.4448528,17000,https://www.damejidlo.cz/kolkovna-argentinska
+321,restaurace-kolkovna-olympia,86.0,29,19 Kč (zdarma od 800 Kč),"Vítězná 7, Praha 1 11000",50.0811448,14.4066798,1,https://www.damejidlo.cz/restaurace-kolkovna-olympia
+322,kolkovna-stodulky,90.0,78,69 Kč (zdarma od 1 000 Kč),"Siemensova  2717/4, Praha 13 13000",50.0473053,14.3061492,13,https://www.damejidlo.cz/kolkovna-stodulky
+323,korma-india-restaurace,67.0,11,39 Kč (zdarma od 700 Kč),"V Tůních 1, Praha 2 12000",50.075512,14.4274605,2,https://www.damejidlo.cz/korma-india-restaurace
+324,kozlovna-tylak,,,,,,,,https://www.damejidlo.cz/kozlovna-tylak
+325,kraftwerk-restaurace-bar,-1.0,0,29 Kč (zdarma od 700 Kč),"Uhelný trh 423/2, Praha 1 11000",50.0838357,14.4200168,1,https://www.damejidlo.cz/kraftwerk-restaurace-bar
+326,kralovske-cookie,-1.0,0,29 Kč (zdarma od 500 Kč),"Vinohradská 14, Praha 2 12000",50.07835859999999,14.4352491,2,https://www.damejidlo.cz/kralovske-cookie
+327,kredenc-restaurant,-1.0,0,29 Kč (zdarma od 700 Kč),"Seifertova 6, Praha 3 13000",50.085019,14.442803,3,https://www.damejidlo.cz/kredenc-restaurant
+328,krusovicka-salanda-karlin,-1.0,0,29 Kč (zdarma od 700 Kč),"Thámova 166/18, Praha 8 18600",50.0924092,14.4527722,8,https://www.damejidlo.cz/krusovicka-salanda-karlin
+329,kung-fu-chinese-pasta,-1.0,0,29 Kč (zdarma od 700 Kč),"Rumunská 698/17, Praha 2 12000",50.07412619999999,14.4319772,2,https://www.damejidlo.cz/kung-fu-chinese-pasta
+330,la-areperia,-1.0,0,29 Kč (zdarma od 700 Kč),"Pštrossova 8, Praha 1 11000",50.078187,14.4163752,1,https://www.damejidlo.cz/la-areperia
+331,la-bibiche-praha,100.0,10,49 Kč,"Kozácká 183/6, Praha 10100",50.0709472,14.4455322,10100,https://www.damejidlo.cz/la-bibiche-praha
+332,la-bodeguita-del-medio,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Kaprova 5, Praha 1 11000",50.0884598,14.4172514,1,https://www.damejidlo.cz/la-bodeguita-del-medio
+333,pizzeria-la-bussola,-1.0,0,,"Jílovská 1148, Praha 4 14000",50.02509509999999,14.4319367,4,https://www.damejidlo.cz/pizzeria-la-bussola
+334,la-casata,86.0,43,zdarma,"Na Strži 343/5, Praha 4 14000",50.041017,14.4381801,4,https://www.damejidlo.cz/la-casata
+335,la-palma,81.0,202,49 Kč,"Na Hrázi 519/32, Praha 8 18000",50.1057224,14.4764092,8,https://www.damejidlo.cz/la-palma
+336,lafa-grill-burger-bar,82.0,28,59 Kč,"Václavská 9, Praha 2 12000",50.0742352,14.4173737,2,https://www.damejidlo.cz/lafa-grill-burger-bar
+337,lahudky-zlaty-kriz,-1.0,0,49 Kč (zdarma od 500 Kč),"Jugmannova 34, Praha 1 11000",50.082659,14.4222297,1,https://www.damejidlo.cz/lahudky-zlaty-kriz
+338,lal-qila-indian-restaurant,76.0,12,59 Kč,"Italská 786/30, Praha 2 12000",50.0788672,14.4371008,2,https://www.damejidlo.cz/lal-qila-indian-restaurant
+339,lan-restaurace,-1.0,0,29 Kč (zdarma od 700 Kč),"Náměstí Míru 1220/3, Praha 2 - Vinohrady 12000",50.0761234,14.4355868,2,https://www.damejidlo.cz/lan-restaurace
+340,lemon-leaf,-1.0,0,29 Kč (zdarma od 700 Kč),"Myslíkova 14, Praha 2 12000",50.0774891,14.4166071,2,https://www.damejidlo.cz/lemon-leaf
+341,let-s-meat,85.0,31,99 Kč,"Slezská 2130/107, Praha 3 13000",50.0769124,14.4615203,3,https://www.damejidlo.cz/let-s-meat
+342,libocky-dvur,86.0,24,49 Kč,"Rybničná 1, Praha 6 16000",50.0891008,14.3303931,6,https://www.damejidlo.cz/libocky-dvur
+343,lidovy-dum-kbely,-1.0,0,49 Kč,"Toužimská 244, Praha 9 19000",50.1354374,14.5403859,9,https://www.damejidlo.cz/lidovy-dum-kbely
+344,liwu-original-restaurant-nove-butovice,-1.0,0,zdarma,"Radlická 117, Praha 5 15800",50.0476058,14.3537456,5,https://www.damejidlo.cz/liwu-original-restaurant-nove-butovice
+345,liwu-original-restaurant-novodvorska,-1.0,0,zdarma,"Novodvorská 1800/136, Praha 4 14200",50.0267644,14.4329116,4,https://www.damejidlo.cz/liwu-original-restaurant-novodvorska
+346,lokai,74.0,17,49 Kč až 79 Kč,"Gregorova 298/8, Praha 11 14000",50.0357113,14.4777113,11,https://www.damejidlo.cz/lokai
+347,lokal-nad-stromovkou,92.0,20,49 Kč (zdarma od 2 000 Kč),"Nad Královské oborou 232/31, Praha 7 17000",50.10302410000001,14.418354,7,https://www.damejidlo.cz/lokal-nad-stromovkou
+348,lokal-u-bile-kuzelky,100.0,5,49 Kč (zdarma od 2 000 Kč),"Míšeňská 12, Praha 1 11000",50.0876578,14.4075332,1,https://www.damejidlo.cz/lokal-u-bile-kuzelky
+349,lokal-u-zavadilu,90.0,45,69 Kč (zdarma od 2 000 Kč),"K Verneráku 70/1, Praha 4 14800",50.01430329999999,14.4857093,4,https://www.damejidlo.cz/lokal-u-zavadilu
+350,loki-burgers,98.0,82,29 Kč (zdarma od 700 Kč),"Bělehradská 383/122, Praha 12000",50.07604569999999,14.4323727,12000,https://www.damejidlo.cz/loki-burgers
+351,loki-burgers2,98.0,29,29 Kč,"Bělehradská 383/122, Praha 12000",50.07604569999999,14.4323727,12000,https://www.damejidlo.cz/loki-burgers2
+352,modry-zub-dlouha,78.0,59,49 Kč (zdarma od 2 000 Kč),"Dlouhá 737/21, Praha 1 10000",50.0902043,14.4243394,1,https://www.damejidlo.cz/modry-zub-dlouha
+353,lotus-restaurace,81.0,33,,"Libušská 319/126, Praha 4 14200",50.015996,14.454581,4,https://www.damejidlo.cz/lotus-restaurace
+354,low-carb-zone-cz,-1.0,0,0 Kč,"Sokolovská 61, Praha 8 18000",50.100298,14.4713001,8,https://www.damejidlo.cz/low-carb-zone-cz
+355,lucky-cina,90.0,193,zdarma až 80 Kč (zdarma od 300 Kč),"u křížku 9, Praha 10 11000",50.0626389,14.4475567,10,https://www.damejidlo.cz/lucky-cina
+356,luxury-fresh,-1.0,0,29 Kč (zdarma od 700 Kč),"Ondřickova 8, Praha 3 13000",50.0791267,14.4492311,3,https://www.damejidlo.cz/luxury-fresh
+357,m-roll,77.0,7,29 Kč (zdarma od 700 Kč),"Dittrichova 8, Praha 2 12000",50.0741356,14.4163514,2,https://www.damejidlo.cz/m-roll
+358,mad-runner,93.0,383,0 Kč,"Husitská 86, Praha 3 13000",50.0871267,14.4518568,3,https://www.damejidlo.cz/mad-runner
+359,makimaki-cz,90.0,104,69 Kč,"Norská 14, Praha 10 10000",50.0718974,14.4555555,10,https://www.damejidlo.cz/makimaki-cz
+360,mala-india,-1.0,0,29 Kč (zdarma od 700 Kč),"Krakovska 1463/3, Praha 11000",50.07754509999999,14.4274798,11000,https://www.damejidlo.cz/mala-india
+361,malesicky-mikropivovar,89.0,38,29 Kč (zdarma od 700 Kč),"Malešická 126/50, Praha 10 10000",50.0846464,14.5076428,10,https://www.damejidlo.cz/malesicky-mikropivovar
+362,mam-rad-syr,-1.0,0,29 Kč (zdarma od 500 Kč),"Dlouhá 727, Praha 1 11000",50.0907986,14.4269069,1,https://www.damejidlo.cz/mam-rad-syr
+363,mamma-mia-pizza,80.0,18,59 Kč,"Křižíkova 76/61, Praha 18600",50.0923946,14.4498062,18600,https://www.damejidlo.cz/mamma-mia-pizza
+364,mamma-mia-nocni,90.0,12,59 Kč,"Křižikova 76/61, Praha 8 18600",50.0923946,14.4498062,8,https://www.damejidlo.cz/mamma-mia-nocni
+365,marthy-s-kitchen,81.0,33,29 Kč (zdarma od 700 Kč),"Francouzská 13, Praha 2 12000",50.0741017,14.4397225,2,https://www.damejidlo.cz/marthy-s-kitchen
+366,masala-manesova2,82.0,123,0 Kč,"Jana Masaryka 326/36, Praha 2 12000",50.0718693,14.4393938,2,https://www.damejidlo.cz/masala-manesova2
+367,masala-letna,92.0,149,zdarma,"Keramická 3, Praha 7 17000",50.1010052,14.421829,7,https://www.damejidlo.cz/masala-letna
+368,maso-a-kobliha,93.0,24,29 Kč (zdarma od 700 Kč),"Petrská 23, Praha 1 11000",50.091802,14.4357559,1,https://www.damejidlo.cz/maso-a-kobliha
+369,mcdonalds-pruhonice,-1.0,0,,"Lhotecká, Praha 4 14300",50.0165763,14.4299709,4,https://www.damejidlo.cz/mcdonalds-pruhonice
+370,mcdonalds-praha14,88.0,7,99 Kč,"Chlumecká 764/2, Praha 9 19800",50.1096637,14.5832042,9,https://www.damejidlo.cz/mcdonalds-praha14
+371,mcdonalds-p6,60.0,6,99 Kč,"Evropská 634/204, Praha 6 16000",50.093073,14.3229431,6,https://www.damejidlo.cz/mcdonalds-p6
+372,mcdonalds-praha18,73.0,6,99 Kč,"Veselská 663, Praha 18 19900",50.1369822,14.5010413,18,https://www.damejidlo.cz/mcdonalds-praha18
+373,mcdonalds-andel,73.0,6,99 Kč,"Plzeňská 4, Praha 5 15000",50.0719042,14.4026593,5,https://www.damejidlo.cz/mcdonalds-andel
+374,mcdonalds-holesovice,-1.0,0,99 Kč,"Milady Horákové 98, Praha 7 17000",50.0998287,14.4159235,7,https://www.damejidlo.cz/mcdonalds-holesovice
+375,mcdonalds-hostivar,-1.0,0,99 Kč,"Švehlova 32, Praha 10 10200",50.0532812,14.5171881,10,https://www.damejidlo.cz/mcdonalds-hostivar
+376,mcdonalds-pankrac,-1.0,0,99 Kč,"Na Pankráci 86, Praha 4 14000",50.0511586,14.4391031,4,https://www.damejidlo.cz/mcdonalds-pankrac
+377,mcdonalds-vrsovice,-1.0,0,99 Kč,"U Slavie 1540/2a, Praha 10 10000",50.0677658,14.4707257,10,https://www.damejidlo.cz/mcdonalds-vrsovice
+378,mcdonalds-florenc,78.0,11,99 Kč,"Křížíkova 302, Praha 8 18000",50.0900104,14.4405641,8,https://www.damejidlo.cz/mcdonalds-florenc
+379,merlin-irish-pub,86.0,18,29 Kč (zdarma od 700 Kč),"Bělehradská 68a, Praha 2 12000",50.0708664,14.4333493,2,https://www.damejidlo.cz/merlin-irish-pub
+380,mesy-restaurant,-1.0,0,29 Kč (zdarma od 2 000 Kč),"Bělehradská 12/98, Praha 2 12000",50.073836,14.4331885,2,https://www.damejidlo.cz/mesy-restaurant
+381,mexicali-mercado,88.0,10,29 Kč (zdarma od 1 000 Kč),"Kovářská 939/4, Praha 9 19000",50.10604499999999,14.4917445,9,https://www.damejidlo.cz/mexicali-mercado
+382,mexicka-restaurace-calvera,-1.0,0,49 Kč,"Na Ořechovce 250/30, Praha 6 16000",50.095236,14.3820156,6,https://www.damejidlo.cz/mexicka-restaurace-calvera
+383,fosil-bistro,85.0,24,49 Kč (zdarma od 700 Kč),"Na Zlichově 256/17, Praha 5 15000",50.0469498,14.4079884,5,https://www.damejidlo.cz/fosil-bistro
+384,mibis-restaurant,68.0,5,29 Kč (zdarma od 700 Kč),"Štěpánská 9, Praha 2 12000",50.0766029,14.424218,2,https://www.damejidlo.cz/mibis-restaurant
+385,michelska-pivnice,81.0,34,29 Kč (zdarma od 500 Kč),"Nuselská 320/104, Praha 4 14000",50.05653,14.4508315,4,https://www.damejidlo.cz/michelska-pivnice
+386,miyabi,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Navrátilova 10, Praha 1 11000",50.0786023,14.4233292,1,https://www.damejidlo.cz/miyabi
+387,mnam,91.0,93,39 Kč (zdarma od 500 Kč),"Slavíková 13, Praha 2 12000",50.0796612,14.4473445,2,https://www.damejidlo.cz/mnam
+388,mnam-jungmannova,84.0,18,29 Kč,"Jungmannova 16, Praha 1 11000",50.0805093,14.4224216,1,https://www.damejidlo.cz/mnam-jungmannova
+389,pizza-modena,88.0,319,zdarma,"Javorová 963/2, Praha 8 18000",50.1352941,14.4780153,8,https://www.damejidlo.cz/pizza-modena
+390,modry-zub,83.0,88,49 Kč (zdarma od 2 000 Kč),"Spálená 29, Praha 1 11000",50.0804199,14.4195213,1,https://www.damejidlo.cz/modry-zub
+391,restaurace-u-ztracenejch,,,,,,,,https://www.damejidlo.cz/restaurace-u-ztracenejch
+392,restaurace-modranska-archa-praha,86.0,29,,"Sofijské náměstí 3405/2, Praha 12 14300",50.0059941,14.4172002,12,https://www.damejidlo.cz/restaurace-modranska-archa-praha
+393,modranske-labe,-1.0,0,,"Mráčkova 5, Praha 4 14300",50.0132248,14.4219525,4,https://www.damejidlo.cz/modranske-labe
+394,mont-fort,-1.0,0,,"Pertoldova 3345/8, Praha 4 14300",50.00034369999999,14.4273818,4,https://www.damejidlo.cz/mont-fort
+395,motoburger,89.0,26,29 Kč (zdarma od 500 Kč),"Komunardů 1001/30, Praha 7 17000",50.1037494,14.4502379,7,https://www.damejidlo.cz/motoburger
+396,mr-banh-mi,86.0,20,29 Kč,"Rumunská 23/30, Praha 2 12000",50.0742017,14.4345664,2,https://www.damejidlo.cz/mr-banh-mi
+397,mr-banh-mi-seifertova,,,,,,,,https://www.damejidlo.cz/mr-banh-mi-seifertova
+398,mr-banh-mi-smichov,89.0,106,29 Kč (zdarma od 700 Kč),"Štefánikova 44, Praha 5 15000",50.0771974,14.4044401,5,https://www.damejidlo.cz/mr-banh-mi-smichov
+399,mr-donut-oc-arkady,-1.0,0,29 Kč (zdarma od 700 Kč),"Na Pankráci 1727/86, Praha 4 14000",50.0511586,14.4391031,4,https://www.damejidlo.cz/mr-donut-oc-arkady
+400,mr-donut-oc-chodov,-1.0,0,49 Kč,"Roztylská 2321/19, Praha 11 14800",50.0320692,14.4909962,11,https://www.damejidlo.cz/mr-donut-oc-chodov
+401,mr-kebab-pizza,80.0,8,49 Kč,"Šolínova 1, Praha 6 16000",50.10067009999999,14.3919474,6,https://www.damejidlo.cz/mr-kebab-pizza
+402,mr-bao,87.0,73,29 Kč (zdarma od 700 Kč),"Bozděchova 2246/3, Praha 5 15000",50.070255,14.4045564,5,https://www.damejidlo.cz/mr-bao
+403,muc-dong-vietnamese-restaurant,-1.0,0,29 Kč (zdarma od 700 Kč),"Krizovnicka 97/8, Praha 11000",50.08771249999999,14.4154211,11000,https://www.damejidlo.cz/muc-dong-vietnamese-restaurant
+404,muffin-express,-1.0,0,29 Kč (zdarma od 700 Kč),"Husitská 32, Praha 13000",50.0870109,14.4439229,13000,https://www.damejidlo.cz/muffin-express
+405,mya-restaurant-cafe,55.0,9,29 Kč (zdarma od 700 Kč),"Lihovarská 1096/6, Praha 19000",50.1042518,14.4870777,19000,https://www.damejidlo.cz/mya-restaurant-cafe
+406,na-kacabce-putyka,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Chalupnická 12, Praha 10 - Hostivař 10200",50.0479263,14.5244576,10,https://www.damejidlo.cz/na-kacabce-putyka
+407,na-kavalirce,-1.0,0,49 Kč (zdarma od 700 Kč),"Plzeňská 173, Praha 15000",50.06981829999999,14.3722906,15000,https://www.damejidlo.cz/na-kavalirce
+408,na-krasne-vyhlidce,100.0,10,49 Kč (zdarma od 700 Kč),"Na Dlážděnce 35, Praha 8 18000",50.1196959,14.4426115,8,https://www.damejidlo.cz/na-krasne-vyhlidce
+409,namaste-india,82.0,7,29 Kč (zdarma od 700 Kč),"Ronkova 12, Praha 8 18000",50.1057648,14.4770028,8,https://www.damejidlo.cz/namaste-india
+410,nase-domaci,-1.0,0,zdarma,"Radlická 591/115, Praha 5 15800",50.047235,14.357309,5,https://www.damejidlo.cz/nase-domaci
+411,nase-domaci-karlin,-1.0,0,0 Kč,"Sokolovská 61, Praha 8 18000",50.100298,14.4713001,8,https://www.damejidlo.cz/nase-domaci-karlin
+412,nase-hospoda-na-ruzku,-1.0,0,29 Kč,"Nádražní 24, Praha 5 15000",50.06044439999999,14.4094407,5,https://www.damejidlo.cz/nase-hospoda-na-ruzku
+413,nase-hospoda-u-baumanu,77.0,16,29 Kč (zdarma od 700 Kč),"Bělehradská 61, Praha 2 12000",50.0722995,14.4333117,2,https://www.damejidlo.cz/nase-hospoda-u-baumanu
+414,nase-kuchyne,-1.0,0,0 Kč,"U Trati 40b, Praha 10 10000",50.0660771,14.4910565,10,https://www.damejidlo.cz/nase-kuchyne
+415,neb-o,76.0,5,29 Kč,"Perlová 10, Praha 1 11000",50.0835597,14.4210143,1,https://www.damejidlo.cz/neb-o
+416,neb-oii,-1.0,0,zdarma až 85 Kč,"Jankovcova 18, Praha 7 17000",50.1105294,14.4507429,7,https://www.damejidlo.cz/neb-oii
+417,nejen-z-cukru,-1.0,0,49 Kč (zdarma od 700 Kč),"Vinohradská 55, Praha 2 12000",50.0773479,14.4413109,2,https://www.damejidlo.cz/nejen-z-cukru
+418,nevinny-bar-gecko,-1.0,0,59 Kč,"Mikulandská 123/2, Praha 1 11000",50.080954,14.4184306,1,https://www.damejidlo.cz/nevinny-bar-gecko
+419,nevinny-gecko,68.0,5,29 Kč,"Mikulandská 123/2, Praha 1 11000",50.080954,14.4184306,1,https://www.damejidlo.cz/nevinny-gecko
+420,nicolas-bar,-1.0,0,29 Kč (zdarma od 700 Kč),"Tržiště 10, Praha 11800",50.0872641,14.4029906,11800,https://www.damejidlo.cz/nicolas-bar
+421,nominanza,95.0,229,zdarma až 69 Kč,"Táboritská 23, Praha 3 13000",50.0828549,14.4574279,3,https://www.damejidlo.cz/nominanza
+422,noodle-bay,85.0,41,29 Kč (zdarma od 700 Kč),"Roháčova 1030/75, Praha 3 13000",50.0884738,14.461413,3,https://www.damejidlo.cz/noodle-bay
+423,noodle-pankrac,86.0,37,30 Kč (zdarma od 300 Kč),"Na Strži 65, Praha 4 14000",50.0502818,14.4392063,4,https://www.damejidlo.cz/noodle-pankrac
+424,noodle-time,86.0,208,20 Kč až 30 Kč,"Veletržní 46, Praha 7 17000",50.100927,14.4252442,7,https://www.damejidlo.cz/noodle-time
+425,nos-macarons,-1.0,0,49 Kč (zdarma od 700 Kč),"Plzeňská 60, Praha 5 15000",50.0721825,14.3914454,5,https://www.damejidlo.cz/nos-macarons
+426,nutric-the-real-food-company,90.0,33,29 Kč (zdarma od 500 Kč),"Vacínova 9, Praha 8 18000",50.1038638,14.4773649,8,https://www.damejidlo.cz/nutric-the-real-food-company
+427,o-sole-mio,73.0,6,29 Kč (zdarma od 700 Kč),"Budějovická 3a, Praha 4 14000",50.0486665,14.4436236,4,https://www.damejidlo.cz/o-sole-mio
+428,ocean-restaurant,53.0,6,29 Kč,"Sokolovská 240/33, Praha 8 18000",50.0922992,14.4427442,8,https://www.damejidlo.cz/ocean-restaurant
+429,oh-deer-bakery,,,,,,,,https://www.damejidlo.cz/oh-deer-bakery
+430,oh-mexico,-1.0,0,29 Kč (zdarma od 700 Kč),"nám. Republiky 1079/1a, Praha 1 11000",50.0890049,14.4291743,1,https://www.damejidlo.cz/oh-mexico
+431,ohhlala,65.0,7,49 Kč,"Poděbradská 777, Praha 9 19000",50.1028577,14.5112396,9,https://www.damejidlo.cz/ohhlala
+432,ordr,,,,,,,,https://www.damejidlo.cz/ordr
+433,original-curry-tandoor,81.0,49,80 Kč,"Sokolovská 46, Praha 8 18000",50.100298,14.4713001,8,https://www.damejidlo.cz/original-curry-tandoor
+434,ovocne-kytice-frujt,-1.0,0,99 Kč,"VACÍNOVA 874/6, Praha 8 18000",50.10421849999999,14.4773741,8,https://www.damejidlo.cz/ovocne-kytice-frujt
+435,palatino-haje,82.0,135,zdarma až 49 Kč,"Kosmická 537, Praha 4 14000",50.0325186,14.5303503,4,https://www.damejidlo.cz/palatino-haje
+436,palatino-pankrac,89.0,136,zdarma,"Lomnického 1705, Praha 4 14000",50.0571044,14.4331122,4,https://www.damejidlo.cz/palatino-pankrac
+437,palatino-stodulky,85.0,103,zdarma,"Běhounkova 2579, Praha 5 15000",50.05337549999999,14.338619,5,https://www.damejidlo.cz/palatino-stodulky
+438,papa-cipolla-dejvice,91.0,80,zdarma,"V.P.Čkalova 24, Praha 6 16000",50.1009829,14.401383,6,https://www.damejidlo.cz/papa-cipolla-dejvice
+439,papa-cipolla-kamyk,93.0,173,zdarma až 30 Kč,"Vosátkova 285/1, Praha 4 14000",50.015001,14.4372262,4,https://www.damejidlo.cz/papa-cipolla-kamyk
+440,pizza-papa-cipolla-karlin,77.0,105,0 Kč,"Sokolovská 75/103, Praha 8 18000",50.0947836,14.4536654,8,https://www.damejidlo.cz/pizza-papa-cipolla-karlin
+441,papa-cipolla-letnany,91.0,33,zdarma,"Beranových 39, Praha 9 19900",50.137034,14.5163802,9,https://www.damejidlo.cz/papa-cipolla-letnany
+442,papa-cipolla-nusle,79.0,46,zdarma,"Jaromírova  37, Praha 2 12000",50.0652377,14.4291607,2,https://www.damejidlo.cz/papa-cipolla-nusle
+443,parky-s,92.0,16,59 Kč (zdarma od 1 000 Kč),"Vodičkova 17, Praha 11000",50.0801181,14.4234582,11000,https://www.damejidlo.cz/parky-s
+444,party-led,-1.0,0,29 Kč (zdarma od 700 Kč),"Pernerova 653/16A, Praha 18600",50.090121,14.4507706,18600,https://www.damejidlo.cz/party-led
+445,party-24,96.0,24,150 Kč,"Na záhonech 1482/65, Praha 4 14000",50.05029709999999,14.4672015,4,https://www.damejidlo.cz/party-24
+446,pasta-wine,100.0,90,49 Kč až 69 Kč,"Modřanská 409/68d, Praha 4 14000",50.0153464,14.4022952,4,https://www.damejidlo.cz/pasta-wine
+447,pasta-bibita,-1.0,0,29 Kč (zdarma od 700 Kč),"V Jámě 8, Praha 1 11000",50.0799899,14.4248414,1,https://www.damejidlo.cz/pasta-bibita
+448,pelmenarna,91.0,18,29 Kč (zdarma od 700 Kč),"Štěpánská 538/11, Praha 2 12000",50.0766745,14.4242484,2,https://www.damejidlo.cz/pelmenarna
+449,per-te,,,,,,,,https://www.damejidlo.cz/per-te
+450,persona,79.0,368,60 Kč (zdarma od 1 500 Kč),"Jeseniova 56e, Praha 3 13000",50.0875025,14.4647348,3,https://www.damejidlo.cz/persona
+451,restaurace-petistovka,90.0,130,zdarma až 50 Kč,"Na Valech 16, Praha 6 16000",50.0964979,14.4057939,6,https://www.damejidlo.cz/restaurace-petistovka
+452,pho-hadola,97.0,19,29 Kč (zdarma od 700 Kč),"Kodaňská 521/57, Praha 10, Vršovice 10100",50.0708965,14.4594737,10,https://www.damejidlo.cz/pho-hadola
+453,pho-lam-ha,80.0,6,29 Kč (zdarma od 700 Kč),"Orebitská 3, Praha 3 13000",50.0864134,14.4463297,3,https://www.damejidlo.cz/pho-lam-ha
+454,pho-phong,97.0,13,49 Kč,"Makovského 1390/38, Praha 6 16000",50.0658424,14.2989786,6,https://www.damejidlo.cz/pho-phong
+455,pho-viet-huong,-1.0,0,39 Kč (zdarma od 700 Kč),"Zenklova 80, Praha 8 18000",50.1100893,14.4725166,8,https://www.damejidlo.cz/pho-viet-huong
+456,picerka-cz,86.0,54,zdarma,"Chemická 955, Praha 4 14800",50.02014670000001,14.4952717,4,https://www.damejidlo.cz/picerka-cz
+457,pink-floyd-cafe-praha,-1.0,0,29 Kč (zdarma od 500 Kč),"Americká 14, Praha 2 12000",50.07211220000001,14.4387227,2,https://www.damejidlo.cz/pink-floyd-cafe-praha
+458,pivovar-kolcavka,83.0,41,29 Kč (zdarma od 600 Kč),"Nad Kolčavkou 907/8, Praha 9 19000",50.1082909,14.4824634,9,https://www.damejidlo.cz/pivovar-kolcavka
+459,pivovar-kolcavka-michle,,,,,,,,https://www.damejidlo.cz/pivovar-kolcavka-michle
+460,pizza-caffe-u-veverky,96.0,235,zdarma až 500 Kč,"Olštýnská 1/607, Praha 8 18000",50.1276677,14.4198897,8,https://www.damejidlo.cz/pizza-caffe-u-veverky
+461,pizza4you,88.0,538,zdarma,"Hostivařská 224/28, Praha 15 15000",50.0521687,14.5291525,15,https://www.damejidlo.cz/pizza4you
+462,pizza-8,89.0,35,30 Kč až 40 Kč,"Zelenohorská 20, Praha 8 18100",50.130453,14.4126641,8,https://www.damejidlo.cz/pizza-8
+463,pizza-bene,91.0,99,zdarma,"náměstí na Lužinách, Praha 13 15500",50.0509482,14.3227801,13,https://www.damejidlo.cz/pizza-bene
+464,pizza-benediktus,94.0,368,50 Kč,"Kubelíková 32, Praha 3 13000",50.0821496,14.4507559,3,https://www.damejidlo.cz/pizza-benediktus
+465,pizza-borsalino,79.0,103,39 Kč (zdarma od 600 Kč),"Ostrovní 34, Praha 1 11000",50.0811404,14.4196683,1,https://www.damejidlo.cz/pizza-borsalino
+466,pizza-bravoii,84.0,47,59 Kč,"Koněvova 80, Praha 3 13000",50.0890754,14.4629347,3,https://www.damejidlo.cz/pizza-bravoii
+467,pizza-bravo-nocni-rozvoz,71.0,7,59 Kč,"Koněvova 80, Praha 3 13000",50.0890754,14.4629347,3,https://www.damejidlo.cz/pizza-bravo-nocni-rozvoz
+468,pizza-bueno,84.0,20,zdarma,"V Olšinách 118, Praha 10000",50.0726483,14.499,10000,https://www.damejidlo.cz/pizza-bueno
+469,pizza-capo-praha,92.0,39,zdarma,"Českobrodská 49, Praha - Běchovice 19011",50.0811435,14.613112,,https://www.damejidlo.cz/pizza-capo-praha
+470,casa-la-hiba,90.0,8,29 Kč (zdarma od 700 Kč),"Koněvova 69, Praha 3 13000",50.0892002,14.4618837,3,https://www.damejidlo.cz/casa-la-hiba
+471,pizza-coloseum-budejovicka-ii,60.0,21,49 Kč (zdarma od 2 000 Kč),"Budějovická 1667/64, Praha 4 14000",50.0437773,14.4491012,4,https://www.damejidlo.cz/pizza-coloseum-budejovicka-ii
+472,pizza-coloseum-chodov-ii,93.0,6,49 Kč,"Hráského 23, Praha 11 14800",50.0281009,14.4906211,11,https://www.damejidlo.cz/pizza-coloseum-chodov-ii
+473,pizza-coloseum-legerova-ii,70.0,26,49 Kč (zdarma od 2 000 Kč),"Legerova 802/64, Praha 2 12000",50.0752599,14.4303826,2,https://www.damejidlo.cz/pizza-coloseum-legerova-ii
+474,pizza-coloseum-na-porici,60.0,9,59 Kč,"Na Poříčí 1042/16, Praha 1 11000",50.0893113,14.4317744,1,https://www.damejidlo.cz/pizza-coloseum-na-porici
+475,pizza-coloseum-vysocany,-1.0,0,29 Kč (zdarma od 700 Kč),"Sokolovská 979/209, Praha 19000",50.1100296,14.4976043,19000,https://www.damejidlo.cz/pizza-coloseum-vysocany
+476,pizza-coloseum-andel,75.0,28,49 Kč (zdarma od 2 000 Kč),"Nádražní 25, Praha 5 15000",50.0707178,14.4049268,5,https://www.damejidlo.cz/pizza-coloseum-andel
+477,pizza-company-kobylisy,-1.0,0,29 Kč (zdarma od 700 Kč),"Kobyliské náměstí, Praha 8 18000",50.1230741,14.4519037,8,https://www.damejidlo.cz/pizza-company-kobylisy
+478,pizza-company-fakultni-nemocnice-kralovska-vinohrady,-1.0,0,29 Kč (zdarma od 700 Kč),"šrobárova 50, praha 10 11000",50.07624449999999,14.4754138,,https://www.damejidlo.cz/pizza-company-fakultni-nemocnice-kralovska-vinohrady
+479,pizza-company-ladvi,-1.0,0,29 Kč (zdarma od 700 Kč),"Střelničná 1660, Praha 8 18200",50.1264217,14.468724,8,https://www.damejidlo.cz/pizza-company-ladvi
+480,pizza-company-opatov,-1.0,0,29 Kč (zdarma od 700 Kč),"Chilská, Praha 14900",50.0258335,14.5083429,14900,https://www.damejidlo.cz/pizza-company-opatov
+481,pizza-company-petriny,-1.0,0,29 Kč (zdarma od 700 Kč),"Brunclíkova 1875/17, Praha 6 162 00",50.0861177,14.3449626,6,https://www.damejidlo.cz/pizza-company-petriny
+482,pizza-company-radlicka,-1.0,0,29 Kč (zdarma od 700 Kč),"Radlická 5/154, Praha 5 15000",50.0579906,14.3889639,5,https://www.damejidlo.cz/pizza-company-radlicka
+483,pizza-di-niko,100.0,8,zdarma,"Průběžná 18, Praha 10 11000",50.06990039999999,14.4892668,10,https://www.damejidlo.cz/pizza-di-niko
+484,pizza-do-krabicecz-dolni-mecholupy,90.0,8,zdarma až 50 Kč (zdarma od 350 Kč),"Kutnohorská 40, Praha 10 10000",50.058919,14.559322,10,https://www.damejidlo.cz/pizza-do-krabicecz-dolni-mecholupy
+485,pizza-do-krabicecz-holesovicka,82.0,79,zdarma až 80 Kč (zdarma od 300 Kč),"Jankovcova 14b, Praha 7 17000",50.107889,14.4545394,7,https://www.damejidlo.cz/pizza-do-krabicecz-holesovicka
+486,pizza-do-krabicecz-kunratice,89.0,31,zdarma až 30 Kč (zdarma od 300 Kč),"nám. Prezidenta Masaryka 106, Praha 4 14000",50.0138691,14.4852014,4,https://www.damejidlo.cz/pizza-do-krabicecz-kunratice
+487,pizza-do-krabicecz,87.0,45,30 Kč až 50 Kč (zdarma od 300 Kč),"Zbraslavská 36/3, Praha 5 15000",50.0236175,14.3939732,5,https://www.damejidlo.cz/pizza-do-krabicecz
+488,pizza-enrico,-1.0,0,zdarma,"Ruská 777/152, Praha 10 10000",50.0737145,14.4765137,10,https://www.damejidlo.cz/pizza-enrico
+489,pizza-excellent,81.0,78,99 Kč,"Radlická 845/15, Praha 5 15000",50.0623959,14.4042988,5,https://www.damejidlo.cz/pizza-excellent
+490,pizza-express-praha,83.0,83,50 Kč,"Votická 2405/8, Praha 3 13000",50.0781298,14.4733748,3,https://www.damejidlo.cz/pizza-express-praha
+491,pizza-express-repy,86.0,38,30 Kč až 100 Kč,"Makovského 1392/2b, Praha 17 — Řepy 16300",50.0652427,14.3086291,17,https://www.damejidlo.cz/pizza-express-repy
+492,fabbricia-praha-4-michle,85.0,323,zdarma,"U Plynárny 64, Praha 4 14000",50.0568801,14.4684699,4,https://www.damejidlo.cz/fabbricia-praha-4-michle
+493,pizza-fabbricia-vypich,90.0,317,zdarma až 29 Kč (zdarma od 300 Kč),"Bělohorská 205, Praha 6 16000",50.0773362,14.3395797,6,https://www.damejidlo.cz/pizza-fabbricia-vypich
+494,fabbricia,87.0,279,zdarma (zdarma od 300 Kč),"Dukelských hrdinů 16, Praha 7 17000",50.0995353,14.4334627,7,https://www.damejidlo.cz/fabbricia
+495,pizza-factory,95.0,141,29 Kč až 39 Kč,"K Vltavě 1541/54, Praha 4 14000",50.0068242,14.416472,4,https://www.damejidlo.cz/pizza-factory
+496,pizzafinezza,88.0,78,zdarma,"Branická 706/18, Praha 4 14000",50.0394661,14.4104592,4,https://www.damejidlo.cz/pizzafinezza
+497,pizza-franci,89.0,282,zdarma až 49 Kč (zdarma od 200 Kč),"Holečkova 123, Praha 5 15000",50.0717761,14.3851151,5,https://www.damejidlo.cz/pizza-franci
+498,pizzeria-ristorante-fratelli,94.0,116,29 Kč až 49 Kč,"Hostýnská 520/14, Praha 19000",50.0826041,14.4935339,19000,https://www.damejidlo.cz/pizzeria-ristorante-fratelli
+499,pizza-fresh-praha,86.0,138,zdarma,"Kodaňská 57, Praha 10 10100",50.0708965,14.4594737,10,https://www.damejidlo.cz/pizza-fresh-praha
+500,pizza-fresh,88.0,237,zdarma,"Záběhlická 131/33, Praha 10 - Záběhlice 10000",50.0559258,14.4815921,10,https://www.damejidlo.cz/pizza-fresh
+501,pizza-gogoii,96.0,44,zdarma,"Starokolínská 95, Praha 19000",50.0769892,14.6570971,19000,https://www.damejidlo.cz/pizza-gogoii
+502,pizza-grande-jizni-mesto,93.0,166,zdarma až 199 Kč,"Křejpského 2276/6A, Praha 4 14000",50.0259018,14.5162314,4,https://www.damejidlo.cz/pizza-grande-jizni-mesto
+503,pizza-grande-malesice,92.0,137,29 Kč až 49 Kč,"Limuzská 8, Praha 10 10000",50.0785568,14.5084521,10,https://www.damejidlo.cz/pizza-grande-malesice
+504,pizza-hned,86.0,91,45 Kč (zdarma od 400 Kč),"Svatoslavova 51, Praha 4 14000",50.0616825,14.4457692,4,https://www.damejidlo.cz/pizza-hned
+505,pizza-house-praha,87.0,218,zdarma až 30 Kč,"Kamerunská 599, Praha 6 16000",50.0980748,14.3619719,6,https://www.damejidlo.cz/pizza-house-praha
+506,pizza-chefie-praha,82.0,132,zdarma,"Vrbova ulice 1427/19, Praha 14000",50.03212720000001,14.4275642,14000,https://www.damejidlo.cz/pizza-chefie-praha
+507,pizza-il-carne-praha,-1.0,0,49 Kč (zdarma od 700 Kč),"Nové Butovice, Seydlerova 9, Praha 13 15800",50.04990910000001,14.3472003,13,https://www.damejidlo.cz/pizza-il-carne-praha
+508,pizza-italiano-dolce,81.0,58,zdarma,"Malkovského 608/9, Praha 9 19900",50.1410962,14.5067482,9,https://www.damejidlo.cz/pizza-italiano-dolce
+509,pizza-burger-jadran2,83.0,100,zdarma,"Čilská 1, Praha 4 14000",50.0993532,14.411435,4,https://www.damejidlo.cz/pizza-burger-jadran2
+510,hallo-pizza-praha-4,-1.0,0,zdarma,"K Podjezdu, Praha 4 14000",50.0609334,14.4516698,4,https://www.damejidlo.cz/hallo-pizza-praha-4
+511,pizza-burger-jadran,83.0,218,zdarma až 139 Kč,"Švehlova, Praha 10 10000",50.0603896,14.5057748,10,https://www.damejidlo.cz/pizza-burger-jadran
+512,pizza-jizni-mesto,92.0,298,zdarma až 50 Kč (zdarma od 220 Kč),"Opatovská 1753, Praha 4 14000",50.0253577,14.5164715,4,https://www.damejidlo.cz/pizza-jizni-mesto
+513,pizza-joy,86.0,298,0 Kč,"Náměstí bratří Synků 7, Praha 4 14000",50.0638875,14.4413361,4,https://www.damejidlo.cz/pizza-joy
+514,pizza-kebab,87.0,36,35 Kč (zdarma od 249 Kč),"V Korytech 1773/4, Praha 10 10600",50.0541972,14.4900374,10,https://www.damejidlo.cz/pizza-kebab
+515,pizza-kebab-jasna,82.0,48,,"Krhanická 365/36A, Praha - Kamýk 14200",50.0173411,14.442597,,https://www.damejidlo.cz/pizza-kebab-jasna
+516,pizza-kebabjasna,-1.0,0,zdarma až 29 Kč,"Krhanická 365/36A, Praha - Kamýk 14200",50.0173411,14.442597,,https://www.damejidlo.cz/pizza-kebabjasna
+517,pizza-king,76.0,34,zdarma,"Vinohradská 1786/122, Praha 13000",50.07755179999999,14.4587893,13000,https://www.damejidlo.cz/pizza-king
+518,pizza-kubka,86.0,9,49 Kč,"Kardašovská 773/8, Praha 9 19000",50.10604,14.5502154,9,https://www.damejidlo.cz/pizza-kubka
+519,pizza-millenium-nocni-medi-nocni,-1.0,0,zdarma až 49 Kč,"Vinohradska 2375/198, Praha 3 13000",50.0778663,14.4767693,3,https://www.damejidlo.cz/pizza-millenium-nocni-medi-nocni
+520,pizza-luigi-krusty-burger-nova,96.0,20,zdarma až 35 Kč,"Průběžná 42, Praha 10 10000",50.0676154,14.4931918,10,https://www.damejidlo.cz/pizza-luigi-krusty-burger-nova
+521,pizza-matteo,89.0,121,zdarma až 89 Kč,"Dobronická 50/9, Praha 4 14200",50.0093506,14.4633742,4,https://www.damejidlo.cz/pizza-matteo
+522,pizza-paolo-holesovice,93.0,241,zdarma,"Partyzánská 1504/24, Praha 7 17000",50.1102825,14.4398904,7,https://www.damejidlo.cz/pizza-paolo-holesovice
+523,pizza-miki,93.0,173,zdarma,"Trávníčkova 1764/5, Praha 13 15500",50.0445125,14.319842,13,https://www.damejidlo.cz/pizza-miki
+524,pizza-finezza-motol,90.0,26,35 Kč,"Karlovarská 1698/1, Praha 11700",50.075137,14.3250297,11700,https://www.damejidlo.cz/pizza-finezza-motol
+525,pizza-nebo-pasta,79.0,88,zdarma,"U Kavalírky 4/8, Praha 5 15000",50.0696934,14.3719834,5,https://www.damejidlo.cz/pizza-nebo-pasta
+526,pizza-nero,-1.0,0,29 Kč,"Nerudova 24, Praha 1 11000",50.088589,14.3992659,1,https://www.damejidlo.cz/pizza-nero
+527,pizza-nuova,79.0,23,49 Kč (zdarma od 2 000 Kč),"Revoluční 1/655, Praha 1 11000",50.0894704,14.4279226,1,https://www.damejidlo.cz/pizza-nuova
+528,pizza-padronissimo,93.0,83,zdarma až 79 Kč,"Paškova 1511, Praha 5 15000",49.9688321,14.3838149,5,https://www.damejidlo.cz/pizza-padronissimo
+529,pizza-padronissimo-stodulky,92.0,255,zdarma až 79 Kč,"Hábova 2345, Praha 5 15500",50.0466821,14.3107693,5,https://www.damejidlo.cz/pizza-padronissimo-stodulky
+530,pizza-palermo-praha-10,90.0,17,29 Kč (zdarma od 600 Kč),"V Olšinách 67, Praha 10 11000",50.0728178,14.492412,10,https://www.damejidlo.cz/pizza-palermo-praha-10
+531,pizza-pantheon,93.0,162,15 Kč až 25 Kč,"Mukařovského 1985/5, Praha 5 15500",50.0446859,14.3217611,5,https://www.damejidlo.cz/pizza-pantheon
+532,pizza-burger-paolo-prubezna-nova,92.0,159,zdarma až 35 Kč,"Průběžná 180/42, Praha 10 10000",50.067478,14.4935032,10,https://www.damejidlo.cz/pizza-burger-paolo-prubezna-nova
+533,pizza-paolo-barrandov,94.0,41,15 Kč až 45 Kč,"Chaplinovo náměstí 1, Praha 5 15000",50.0372232,14.3788515,5,https://www.damejidlo.cz/pizza-paolo-barrandov
+534,pizza-paolo-smichov,86.0,53,15 Kč až 45 Kč,"Nádražní 279/1, Praha 5 15000",50.0606595,14.4086901,5,https://www.damejidlo.cz/pizza-paolo-smichov
+535,pizza-papa-cipolla-vrsovice,84.0,118,zdarma,"Vršovická 88, Praha 10 10000",50.07045069999999,14.476362,10,https://www.damejidlo.cz/pizza-papa-cipolla-vrsovice
+536,pizza-pasta-break,-1.0,0,29 Kč (zdarma od 700 Kč),"Vejvodova 443/8, Praha 1 11000",50.0844891,14.4194431,1,https://www.damejidlo.cz/pizza-pasta-break
+537,pizza-pazza-praha,85.0,38,25 Kč,"Bělohorská 240/81, Praha 6 16000",50.0838274,14.3692828,6,https://www.damejidlo.cz/pizza-pazza-praha
+538,pizza-pigy,53.0,6,29 Kč (zdarma od 700 Kč),"Milady Horákové 116/109, Praha 6 16000",50.0970297,14.4048939,6,https://www.damejidlo.cz/pizza-pigy
+539,pizza-prague,63.0,24,59 Kč,"Blanická 768/4, Praha 2 12000",50.0745072,14.4392854,2,https://www.damejidlo.cz/pizza-prague
+540,pizza-praha,-1.0,0,29 Kč (zdarma od 600 Kč),"Táboritská 3, Praha 3 13000",50.0836716,14.454033,3,https://www.damejidlo.cz/pizza-praha
+541,pizza-presto-63,90.0,141,59 Kč (zdarma od 600 Kč),"Vinohradská 63/1485, Praha 2 12000",50.0771968,14.4428925,2,https://www.damejidlo.cz/pizza-presto-63
+542,pepikova-pizza-jizni-mesto,81.0,88,zdarma,"Hrusická 2617/3A, Praha 4 14000",50.0486467,14.4846588,4,https://www.damejidlo.cz/pepikova-pizza-jizni-mesto
+543,roma,68.0,5,29 Kč (zdarma od 700 Kč),"Jugoslávská 17/6, Praha 2 12000",50.0752811,14.4312384,2,https://www.damejidlo.cz/roma
+544,pizza-royal,74.0,14,zdarma,"Ruská 971/92, Praha 11000",50.0729164,14.4648299,11000,https://www.damejidlo.cz/pizza-royal
+545,pizza-scuola,93.0,108,zdarma až 29 Kč,"Heydukova 896/11, Praha 8 18000",50.1035931,14.474963,8,https://www.damejidlo.cz/pizza-scuola
+546,pizza-sofina,87.0,26,zdarma,"Seifertova 2, Praha 3 13000",50.0850198,14.4422535,3,https://www.damejidlo.cz/pizza-sofina
+547,pizza-solo,89.0,15,zdarma,"Korunní 1151/67, Praha 12000",50.07549280000001,14.4493426,12000,https://www.damejidlo.cz/pizza-solo
+548,pizza-stazione,89.0,252,zdarma,"Podolská 34, Praha 4 14000",50.04694000000001,14.4152025,4,https://www.damejidlo.cz/pizza-stazione
+549,pizza-tandoori,85.0,25,zdarma (zdarma od 1 000 Kč),"Vinohradska 2375/198, Praha 3 13000",50.0778663,14.4767693,3,https://www.damejidlo.cz/pizza-tandoori
+550,pizza-to-go-ii,75.0,23,zdarma až 50 Kč (zdarma od 180 Kč),"Prusíkova 2577/16, Praha 5 15000",50.0380458,14.3384908,5,https://www.damejidlo.cz/pizza-to-go-ii
+551,pizza-tondo,93.0,87,15 Kč až 49 Kč,"Náchodská 708, Praha 9 19300",50.11127860000001,14.5902106,9,https://www.damejidlo.cz/pizza-tondo
+552,pizza-tony,92.0,152,zdarma až 40 Kč,"Veronské náměstí 403, Praha 10 10000",50.0405922,14.5588646,10,https://www.damejidlo.cz/pizza-tony
+553,pizza-tony-praha-4,94.0,166,zdarma až 40 Kč,"Libušská 385/178, Praha 4 14200",50.00749,14.4636856,4,https://www.damejidlo.cz/pizza-tony-praha-4
+554,pizza-u-benedikta-1,88.0,7,zdarma,"Slivenecká 72/5, Praha 5 15200",50.0380919,14.3877381,5,https://www.damejidlo.cz/pizza-u-benedikta-1
+555,pizza-uno,89.0,38,zdarma (zdarma od 400 Kč),"Paprskova 1386/7, Praha 4 14000",50.03255069999999,14.447938,4,https://www.damejidlo.cz/pizza-uno
+556,pizza-uno-michle,82.0,50,zdarma (zdarma od 400 Kč),"Ohradní 18, Praha 4 14000",50.0521555,14.4549653,4,https://www.damejidlo.cz/pizza-uno-michle
+557,vulcano-pizza,96.0,100,zdarma,"U páté baterie 17/756, Praha 16200",50.0910504,14.3686577,16200,https://www.damejidlo.cz/vulcano-pizza
+558,pizza-west-i,91.0,81,49 Kč až 59 Kč (zdarma od 550 Kč),"Náměstí bratří Synků 1, Praha 4 14000",50.06474739999999,14.4405656,4,https://www.damejidlo.cz/pizza-west-i
+559,pizza-west-suburb,80.0,24,89 Kč (zdarma od 1 500 Kč),"Náměstí bratří Synků 1, Praha 4 14000",50.06474739999999,14.4405656,4,https://www.damejidlo.cz/pizza-west-suburb
+560,pizza-west-1,80.0,10,74 Kč až 79 Kč (zdarma od 750 Kč),"Náměstí bratří Synků 1, Praha 4 14000",50.06474739999999,14.4405656,4,https://www.damejidlo.cz/pizza-west-1
+561,pizza-west-3,87.0,101,89 Kč (zdarma od 950 Kč),"Náměstí bratří Synků 1, Praha 4 14000",50.06474739999999,14.4405656,4,https://www.damejidlo.cz/pizza-west-3
+562,pizza-zeero,95.0,121,zdarma až 59 Kč,"Jesenická 58, Praha 10 10000",50.0576555,14.4932753,10,https://www.damejidlo.cz/pizza-zeero
+563,pizza-zizkov,85.0,25,30 Kč až 59 Kč,"Koněvova 1947/188, Praha 3 13000",50.0877775,14.4569821,3,https://www.damejidlo.cz/pizza-zizkov
+564,pizza-bleskem,95.0,95,29 Kč až 69 Kč,"Modřanská 409/68d, Praha 4 14000",50.0153464,14.4022952,4,https://www.damejidlo.cz/pizza-bleskem
+565,pizzamio,88.0,28,29 Kč (zdarma od 500 Kč),"Moskevská 62, Praha 10 10000",50.068202,14.4577812,10,https://www.damejidlo.cz/pizzamio
+566,pizzanonstop-praha,80.0,65,39 Kč,"Vinohradská 1509/226, Praha 10 10000",50.0768545,14.4871812,10,https://www.damejidlo.cz/pizzanonstop-praha
+567,pizzburg,83.0,132,59 Kč,"Francouzská 140/110, Praha 11000",50.0718275,14.4500344,11000,https://www.damejidlo.cz/pizzburg
+568,la-fame,87.0,29,29 Kč (zdarma od 700 Kč),"Újezd 8, Praha 5 – Malá Strana 15000",50.08054019999999,14.4046926,5,https://www.damejidlo.cz/la-fame
+569,pizzeria-carllino,85.0,17,29 Kč (zdarma od 700 Kč),"Thámova 26, Praha 8 18000",50.0933117,14.4520954,8,https://www.damejidlo.cz/pizzeria-carllino
+570,pizzeria-einstein,81.0,15,50 Kč (zdarma od 300 Kč),"Seifertova 595/67, Praha 3 13000",50.08472709999999,14.4485721,3,https://www.damejidlo.cz/pizzeria-einstein
+571,giovanni-express,91.0,90,zdarma až 80 Kč,"Za černým mostem 266/2, Praha 14-Kyje 19800",50.1076973,14.5558733,14,https://www.damejidlo.cz/giovanni-express
+572,pizzeria-golosona,52.0,5,49 Kč,"Nákupní 389/3, Praha 10 10000",50.072598,14.54241,10,https://www.damejidlo.cz/pizzeria-golosona
+573,il-pomodoro,-1.0,0,,"Novodvorská 1800/136, Praha 4 14200",50.0267644,14.4329116,4,https://www.damejidlo.cz/il-pomodoro
+574,pizzeria-justina,81.0,167,120 Kč,"Kudrnova 234/2a, Praha 5 10200",50.07055440000001,14.3476863,5,https://www.damejidlo.cz/pizzeria-justina
+575,pizzeria-kmotra,70.0,19,29 Kč (zdarma od 700 Kč),"V Jirchářích 1285/12, Praha 1 11000",50.0801581,14.4171993,1,https://www.damejidlo.cz/pizzeria-kmotra
+576,pizzeria-la-piazza-praha-3,-1.0,0,0 Kč,"Nitranská 20, Praha 3 13000",50.0764831,14.4504852,3,https://www.damejidlo.cz/pizzeria-la-piazza-praha-3
+577,manna,91.0,33,29 Kč (zdarma od 500 Kč),"Urxova 5, Praha 8 18000",50.0944595,14.4574573,8,https://www.damejidlo.cz/manna
+578,pizzeria-giovanni,84.0,115,zdarma (zdarma od 350 Kč),"Střelničná 1826/35, Praha 8 18000",50.1269369,14.471518,8,https://www.damejidlo.cz/pizzeria-giovanni
+579,pizzeria-ristorante-erico,-1.0,0,29 Kč (zdarma od 700 Kč),"dejvická 15, Praha 6 16000",50.09848059999999,14.3991037,6,https://www.damejidlo.cz/pizzeria-ristorante-erico
+580,pizzerie-sicilia,73.0,18,49 Kč (zdarma od 700 Kč),"Korunní 50, Praha 2 12000",50.0751728,14.4453015,2,https://www.damejidlo.cz/pizzerie-sicilia
+581,pizzeria-siesta,73.0,9,49 Kč,"Na Pískách 74, Praha 6 16000",50.1070038,14.3744573,6,https://www.damejidlo.cz/pizzeria-siesta
+582,pizzeria-vabene,-1.0,0,29 Kč (zdarma od 500 Kč),"Malá Štupartská 636/5, Praha 1 11000",50.0881133,14.4245181,1,https://www.damejidlo.cz/pizzeria-vabene
+583,pizzeria-vendemaria,92.0,60,80 Kč,"Sladkovského náměstí 6, Praha 3 13000",50.0844631,14.451213,3,https://www.damejidlo.cz/pizzeria-vendemaria
+584,pizzerie-amfora,84.0,5,59 Kč (zdarma od 1 000 Kč),"Molákova 577/34, Praha 8 18000",50.0969546,14.4652086,8,https://www.damejidlo.cz/pizzerie-amfora
+585,pizzerie-bambini,84.0,5,29 Kč (zdarma od 700 Kč),"Biskupcova 1653/27, Praha 3 - Žižkov 13000",50.0899971,14.4713856,3,https://www.damejidlo.cz/pizzerie-bambini
+586,pizzerie-kaskada,84.0,62,zdarma (zdarma od 399 Kč),"Voskovcova 1075/43, Praha 5 15000",50.0291677,14.366165,5,https://www.damejidlo.cz/pizzerie-kaskada
+587,pizzerie-rimini-praha,-1.0,0,zdarma až 89 Kč (zdarma od 700 Kč),"Čílová 10, Praha 6 16000",50.08907259999999,14.3470889,6,https://www.damejidlo.cz/pizzerie-rimini-praha
+588,pizzerie-vaclavka,-1.0,0,0 Kč,"Václávské nám. 799/48, Praha 1 11000",50.0807314,14.4276324,1,https://www.damejidlo.cz/pizzerie-vaclavka
+589,pizzerie-vysocany,94.0,124,zdarma až 100 Kč (zdarma od 300 Kč),"Sokolovská 306, Praha 9 19000",50.1094108,14.4964943,9,https://www.damejidlo.cz/pizzerie-vysocany
+590,planet-sushi,91.0,22,29 Kč (zdarma od 2 000 Kč),"Nádražní 110, Praha 5 15000",50.0703591,14.4051129,5,https://www.damejidlo.cz/planet-sushi
+591,plzenska-restaurace-u-sedleru,-1.0,0,29 Kč (zdarma od 700 Kč),"Karlovo náměstí 17/288, Praha 2 12000",50.0771843,14.4190671,2,https://www.damejidlo.cz/plzenska-restaurace-u-sedleru
+592,pocha-korean-taste,-1.0,0,29 Kč (zdarma od 700 Kč),"Oldřichova 506/14, Praha 12800",50.0655376,14.4261783,12800,https://www.damejidlo.cz/pocha-korean-taste
+593,pojd-se-najist,79.0,285,49 Kč (zdarma od 700 Kč),"Brandlova 2381/1b, Praha 14900",50.0331262,14.5159622,14900,https://www.damejidlo.cz/pojd-se-najist
+594,port-stanley,91.0,75,29 Kč (zdarma od 500 Kč),"Na Maninách 18, Praha 7 17000",50.1023562,14.4527955,7,https://www.damejidlo.cz/port-stanley
+595,positano-restaurant-pizzeria-ii,77.0,49,zdarma,"Peluškova 1536, Praha 9 19800",50.1088335,14.5572252,9,https://www.damejidlo.cz/positano-restaurant-pizzeria-ii
+596,potrefena-husa-budejovicka,-1.0,0,29 Kč (zdarma od 700 Kč),"Budějovická 64, Praha 4 14000",50.0437773,14.4491012,4,https://www.damejidlo.cz/potrefena-husa-budejovicka
+597,potrefena-husa-sport-bar-bohnice,92.0,123,zdarma až 79 Kč,"Zhořelecká 514/2, Praha 8 18000",50.1313901,14.4099343,8,https://www.damejidlo.cz/potrefena-husa-sport-bar-bohnice
+598,potrefena-husa-dejvice,84.0,44,29 Kč (zdarma od 1 000 Kč),"Terronská 11, Praha 6 16000",50.1021734,14.398911,6,https://www.damejidlo.cz/potrefena-husa-dejvice
+599,potrefena-husa-pankrac,90.0,12,29 Kč (zdarma od 1 000 Kč),"Na Pankráci 129, Praha 4 14000",50.0510311,14.4408967,4,https://www.damejidlo.cz/potrefena-husa-pankrac
+600,potrefena-husa-vinohrady,83.0,31,29 Kč (zdarma od 1 000 Kč),"Vinohradská 1666/104, Praha 2 12000",50.07738459999999,14.4554545,2,https://www.damejidlo.cz/potrefena-husa-vinohrady
+601,poutine-de-soto,,,,,,,,https://www.damejidlo.cz/poutine-de-soto
+602,prague-spirits,100.0,9,120 Kč,"Škroupovo náměstí 5, Praha 3 13000",50.0807812,14.4490046,3,https://www.damejidlo.cz/prague-spirits
+603,prazska-kavara,-1.0,0,29 Kč (zdarma od 700 Kč),"Dukelských hrdinů 44, Praha 7 17000",50.1025834,14.4329586,7,https://www.damejidlo.cz/prazska-kavara
+604,prima-vietnamese-cuisine,73.0,6,29 Kč (zdarma od 700 Kč),"Za Poříčskou bránou 214/12, Praha 8 18000",50.0906953,14.4406192,8,https://www.damejidlo.cz/prima-vietnamese-cuisine
+605,provocateur-bistro,-1.0,0,29 Kč (zdarma od 700 Kč),"Samcova 1, Praha 1 11000",50.0920654,14.4333989,1,https://www.damejidlo.cz/provocateur-bistro
+606,pricny-rez,-1.0,0,29 Kč (zdarma od 700 Kč),"Příčná 3, Praha 1 11000",50.07809169999999,14.422786,1,https://www.damejidlo.cz/pricny-rez
+607,puskin,-1.0,0,29 Kč (zdarma od 800 Kč),"Husová 14, Praha 11000",50.0859442,14.4181298,11000,https://www.damejidlo.cz/puskin
+608,puzzle-pizza,88.0,192,0 Kč,"Ostrčilovo nám. 60, Praha 2 12800",50.0653578,14.4243842,2,https://www.damejidlo.cz/puzzle-pizza
+609,quick-easy,-1.0,0,29 Kč (zdarma od 600 Kč),"Sokolovská 120/62, Praha 8 18000",50.0926355,14.4457002,8,https://www.damejidlo.cz/quick-easy
+610,radost-fx,83.0,73,29 Kč (zdarma od 800 Kč),"Bělehradská 234/120, Praha 2 12000",50.0759178,14.4323558,2,https://www.damejidlo.cz/radost-fx
+611,rallye-wings,76.0,95,59 Kč,"Pivovarnická 1, Praha 8 180 00",50.1092186,14.4741302,8,https://www.damejidlo.cz/rallye-wings
+612,rana-pakistani-restaurant,96.0,50,49 Kč (zdarma od 2 000 Kč),"Na Dědince 12/515, Praha 8 18000",50.1155742,14.4724595,8,https://www.damejidlo.cz/rana-pakistani-restaurant
+613,rang-de-basanti-indian-restaurant,96.0,10,49 Kč,"Národních hrdinů 28, Praha 9 19000",50.0872795,14.5763652,9,https://www.damejidlo.cz/rang-de-basanti-indian-restaurant
+614,rancheros-catering,-1.0,0,59 Kč (zdarma od 1 500 Kč),"Na Florenci 19, Praha 11000",50.0889957,14.43554,11000,https://www.damejidlo.cz/rancheros-catering
+615,restaurace-rancheros-cerny-most,95.0,17,59 Kč až 99 Kč,"Chlumecká 765/6, Praha 9 19800",50.108793,14.5832921,9,https://www.damejidlo.cz/restaurace-rancheros-cerny-most
+616,mexicka-restaurace-rancheros,81.0,160,59 Kč,"Na Florenci 19, Praha 1 11000",50.08867679999999,14.4365809,1,https://www.damejidlo.cz/mexicka-restaurace-rancheros
+617,raw-for-you,95.0,8,120 Kč,"Bubenečská 35, Praha 6 16000",50.1014472,14.4044881,6,https://www.damejidlo.cz/raw-for-you
+618,raw-planet,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Štorchova 5, Praha 8 18000",50.1042199,14.4642815,8,https://www.damejidlo.cz/raw-planet
+619,real-meat-society,-1.0,0,29 Kč (zdarma od 700 Kč),"Náplavní 5, Praha 12000",50.0766494,14.4150017,12000,https://www.damejidlo.cz/real-meat-society
+620,rest,-1.0,0,29 Kč (zdarma od 2 000 Kč),"Podolské nábřeží 34/6, Praha 4 14000",50.0612974,14.4191629,4,https://www.damejidlo.cz/rest
+621,restaurace-drevak,70.0,8,29 Kč (zdarma od 700 Kč),"Pod hájkem 1, Praha 8 18000",50.1055664,14.4789099,8,https://www.damejidlo.cz/restaurace-drevak
+622,abc-restaurace,,,,,,,,https://www.damejidlo.cz/abc-restaurace
+623,restaurace-abc-odpoledni,90.0,20,49 Kč (zdarma od 700 Kč),"Za mlýnem 1774/12, Praha 4 14000",50.033538,14.4236716,4,https://www.damejidlo.cz/restaurace-abc-odpoledni
+624,restaurace-bonaccia-ii,92.0,75,zdarma (zdarma od 199 Kč),"Na Bendovce 16, Praha 8 18000",50.1322953,14.414315,8,https://www.damejidlo.cz/restaurace-bonaccia-ii
+625,restaurace-bruska-praha,85.0,8,29 Kč (zdarma od 1 000 Kč),"Dejvická 20, Praha 6 16000",50.09790779999999,14.4019371,6,https://www.damejidlo.cz/restaurace-bruska-praha
+626,restaurace-brevnovka,84.0,25,49 Kč,"Patočkova 1632/55, Praha 6 16000",50.0862777,14.3712466,6,https://www.damejidlo.cz/restaurace-brevnovka
+627,restaurace-cerny-kohout,-1.0,0,49 Kč (zdarma od 700 Kč),"Bublavská 308, Praha 5 15000",50.0369997,14.3613,5,https://www.damejidlo.cz/restaurace-cerny-kohout
+628,restaurace-dobra-spolecnost,89.0,27,49 Kč,"Parmská 387, Praha 15 10900",50.0418801,14.5633811,15,https://www.damejidlo.cz/restaurace-dobra-spolecnost
+629,restaurace-domovina,,,,,,,,https://www.damejidlo.cz/restaurace-domovina
+630,restaurace-drevak-karlin,84.0,5,zdarma,"Sokolovská 85/104, Praha 8 18000",50.09438400000001,14.453774,8,https://www.damejidlo.cz/restaurace-drevak-karlin
+631,restaurace-drevak-praha,90.0,43,zdarma až 49 Kč,"U klubu 63, Praha 4 14000",49.99245519999999,14.4093151,4,https://www.damejidlo.cz/restaurace-drevak-praha
+632,gattino-bohnice,85.0,38,49 Kč (zdarma od 700 Kč),"Zhořelecká 514, Praha 8 18000",50.1313901,14.4099343,8,https://www.damejidlo.cz/gattino-bohnice
+633,gattino-modrany,-1.0,0,,"Rilská 3173, Praha 4 14000",50.0086336,14.4289388,4,https://www.damejidlo.cz/gattino-modrany
+634,restaurace-globus,-1.0,0,29 Kč (zdarma od 700 Kč),"Křižíkova 512/68, Praha 8 18600",50.09362350000001,14.4567412,8,https://www.damejidlo.cz/restaurace-globus
+635,restaurace-hoang-an,84.0,76,29 Kč,"Milady Horákové 77, Praha 17000",50.0997861,14.4233124,17000,https://www.damejidlo.cz/restaurace-hoang-an
+636,restaurace-hokejka,88.0,69,49 Kč až 59 Kč,"Breitcetlova 771/6, Praha 9 19000",50.1057272,14.5742578,9,https://www.damejidlo.cz/restaurace-hokejka
+637,restaurace-husinec,89.0,11,29 Kč (zdarma od 1 000 Kč),"Mezibranská 13, Praha 1 11000",50.07831359999999,14.4291962,1,https://www.damejidlo.cz/restaurace-husinec
+638,restaurace-jaro-vietnamska-tradicni-kuchyne,92.0,21,29 Kč (zdarma od 700 Kč),"Koněvova 1956/214, Praha 13000",50.0922369,14.4894697,13000,https://www.damejidlo.cz/restaurace-jaro-vietnamska-tradicni-kuchyne
+639,restaurace-jerrys,65.0,16,35 Kč,"Makovského 1179/2, Praha 16300",50.0652491,14.3077689,16300,https://www.damejidlo.cz/restaurace-jerrys
+640,restaurace-kastrol,92.0,5,79 Kč (zdarma od 2 000 Kč),"Ohradské náměstí 1625/2, Praha 5 15000",50.0368431,14.3339096,5,https://www.damejidlo.cz/restaurace-kastrol
+641,restaurace-kolkovna-budejovicka,90.0,58,19 Kč,"Budějovická 13, Praha 4 14000",50.0460132,14.448034,4,https://www.damejidlo.cz/restaurace-kolkovna-budejovicka
+642,restaurace-kolkovna-savarin,54.0,7,19 Kč,"Na Příkopě 10, Praha 1 11000",50.0850537,14.4247703,1,https://www.damejidlo.cz/restaurace-kolkovna-savarin
+643,kotelna,93.0,25,49 Kč,"Jiříčkové 3269/4, Praha 10 10600",50.0534517,14.5050746,10,https://www.damejidlo.cz/kotelna
+644,restaurace-koulovna,89.0,27,49 Kč,"Arkalycká 877/4, Praha 4 14900",50.0315585,14.528583,4,https://www.damejidlo.cz/restaurace-koulovna
+645,restaurace-kovarska,-1.0,0,29 Kč (zdarma od 700 Kč),"Kovářská 939/4, Praha 9 19000",50.10604499999999,14.4917445,9,https://www.damejidlo.cz/restaurace-kovarska
+646,restaurace-legenda,-1.0,0,29 Kč (zdarma od 700 Kč),"Legerova 39, Praha 12000",50.0738809,14.4301837,12000,https://www.damejidlo.cz/restaurace-legenda
+647,restaurace-lilie,92.0,35,39 Kč (zdarma od 700 Kč),"Holečkova 877/67, Praha 5 15000",50.07303109999999,14.3920251,5,https://www.damejidlo.cz/restaurace-lilie
+648,restaurace-mai-mai,92.0,5,49 Kč (zdarma od 700 Kč),"Nevanova 1050, Praha 6 16300",50.0659396,14.317682,6,https://www.damejidlo.cz/restaurace-mai-mai
+649,restaurace-metro,-1.0,0,29 Kč (zdarma od 700 Kč),"Prvního pluku 33/9,, Praha - Karlín 186 00",50.0893329,14.4432055,,https://www.damejidlo.cz/restaurace-metro
+650,na-dolinach,78.0,32,29 Kč (zdarma od 700 Kč),"Na dolinách 18/5, Praha 4 14000",50.0579926,14.4231551,4,https://www.damejidlo.cz/na-dolinach
+651,restaurace-na-farkaneiii,85.0,14,69 Kč (zdarma od 1 000 Kč),"Na Farkáně III 32/194, Praha 5 15000",50.059934,14.3805253,5,https://www.damejidlo.cz/restaurace-na-farkaneiii
+652,restaurace-na-hromadkove,88.0,74,zdarma až 49 Kč,"Kmochova 1/825, Praha 5 15000",50.0725913,14.3957683,5,https://www.damejidlo.cz/restaurace-na-hromadkove
+653,restaurace-na-jedli,84.0,5,49 Kč,"Plzeňská 608/7, Praha 5 15000",50.07168040000001,14.4007389,5,https://www.damejidlo.cz/restaurace-na-jedli
+654,restaurace-na-melnicke,,,,,,,,https://www.damejidlo.cz/restaurace-na-melnicke
+655,restaurace-na-michelske,83.0,17,29 Kč (zdarma od 700 Kč),"Michelská 812/87, Praha 4 14100",50.0470463,14.4607671,4,https://www.damejidlo.cz/restaurace-na-michelske
+656,restaurace-na-rozhrani,-1.0,0,59 Kč (zdarma od 800 Kč),"Srbská 7, Praha 6 16000",50.0991592,14.4052491,6,https://www.damejidlo.cz/restaurace-na-rozhrani
+657,restaurace-na-slamniku,-1.0,0,29 Kč (zdarma od 700 Kč),"wolkerova 12/1a, praha 6 16000",50.1036526,14.4085319,,https://www.damejidlo.cz/restaurace-na-slamniku
+658,stara-cihelna,,,,,,,,https://www.damejidlo.cz/stara-cihelna
+659,restaurace-na-stare-rane,88.0,57,29 Kč (zdarma od 1 000 Kč),"Drahobejlova 957/53, Praha 9 19000",50.106699,14.4922687,9,https://www.damejidlo.cz/restaurace-na-stare-rane
+660,restaurace-na-tetine,76.0,5,39 Kč (zdarma od 700 Kč),"Nuselská 61, Praha 4 14000",50.0605933,14.4491634,4,https://www.damejidlo.cz/restaurace-na-tetine
+661,restaurace-na-verande,60.0,11,49 Kč (zdarma od 700 Kč),"Trousilova 1065/6, Praha 8 18000",50.1275039,14.4513559,8,https://www.damejidlo.cz/restaurace-na-verande
+662,restaurace-nad-ledem,84.0,18,29 Kč (zdarma od 500 Kč),"Vladivostocká 1460/10, Praha 10 10000",50.0688048,14.4797083,10,https://www.damejidlo.cz/restaurace-nad-ledem
+663,restaurace-nordsee-pankrac,86.0,27,29 Kč (zdarma od 700 Kč),"Na Pankráci 86, Praha 4 Nusle 14000",50.0511586,14.4391031,4,https://www.damejidlo.cz/restaurace-nordsee-pankrac
+664,restaurace-nordsee,42.0,9,29 Kč (zdarma od 700 Kč),"Plzeňská 233/8, Praha 5 Smíchov 15000",50.0731701,14.4023955,5,https://www.damejidlo.cz/restaurace-nordsee
+665,restaurace-opatovske-terasy,76.0,10,49 Kč,"Opatovská 1754/14, Praha 11 14900",50.0253488,14.5188296,11,https://www.damejidlo.cz/restaurace-opatovske-terasy
+666,restaurace-oriental,-1.0,0,29 Kč,"Slezská 26, Praha 2 12000",50.076102,14.4425261,2,https://www.damejidlo.cz/restaurace-oriental
+667,restaurace-pasticka-ii,92.0,31,29 Kč (zdarma od 700 Kč),"Blanická 25, Praha 2 12000",50.0782917,14.4395225,2,https://www.damejidlo.cz/restaurace-pasticka-ii
+668,restaurace-pastva,,,,,,,,https://www.damejidlo.cz/restaurace-pastva
+669,restaurace-patanka,68.0,14,49 Kč,"Paťanka 4, Praha 16000",50.1139062,14.3890845,16000,https://www.damejidlo.cz/restaurace-patanka
+670,restaurac-pavlovin,96.0,62,49 Kč,"Mírového hnutí 2353/2, Praha 4 14000",50.03711699999999,14.498368,4,https://www.damejidlo.cz/restaurac-pavlovin
+671,restaurace-pod-cernym-vrchem,-1.0,0,29 Kč (zdarma od 700 Kč),"Erbenova 233/1, Praha 15000",50.0713555,14.3896397,15000,https://www.damejidlo.cz/restaurace-pod-cernym-vrchem
+672,restaurace-pod-juliskou,84.0,5,49 Kč,"Podbabská 1589/1, Praha 6 16000",50.11073630000001,14.3937954,6,https://www.damejidlo.cz/restaurace-pod-juliskou
+673,restaurace-pod-lipami-praha,-1.0,0,29 Kč (zdarma od 700 Kč),"Slovinská 13, Praha 10 10000",50.07005059999999,14.458487,10,https://www.damejidlo.cz/restaurace-pod-lipami-praha
+674,restaurace-pohadka,-1.0,0,zdarma,"Roháčova 75, Praha 3 13000",50.0884738,14.461413,3,https://www.damejidlo.cz/restaurace-pohadka
+675,restaurace-poja-dj,-1.0,0,29 Kč (zdarma od 600 Kč),"Seifertova 559/29, Praha 3 13000",50.0853912,14.4430136,3,https://www.damejidlo.cz/restaurace-poja-dj
+676,restaurace-porto,80.0,25,49 Kč (zdarma od 500 Kč),"Urxova 436/10, Praha 8 18600",50.09504889999999,14.4576433,8,https://www.damejidlo.cz/restaurace-porto
+677,restaurace-puda,85.0,14,50 Kč (zdarma od 300 Kč),"Počernická 509/85, Praha 10 10000",50.0833191,14.5072321,10,https://www.damejidlo.cz/restaurace-puda
+678,restaurace-rebellion,83.0,34,29 Kč (zdarma od 600 Kč),"Jeseniova 56g, Praha 3 13000",50.0869992,14.4623553,3,https://www.damejidlo.cz/restaurace-rebellion
+679,restaurace-rumika,,,,,,,,https://www.damejidlo.cz/restaurace-rumika
+680,restaurace-reporyjska-sokolovna,,,,,,,,https://www.damejidlo.cz/restaurace-reporyjska-sokolovna
+681,restaurace-spirit-bar,-1.0,0,29 Kč (zdarma od 700 Kč),"Dalimilova 2, Praha 3 13000",50.0859991,14.4487944,3,https://www.damejidlo.cz/restaurace-spirit-bar
+682,restaurace-start-svejk,74.0,14,29 Kč (zdarma od 600 Kč),"Průběžná 1174/28, Praha 10 10000",50.0687686,14.4915665,10,https://www.damejidlo.cz/restaurace-start-svejk
+683,restaurace-sarka,-1.0,0,59 Kč (zdarma od 1 000 Kč),"Nad Lávkou 5/790  (areál kemp Džbán), Praha 6 16000",50.0988028,14.3363953,6,https://www.damejidlo.cz/restaurace-sarka
+684,restaurace-simanda,,,,,,,,https://www.damejidlo.cz/restaurace-simanda
+685,restaurace-snyt,,,,,,,,https://www.damejidlo.cz/restaurace-snyt
+686,pivnice-u-bazenu,74.0,17,49 Kč,"Mírového hnutí 7, Praha 4 14000",50.0400629,14.5059122,4,https://www.damejidlo.cz/pivnice-u-bazenu
+687,restaurace-u-blahu,,,,,,,,https://www.damejidlo.cz/restaurace-u-blahu
+688,restaurace-u-bouzku,95.0,26,49 Kč,"Matúškova 831/1, Praha 4 14000",50.0373543,14.5154225,4,https://www.damejidlo.cz/restaurace-u-bouzku
+689,restaurace-u-bucka,,,,,,,,https://www.damejidlo.cz/restaurace-u-bucka
+690,restaurace-u-felixe,84.0,5,29 Kč (zdarma od 500 Kč),"Prosecká 28, Praha 8 – Libeň 18000",50.1120537,14.4780787,8,https://www.damejidlo.cz/restaurace-u-felixe
+691,restaurace-u-houbare,76.0,5,29 Kč,"Dukelských Hrdinů 30, Praha 7 17000",50.1011581,14.4334218,7,https://www.damejidlo.cz/restaurace-u-houbare
+692,restaurace-u-houmra,-1.0,0,29 Kč,"Šumavská 20, Praha 2 12000",50.0748055,14.4441657,2,https://www.damejidlo.cz/restaurace-u-houmra
+693,restaurace-u-kalendu,36.0,5,29 Kč (zdarma od 700 Kč),"Rašínovo nábřeží 58, Praha 2 12000",50.0713045,14.4145501,2,https://www.damejidlo.cz/restaurace-u-kalendu
+694,restaurace-u-karla-iv-1,-1.0,0,29 Kč (zdarma od 700 Kč),"Zenklova 360/92, Praha 8 18000",50.1125834,14.4761775,8,https://www.damejidlo.cz/restaurace-u-karla-iv-1
+695,restaurace-u-kralu,81.0,86,59 Kč (zdarma od 700 Kč),"Pivovarnická 1, Praha 8 18000",50.1092186,14.4741302,8,https://www.damejidlo.cz/restaurace-u-kralu
+696,restaurace-u-ledu,100.0,13,29 Kč (zdarma od 700 Kč),"Sámova 1, Praha 10 10000",50.06731,14.4459636,10,https://www.damejidlo.cz/restaurace-u-ledu
+697,u-marianskeho-obrazu-ii,100.0,10,29 Kč (zdarma od 500 Kč),"Kubelíkova 22, Praha 3 13000",50.0821243,14.4496208,3,https://www.damejidlo.cz/u-marianskeho-obrazu-ii
+698,restaurace-u-matejicku-praha,-1.0,0,29 Kč (zdarma od 600 Kč),"Náplavní 5/2011, Praha 2 12000",50.076649,14.4149999,2,https://www.damejidlo.cz/restaurace-u-matejicku-praha
+699,restaurace-u-pecku,85.0,14,49 Kč,"Staromlýnská 621/5, Praha 9 19000",50.1091065,14.4986008,9,https://www.damejidlo.cz/restaurace-u-pecku
+700,restaurace-u-pramene,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Goetheho 25/105, Praha 6 16000",50.1077269,14.4024713,6,https://www.damejidlo.cz/restaurace-u-pramene
+701,restaurace-u-rychtare,85.0,8,49 Kč,"Staré nám. 15/9, Praha 6 16000",50.0809302,14.3105152,6,https://www.damejidlo.cz/restaurace-u-rychtare
+702,restaurace-u-sadlu,-1.0,0,29 Kč (zdarma od 700 Kč),"Klimentská 2, Praha 1 11000",50.09138129999999,14.4277533,1,https://www.damejidlo.cz/restaurace-u-sadlu
+703,restaurace-u-skretu-1,95.0,8,29 Kč (zdarma od 700 Kč),"Milady Horákové 52, Praha 7 17000",50.1001461,14.4259575,7,https://www.damejidlo.cz/restaurace-u-skretu-1
+704,restaurace-u-sv-antonicka,,,,,,,,https://www.damejidlo.cz/restaurace-u-sv-antonicka
+705,restaurace-u-sefa,,,,,,,,https://www.damejidlo.cz/restaurace-u-sefa
+706,restaurace-u-tri-prasatek,80.0,8,29 Kč,"Vinohradská 122, Praha 3 13000",50.07755179999999,14.4587893,3,https://www.damejidlo.cz/restaurace-u-tri-prasatek
+707,restaurace-u-zizniveho-jelena,87.0,28,29 Kč (zdarma od 700 Kč),"Vltavská 15, Praha 5 15000",50.0696461,14.4058824,5,https://www.damejidlo.cz/restaurace-u-zizniveho-jelena
+708,restaurace-v-kapslovne,,,,,,,,https://www.damejidlo.cz/restaurace-v-kapslovne
+709,restaurace-v-raji,100.0,12,10 Kč až 30 Kč,"Novosuchdolská 100, Praha 6 16000",50.1402379,14.3807104,6,https://www.damejidlo.cz/restaurace-v-raji
+710,restaurace-za-pet-dvanact,66.0,12,49 Kč,"Nad Lávkou 672/5, Praha 6 16000",50.098299,14.3407775,6,https://www.damejidlo.cz/restaurace-za-pet-dvanact
+711,restaurace-ztraty-a-nalezy,-1.0,0,29 Kč (zdarma od 600 Kč),"Vinohradská 208/14, Praha 2 12000",50.07835859999999,14.4352491,2,https://www.damejidlo.cz/restaurace-ztraty-a-nalezy
+712,restaurace-zubajda,70.0,12,59 Kč (zdarma od 1 000 Kč),"Zubatého 289/3, Praha 5 15000",50.07683129999999,14.4034869,5,https://www.damejidlo.cz/restaurace-zubajda
+713,restaurace-zvonarka,-1.0,0,49 Kč (zdarma od 1 000 Kč),"Šafaříkova 785/1, Praha 2 12000",50.06996710000001,14.4353909,2,https://www.damejidlo.cz/restaurace-zvonarka
+714,restaurant-coffee-v-rohliku,-1.0,0,29 Kč (zdarma od 500 Kč),"Na Hřebenech II 1130/6, Praha - Podolí 14000",50.05125090000001,14.4283323,,https://www.damejidlo.cz/restaurant-coffee-v-rohliku
+715,restaurant-caesar,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Balbínova 496/8, Praha 2 12000",50.0771582,14.4341276,2,https://www.damejidlo.cz/restaurant-caesar
+716,restaurant-dynamo,-1.0,0,49 Kč (zdarma od 1 000 Kč),"Pštrossova 220/29, Praha 1 11000",50.079753,14.4152358,1,https://www.damejidlo.cz/restaurant-dynamo
+717,restaurant-hajnovka,84.0,60,29 Kč (zdarma od 500 Kč),"Vinohradská 35/25, Praha 2 12000",50.0782782,14.4360842,2,https://www.damejidlo.cz/restaurant-hajnovka
+718,restaurant-mirellie,78.0,11,49 Kč,"V.P. Čkalova 14, Praha 6 16000",50.0993575,14.4002718,6,https://www.damejidlo.cz/restaurant-mirellie
+719,restaurant-na-kvetnici,85.0,575,29 Kč (zdarma od 500 Kč),"Na Květnici 700/1a, Praha 4 14000",50.061315,14.4390446,4,https://www.damejidlo.cz/restaurant-na-kvetnici
+720,restaurant-na-lochkove,84.0,5,49 Kč (zdarma od 700 Kč),"Ke Slivenci 36, Praha 5 15400",50.0025487,14.3550022,5,https://www.damejidlo.cz/restaurant-na-lochkove
+721,ristorante-anna,72.0,32,0 Kč,"Dlouhá 707/22, Praha 11000",50.0898328,14.4240189,11000,https://www.damejidlo.cz/ristorante-anna
+722,ristorante-cerreto,83.0,66,109 Kč,"Sokolovská 195/972, Praha 9 19000",50.10720260000001,14.4890151,9,https://www.damejidlo.cz/ristorante-cerreto
+723,ristorante-leggero,-1.0,0,29 Kč (zdarma od 1 000 Kč),"Londýnská 29, Praha 2 12000",50.0725565,14.4344996,2,https://www.damejidlo.cz/ristorante-leggero
+724,pizzerie-ristorante-roma-uno,80.0,85,29 Kč až 49 Kč (zdarma od 500 Kč),"Jagellonská 1634/16, Praha 3 13000",50.0794988,14.4538052,3,https://www.damejidlo.cz/pizzerie-ristorante-roma-uno
+725,pizzerie-ristorante-roma-uno-ii,75.0,8,29 Kč (zdarma od 700 Kč),"Jagellonská 1634/16, Praha 3 13000",50.0794988,14.4538052,3,https://www.damejidlo.cz/pizzerie-ristorante-roma-uno-ii
+726,rita-cavolo,-1.0,0,29 Kč (zdarma od 700 Kč),"Lublaňská 11, Praha 2 12000",50.0705062,14.4318482,2,https://www.damejidlo.cz/rita-cavolo
+727,room-tapas-bar,-1.0,0,29 Kč (zdarma od 500 Kč),"V Jámě 6, Praha 1 11000",50.0801301,14.424895,1,https://www.damejidlo.cz/room-tapas-bar
+728,royal-burgers,78.0,239,59 Kč (zdarma od 700 Kč),"Pivovarnická 1, Praha 8 18000",50.1092186,14.4741302,8,https://www.damejidlo.cz/royal-burgers
+729,rozvoz-jidel-vysehrad,-1.0,0,49 Kč,"Lumírova 23, Praha 2 12000",50.0632994,14.4241331,2,https://www.damejidlo.cz/rozvoz-jidel-vysehrad
+730,restaurace-kompot,85.0,8,29 Kč (zdarma od 700 Kč),"Tachovské náměstí 649/3, Praha 3 13000",50.0877679,14.4528227,3,https://www.damejidlo.cz/restaurace-kompot
+731,ruze-kouzel,-1.0,0,29 Kč (zdarma od 500 Kč),"Lužická 12, Praha 2 12000",50.073375,14.4434223,2,https://www.damejidlo.cz/ruze-kouzel
+732,blue-fjord,-1.0,0,29 Kč (zdarma od 500 Kč),"Masná 1, Praha 1 11000",50.0893658,14.4228014,1,https://www.damejidlo.cz/blue-fjord
+733,mexican-restaurant-sabroso,84.0,41,29 Kč (zdarma od 500 Kč),"Nad Primaskou 35, Praha 10 10000",50.0749619,14.4907512,10,https://www.damejidlo.cz/mexican-restaurant-sabroso
+734,sajado,68.0,5,29 Kč,"Vršovická 160/1, Praha 10 10100",50.0661607,14.4490057,10,https://www.damejidlo.cz/sajado
+735,salad-box,97.0,16,29 Kč (zdarma od 700 Kč),"Roztylská 2321/19, Praha 11 14800",50.0320692,14.4909962,11,https://www.damejidlo.cz/salad-box
+736,samarkand,-1.0,0,29 Kč (zdarma od 500 Kč),"Říční 1, Praha 1 11000",50.0819547,14.4075979,1,https://www.damejidlo.cz/samarkand
+737,sanjay,,,,,,,,https://www.damejidlo.cz/sanjay
+738,serbian-restaurant-jelica,84.0,18,49 Kč až 69 Kč (zdarma od 2 000 Kč),"Na Zlíchově 35, Praha 5 15000",50.0488353,14.4079376,5,https://www.damejidlo.cz/serbian-restaurant-jelica
+739,sezio-restaurant,72.0,13,59 Kč (zdarma od 2 000 Kč),"Malletova 2350, Praha 9 19000",50.1014948,14.4833904,9,https://www.damejidlo.cz/sezio-restaurant
+740,shi-wei-tian,80.0,22,29 Kč (zdarma od 700 Kč),"Na Padesátém 38, Praha 10 10000",50.06706819999999,14.5075021,10,https://www.damejidlo.cz/shi-wei-tian
+741,schnitzel-king,87.0,143,29 Kč,"Seifertova 2, Praha 3 13000",50.0850198,14.4422535,3,https://www.damejidlo.cz/schnitzel-king
+742,sicily-express-food,-1.0,0,29 Kč (zdarma od 500 Kč),"Lazarská 5, Praha 1 11000",50.0793071,14.420871,1,https://www.damejidlo.cz/sicily-express-food
+743,signature-prague-jindrisska,,,,,,,,https://www.damejidlo.cz/signature-prague-jindrisska
+744,signature-prague-karlin,,,,,,,,https://www.damejidlo.cz/signature-prague-karlin
+745,singidunum,80.0,8,29 Kč (zdarma od 700 Kč),"Bělehradská 568/92, Praha 2 12000",50.0734703,14.4334393,2,https://www.damejidlo.cz/singidunum
+746,sklenik-restaurace-1,87.0,43,zdarma až 29 Kč,"Třinecká 673, Praha 9 19000",50.1354889,14.5106277,9,https://www.damejidlo.cz/sklenik-restaurace-1
+747,slider-burger,78.0,11,59 Kč,"Michelská 31, Praha 4 14000",50.0563272,14.4493613,4,https://www.damejidlo.cz/slider-burger
+748,snack-rolls,-1.0,0,29 Kč (zdarma od 700 Kč),"Sokolská 29/464, Praha 2 12000",50.0747629,14.4288418,2,https://www.damejidlo.cz/snack-rolls
+749,snemovna-v-jakubsky,-1.0,0,29 Kč,"Jakubská 674/5, Praha 1 11000",50.0884507,14.4264225,1,https://www.damejidlo.cz/snemovna-v-jakubsky
+750,sochi-gruzinsko-ruska-restaurace,89.0,22,zdarma,"Vajgarská 329/1, Praha 9 19800",50.1056515,14.5561782,9,https://www.damejidlo.cz/sochi-gruzinsko-ruska-restaurace
+751,tequila-house-sonora,-1.0,0,29 Kč (zdarma od 600 Kč),"Radhošťská 2004/5, Praha 3 13000",50.0782299,14.4566,3,https://www.damejidlo.cz/tequila-house-sonora
+752,sphera-restaurant,-1.0,0,59 Kč (zdarma od 600 Kč),"Komárkova 12, Praha 4 14000",50.03693879999999,14.4821283,4,https://www.damejidlo.cz/sphera-restaurant
+753,spiceindia,93.0,81,50 Kč,"Husitská 91/17, Praha 3 13000",50.08690379999999,14.4466049,3,https://www.damejidlo.cz/spiceindia
+754,spiceindia-denni-menu,,,,,,,,https://www.damejidlo.cz/spiceindia-denni-menu
+755,spicymama-cerny-most,95.0,9,49 Kč,"Chlumecká 6, Praha 9 19800",50.108793,14.5832921,9,https://www.damejidlo.cz/spicymama-cerny-most
+756,spicymama-chodov,83.0,19,39 Kč (zdarma od 700 Kč),"Roztylská 19, Praha 11 14800",50.0320692,14.4909962,11,https://www.damejidlo.cz/spicymama-chodov
+757,spicymama-quadrio,78.0,17,29 Kč (zdarma od 700 Kč),"Spálená 2121/22, Praha 1 11000",50.08113119999999,14.4196853,1,https://www.damejidlo.cz/spicymama-quadrio
+758,sri-lankan-curry-house,-1.0,0,29 Kč (zdarma od 700 Kč),"U Vodárny 10, Praha 3 13000",50.0764597,14.4491928,3,https://www.damejidlo.cz/sri-lankan-curry-house
+759,stanleys-bistro,-1.0,0,29 Kč (zdarma od 700 Kč),"Bucharova 14, Praha 5 15000",50.06538579999999,14.3351281,5,https://www.damejidlo.cz/stanleys-bistro
+760,starokosirska-hospoda,,,,,,,,https://www.damejidlo.cz/starokosirska-hospoda
+761,starosuchdolska-restaurace,,,,,,,,https://www.damejidlo.cz/starosuchdolska-restaurace
+762,statecny-kohoutii,-1.0,0,29 Kč (zdarma od 700 Kč),"Budějovická 69, Praha 4 14000",50.0397083,14.4584435,4,https://www.damejidlo.cz/statecny-kohoutii
+763,stavros-grill,69.0,13,29 Kč (zdarma od 700 Kč),"Donská 20, Praha 10 10100",50.0715171,14.447074,10,https://www.damejidlo.cz/stavros-grill
+764,stop-spot,-1.0,0,39 Kč,"Gorazdova 1, Praha 2 12000",50.0734154,14.4151053,2,https://www.damejidlo.cz/stop-spot
+765,restaurace-u-broucku,83.0,44,29 Kč (zdarma od 700 Kč),"U hráze 125/27, Praha 10 11000",50.07099729999999,14.4851283,10,https://www.damejidlo.cz/restaurace-u-broucku
+766,stripsy-cz,-1.0,0,0 Kč,"Sokolovská 61, Praha 8 18000",50.100298,14.4713001,8,https://www.damejidlo.cz/stripsy-cz
+767,subway-karmelitska,93.0,30,39 Kč až 59 Kč (zdarma od 600 Kč),"Karmelitská 269/28, Praha 1 11000",50.08732089999999,14.4039555,1,https://www.damejidlo.cz/subway-karmelitska
+768,subway-chodov,100.0,9,49 Kč,"V parku 2336/22, Praha 11 14800",50.0264669,14.4960385,11,https://www.damejidlo.cz/subway-chodov
+769,subway-na-porici,90.0,29,39 Kč (zdarma od 600 Kč),"Na Poříčí 26, Praha 1 11000",50.0898587,14.4336383,1,https://www.damejidlo.cz/subway-na-porici
+770,subway-jindrisska,-1.0,0,39 Kč (zdarma od 600 Kč),"Jindřišská 30, Praha 1 11000",50.084458,14.429332,1,https://www.damejidlo.cz/subway-jindrisska
+771,subway-chodovta,-1.0,0,zdarma,"V parku 2336/22, Praha 11 14800",50.0264669,14.4960385,11,https://www.damejidlo.cz/subway-chodovta
+772,sultan-kebab,-1.0,0,49 Kč (zdarma od 700 Kč),"Radlická 117, Praha 5 15800",50.0476058,14.3537456,5,https://www.damejidlo.cz/sultan-kebab
+773,super-doner-kebab,86.0,21,29 Kč (zdarma od 1 000 Kč),"Škrétova 12, Praha 2 12000",50.0785493,14.43228,2,https://www.damejidlo.cz/super-doner-kebab
+774,sushi-a-cinska-restaurace-andelsky-ujezd,91.0,57,59 Kč (zdarma od 1 000 Kč),"Arbesovo nám 15, Praha 5 15000",50.0759639,14.4058505,5,https://www.damejidlo.cz/sushi-a-cinska-restaurace-andelsky-ujezd
+775,sushi-bar-krc,-1.0,0,49 Kč,"Za Valem 1375/7, Praha 4 14000",50.020833,14.4656966,4,https://www.damejidlo.cz/sushi-bar-krc
+776,blue-chef-sushi,87.0,269,59 Kč,"Krejnická 2021, Praha 4 14100",50.0327299,14.4822679,4,https://www.damejidlo.cz/blue-chef-sushi
+777,sushi-bohnice,-1.0,0,49 Kč (zdarma od 700 Kč),"Lodžská 850/6 (OC Krakov), Praha 8 18100",50.1276854,14.418456,8,https://www.damejidlo.cz/sushi-bohnice
+778,wasabi-sushi-box,90.0,39,49 Kč,"V Jámě 1371/8, Praha 1 11000",50.0799899,14.4248414,1,https://www.damejidlo.cz/wasabi-sushi-box
+779,sushi-burger,72.0,13,39 Kč (zdarma od 1 000 Kč),"V Jámě 1371/8, Praha 1 11000",50.0799899,14.4248414,1,https://www.damejidlo.cz/sushi-burger
+780,sushi-delivery-klimentska,89.0,118,39 Kč,"Klimenská 1/1246, Praha 11000",50.0915097,14.4279681,11000,https://www.damejidlo.cz/sushi-delivery-klimentska
+781,sushi-delivery-gutova,88.0,82,39 Kč,"Gutova 15, Praha 10 10000",50.07007600000001,14.4877386,10,https://www.damejidlo.cz/sushi-delivery-gutova
+782,sushi-delivery-lipenecka,93.0,371,49 Kč,"Lipenecká 6, Praha 5 15000",49.96767209999999,14.3782255,5,https://www.damejidlo.cz/sushi-delivery-lipenecka
+783,sushi-sushi-bar-terronska,90.0,138,29 Kč,"Terrónská 64, Praha 6 16000",50.1094208,14.3951342,6,https://www.damejidlo.cz/sushi-sushi-bar-terronska
+784,sushi-ehrlich,91.0,9,59 Kč,"Koněvova 79, Praha 3 13000",50.0894096,14.4629576,3,https://www.damejidlo.cz/sushi-ehrlich
+785,sushi-express,91.0,79,69 Kč,"Norská 14, Praha 10 10000",50.0718974,14.4555555,10,https://www.damejidlo.cz/sushi-express
+786,sushi-guru,88.0,56,59 Kč,"Pobřežní 29/48, Praha 8 18600",50.0940819,14.4490437,8,https://www.damejidlo.cz/sushi-guru
+787,sushi-guru-express,-1.0,0,29 Kč až 49 Kč,"Pobřežní 29/48, Praha 8 18600",50.0940819,14.4490437,8,https://www.damejidlo.cz/sushi-guru-express
+788,sushi-maru,-1.0,0,29 Kč (zdarma od 700 Kč),"Václavské náměstí 1, Praha 10100",50.08413530000001,14.4242691,10100,https://www.damejidlo.cz/sushi-maru
+789,sushi-nertidaii,92.0,159,29 Kč (zdarma od 1 000 Kč),"Térronská 64, Praha 16000",50.1094208,14.3951342,16000,https://www.damejidlo.cz/sushi-nertidaii
+790,sushi-oishi,-1.0,0,59 Kč (zdarma od 600 Kč),"V Celnici 4, Praha 1 11000",50.0880503,14.4306502,1,https://www.damejidlo.cz/sushi-oishi
+791,sushi-place,-1.0,0,29 Kč (zdarma od 700 Kč),"Slovenská 19, Praha 2 12000",50.0727379,14.4455868,2,https://www.damejidlo.cz/sushi-place
+792,sushi-restaurace-lumio,-1.0,0,49 Kč,"Jabloňová 11, Praha 10 10000",50.0570883,14.4959689,10,https://www.damejidlo.cz/sushi-restaurace-lumio
+793,seafood-sushi,-1.0,0,69 Kč,"Zborovská 619/49, Praha 5 15000",50.0810647,14.4067729,5,https://www.damejidlo.cz/seafood-sushi
+794,sushi-slunce-sushi-wok,71.0,7,29 Kč (zdarma od 700 Kč),"Dukelských hrdinů 905/46, Praha 7 17000",50.1027248,14.4328603,7,https://www.damejidlo.cz/sushi-slunce-sushi-wok
+795,sushi-take-away-kodanska,94.0,153,0 Kč,"Kodaňská 37, Praha 10000",50.0714334,14.4559542,10000,https://www.damejidlo.cz/sushi-take-away-kodanska
+796,sushi-upgrade-opletalova,96.0,22,20 Kč,"Opletalova 29, Praha 1 11000",50.0835758,14.4325129,1,https://www.damejidlo.cz/sushi-upgrade-opletalova
+797,sushi-v-dushi,96.0,11,29 Kč (zdarma od 1 000 Kč),"Přístavní 1186/47, Praha 7 17000",50.104394,14.4546274,7,https://www.damejidlo.cz/sushi-v-dushi
+798,sushi-world,92.0,65,0 Kč,"Kodaňská 37, Praha 10000",50.0714334,14.4559542,10000,https://www.damejidlo.cz/sushi-world
+799,sushi2go,,,,,,,,https://www.damejidlo.cz/sushi2go
+800,sushitime-cz,90.0,194,50 Kč,"Na Florenci 19, Praha 1 11000",50.08867679999999,14.4365809,1,https://www.damejidlo.cz/sushitime-cz
+801,sushitime-cz-praha,90.0,303,50 Kč až 60 Kč,"Štúrova 55, Praha 4 14000",50.0295942,14.4496271,4,https://www.damejidlo.cz/sushitime-cz-praha
+802,sushitime-cz-stroupeznickeho,91.0,238,50 Kč až 60 Kč,"Stroupežnického 17, Praha 5 15000",50.0702027,14.4031032,5,https://www.damejidlo.cz/sushitime-cz-stroupeznickeho
+803,sushitime-cz-sokolovska,91.0,339,50 Kč až 60 Kč,"Sokolovská 115, Praha 8 18000",50.0987006,14.467148,8,https://www.damejidlo.cz/sushitime-cz-sokolovska
+804,susirna,-1.0,0,69 Kč (zdarma od 1 000 Kč),"Veletržní 404/6, Praha 7 17000",50.1026768,14.4353773,7,https://www.damejidlo.cz/susirna
+805,sweet-pepper-days,95.0,9,49 Kč (zdarma od 1 000 Kč),"Anglická 390/19, Praha 2 12000",50.07651629999999,14.4339083,2,https://www.damejidlo.cz/sweet-pepper-days
+806,sweet-caribbean,-1.0,0,49 Kč,"Jurkovičova 34, Praha 11 14900",50.0266853,14.5340712,11,https://www.damejidlo.cz/sweet-caribbean
+807,satlava-praha,86.0,6,49 Kč (zdarma od 700 Kč),"Blattného 2343/13, Praha 5 15000",50.0535831,14.3427877,5,https://www.damejidlo.cz/satlava-praha
+808,senkovna,-1.0,0,29 Kč (zdarma od 500 Kč),"Sokolská 60, Praha 2 12000",50.0763159,14.4291703,2,https://www.damejidlo.cz/senkovna
+809,stastna-krava,-1.0,0,49 Kč (zdarma od 700 Kč),"Volutová 2522/16, Praha 5 15000",50.0501443,14.3370251,5,https://www.damejidlo.cz/stastna-krava
+810,svejk-restaurant-hostinec-u-kalicha,-1.0,0,29 Kč (zdarma od 700 Kč),"Na Bojišti 12, Praha 2 12000",50.0735278,14.4281071,2,https://www.damejidlo.cz/svejk-restaurant-hostinec-u-kalicha
+811,svejk-u-vasatku,66.0,6,49 Kč,"Vašátkova 1024, Praha 14-Černý Most 19800",50.1034085,14.5712064,14,https://www.damejidlo.cz/svejk-u-vasatku
+812,tgi-fridays-smichov,84.0,48,29 Kč (zdarma od 600 Kč),"Nádražní 110, Praha 5 15000",50.0703591,14.4051129,5,https://www.damejidlo.cz/tgi-fridays-smichov
+813,tgi-fridays,-1.0,0,29 Kč (zdarma od 600 Kč),"Na Příkopě 27, Praha 1 11000",50.0860947,14.4265604,1,https://www.damejidlo.cz/tgi-fridays
+814,taaj-kebab,60.0,5,29 Kč (zdarma od 1 000 Kč),"Nádražní 9b, Praha 5 15000",50.0666731,14.4068879,5,https://www.damejidlo.cz/taaj-kebab
+815,taj-mahal-express,95.0,85,zdarma až 120 Kč,"Mozartova 10, Praha 5 15000",50.0713993,14.3963481,5,https://www.damejidlo.cz/taj-mahal-express
+816,tankovna-karlin,85.0,8,29 Kč,"Sokolovská 100/94, Praha 8 18000",50.0935014,14.4524318,8,https://www.damejidlo.cz/tankovna-karlin
+817,tankovna-palmovka,89.0,15,29 Kč,"Zenklova 454/36, Praha 8 18000",50.10569599999999,14.4730243,8,https://www.damejidlo.cz/tankovna-palmovka
+818,tankovna-velka-ohrada,84.0,13,59 Kč (zdarma od 1 000 Kč),"Bašteckého 1, Praha 5 15000",50.0378621,14.3375038,5,https://www.damejidlo.cz/tankovna-velka-ohrada
+819,tashkent-kebab-praha-7,82.0,146,25 Kč,"U Santošky 835/8, Praha 5 15000",50.0669266,14.3995619,5,https://www.damejidlo.cz/tashkent-kebab-praha-7
+820,tasty-doner-kebab-pizza,87.0,47,29 Kč (zdarma od 700 Kč),"Milady Horákové 395/35, Praha 17000",50.0995152,14.4285552,17000,https://www.damejidlo.cz/tasty-doner-kebab-pizza
+821,tasty-food-praha,86.0,84,0 Kč,"Husitská 73/37, Praha 3 13000",50.0869142,14.44902,3,https://www.damejidlo.cz/tasty-food-praha
+822,telepizza-pizza-konevova,90.0,424,zdarma,"Koněvova 251, Praha 3 13000",50.0921664,14.4969775,3,https://www.damejidlo.cz/telepizza-pizza-konevova
+823,telepizza-pizza-vysehradska,88.0,187,0 Kč,"Vyšehradská 13, Praha 2 12800",50.0689089,14.4171947,2,https://www.damejidlo.cz/telepizza-pizza-vysehradska
+824,thai-vietnam-food,84.0,10,49 Kč,"Za Valem 1375/7, Praha 4 14000",50.020833,14.4656966,4,https://www.damejidlo.cz/thai-vietnam-food
+825,thai-chefs,-1.0,0,29 Kč (zdarma od 700 Kč),"Na Bělidle 19, Praha 5 15000",50.07177679999999,14.406988,5,https://www.damejidlo.cz/thai-chefs
+826,thajska-restaurace-norska,91.0,151,69 Kč,"Norská 14, Praha 10 10000",50.0718974,14.4555555,10,https://www.damejidlo.cz/thajska-restaurace-norska
+827,the-donut-ii,-1.0,0,49 Kč (zdarma od 700 Kč),"Radlická 26, Praha 5 15000",50.0682596,14.4020449,5,https://www.damejidlo.cz/the-donut-ii
+828,the-burg,87.0,125,zdarma až 49 Kč,"Osamocená 428/8, Praha 6 16000",50.0938944,14.3336127,6,https://www.damejidlo.cz/the-burg
+829,the-craft,78.0,13,29 Kč (zdarma od 700 Kč),"Námětí Míru 4, Praha 2 12000",50.07618249999999,14.435825,2,https://www.damejidlo.cz/the-craft
+830,the-donut-night,-1.0,0,49 Kč,"Urugvajská 6, Praha 2 12000",50.073111,14.4368527,2,https://www.damejidlo.cz/the-donut-night
+831,the-farmer-s-market-bar-grill,-1.0,0,29 Kč (zdarma od 700 Kč),"Lucemburska 46, Praha 3 13000",50.0794138,14.4596339,3,https://www.damejidlo.cz/the-farmer-s-market-bar-grill
+832,the-londoners,-1.0,0,29 Kč (zdarma od 700 Kč),"Štěpánská 23, Praha 11000",50.0777048,14.4249126,11000,https://www.damejidlo.cz/the-londoners
+833,the-pub-chodov,-1.0,0,29 Kč (zdarma od 700 Kč),"Roztylská 2321/19, Praha 14800",50.0320692,14.4909962,14800,https://www.damejidlo.cz/the-pub-chodov
+834,the-pub-nove-butovice,-1.0,0,29 Kč (zdarma od 700 Kč),"Bucharova 2817/9, Praha 13 15800",50.0513589,14.3514067,13,https://www.damejidlo.cz/the-pub-nove-butovice
+835,tierra-tizoc,64.0,25,49 Kč,"U dejvického rybníčku 22, Praha 6 16000",50.0971059,14.3705592,6,https://www.damejidlo.cz/tierra-tizoc
+836,tobiko-chabry,-1.0,0,zdarma,"K Ďáblicům 1171, Praha 18400",50.146364,14.451302,18400,https://www.damejidlo.cz/tobiko-chabry
+837,tobiko,76.0,12,0 Kč,"Vinohradská 6, Praha 2 12000",50.0789221,14.433194,2,https://www.damejidlo.cz/tobiko
+838,tom-jerry,-1.0,0,29 Kč (zdarma od 700 Kč),"Branická 152/67, Praha 4 14700",50.0356828,14.4142116,4,https://www.damejidlo.cz/tom-jerry
+839,toms-burger-oc-chodov,83.0,26,29 Kč (zdarma od 700 Kč),"Roztylská 2321/19, Praha 4 14800",50.0320692,14.4909962,4,https://www.damejidlo.cz/toms-burger-oc-chodov
+840,tom-s-burger-praha2,52.0,5,29 Kč (zdarma od 700 Kč),"Anny Letenské 16, Praha 2 12000",50.0785016,14.4384058,2,https://www.damejidlo.cz/tom-s-burger-praha2
+841,topo-maschio,,,,,,,,https://www.damejidlo.cz/topo-maschio
+842,traditional-soft-drinks-prosek,-1.0,0,49 Kč,"Zakšínská 11, Praha 9 19000",50.1301893,14.4946871,9,https://www.damejidlo.cz/traditional-soft-drinks-prosek
+843,trattoria-famiglia,86.0,129,zdarma,"Na Hlavní 2, Praha 8 18000",50.163041,14.4837993,8,https://www.damejidlo.cz/trattoria-famiglia
+844,tre-xanh-restaurant,81.0,33,29 Kč,"Koubkova 8, Praha 2 12000",50.0720644,14.432238,2,https://www.damejidlo.cz/tre-xanh-restaurant
+845,treviso,97.0,76,zdarma,"Bellova 56, Praha 10 - Petrovice 10900",50.0352683,14.5573936,10,https://www.damejidlo.cz/treviso
+846,u-balouna,87.0,28,29 Kč (zdarma od 700 Kč),"Václavské náměstí 781/20, Praha 1 11000",50.0827537,14.4246419,1,https://www.damejidlo.cz/u-balouna
+847,u-bileho-lva,,,,,,,,https://www.damejidlo.cz/u-bileho-lva
+848,u-boofiho,-1.0,0,29 Kč (zdarma od 700 Kč),"Volutová 2524/12, Praha 15800",50.0502705,14.3384142,15800,https://www.damejidlo.cz/u-boofiho
+849,u-certika,80.0,10,,"U Kamýku 870/2, Praha 4 14000",50.017034,14.4359932,4,https://www.damejidlo.cz/u-certika
+850,u-certika-repy,82.0,14,59 Kč (zdarma od 600 Kč),"Makovského 1177/1, Praha 6 16000",50.0631672,14.3104647,6,https://www.damejidlo.cz/u-certika-repy
+851,u-ceskeho-lva,80.0,16,29 Kč (zdarma od 700 Kč),"Sokolovská 41/7, Praha 8 18000",50.09141959999999,14.4391692,8,https://www.damejidlo.cz/u-ceskeho-lva
+852,u-dvou-smrku,92.0,10,49 Kč,"Nademlejnská 600/1, Praha 9 19800",50.1018524,14.5279686,9,https://www.damejidlo.cz/u-dvou-smrku
+853,u-klokone,84.0,28,29 Kč (zdarma od 600 Kč),"28.pluku 1, Praha 10 10000",50.0716127,14.467694,10,https://www.damejidlo.cz/u-klokone
+854,u-kormidla,76.0,10,29 Kč (zdarma od 700 Kč),"Starostrašnická 584/52, Praha 10 10000",50.0753766,14.4900533,10,https://www.damejidlo.cz/u-kormidla
+855,u-kubicku,84.0,99,59 Kč až 149 Kč,"U Berounky 420, Praha – Lipence 15000",49.952196,14.336779,,https://www.damejidlo.cz/u-kubicku
+856,u-me-dobry,-1.0,0,29 Kč (zdarma od 700 Kč),"Čs. Armády 276/3, Praha 6 16000",50.09962360000001,14.404603,6,https://www.damejidlo.cz/u-me-dobry
+857,u-ryby,88.0,32,,"Libušská 115/400, Praha 4 14200",50.0026892,14.4649249,4,https://www.damejidlo.cz/u-ryby
+858,u-sadu,86.0,316,60 Kč (zdarma od 2 000 Kč),"Škroupovo náměstí 5, Praha 3 13000",50.0807812,14.4490046,3,https://www.damejidlo.cz/u-sadu
+859,u-sotonu-ii,,,,,,,,https://www.damejidlo.cz/u-sotonu-ii
+860,u-senkyru2,82.0,18,49 Kč (zdarma od 700 Kč),"Park Přátelství 816, Praha 9-Prosek 19000",50.12137,14.4969882,9,https://www.damejidlo.cz/u-senkyru2
+861,u-zlate-cihly,,,,,,,,https://www.damejidlo.cz/u-zlate-cihly
+862,u-zrcadla,60.0,5,29 Kč (zdarma od 700 Kč),"Úvoz 22, Praha 1 11000",50.0884228,14.3950758,1,https://www.damejidlo.cz/u-zrcadla
+863,u-ztracenejch,81.0,145,29 Kč (zdarma od 700 Kč),"Michelská 711/57, Praha 4 14000",50.050462,14.4588805,4,https://www.damejidlo.cz/u-ztracenejch
+864,u-ztracenejchii,78.0,60,39 Kč až 59 Kč,"Michelská 711/57, Praha 4 14000",50.050462,14.4588805,4,https://www.damejidlo.cz/u-ztracenejchii
+865,ugo-salaterie-karlin,-1.0,0,29 Kč (zdarma od 700 Kč),"Thámova 681/32, Praha 8-Karlín 18600",50.0939253,14.4517953,8,https://www.damejidlo.cz/ugo-salaterie-karlin
+866,umami-sushi,86.0,21,29 Kč,"Na příkopě 19, Praha 1 11000",50.08557039999999,14.4256937,1,https://www.damejidlo.cz/umami-sushi
+867,una-bella-canzone,90.0,148,zdarma,"Eliášova 331/7, Praha 6 16000",50.09858380000001,14.4016794,6,https://www.damejidlo.cz/una-bella-canzone
+868,usedlost-ladronka,98.0,58,zdarma (zdarma od 1 000 Kč),"Tomanova 1/1028, Praha 16900",50.0787136,14.3567321,16900,https://www.damejidlo.cz/usedlost-ladronka
+869,princes-kebab,71.0,7,29 Kč (zdarma od 700 Kč),"Koněvova 945/75, Praha 3 13000",50.0893161,14.4625296,3,https://www.damejidlo.cz/princes-kebab
+870,veganska-a-raw-restaurace-plevel,,,,,,,,https://www.damejidlo.cz/veganska-a-raw-restaurace-plevel
+871,veganska-restaurace-u-zelenina,98.0,22,29 Kč (zdarma od 700 Kč),"Jeronýmova 4, Praha 3 13000",50.0863573,14.4485072,3,https://www.damejidlo.cz/veganska-restaurace-u-zelenina
+872,vegebistro-waipawa,92.0,15,30 Kč,"Kodaňská 651/22, Praha 10 10100",50.0707484,14.4583722,10,https://www.damejidlo.cz/vegebistro-waipawa
+873,vegg-go-flora-1,88.0,10,29 Kč (zdarma od 1 000 Kč),"Vinohradská 2828/151, Praha 3 13000",50.0781362,14.4614033,3,https://www.damejidlo.cz/vegg-go-flora-1
+874,vegg-go-harfa,84.0,10,29 Kč (zdarma od 450 Kč),"Českomoravská 2420/15a, Praha 9-Libeň 19000",50.10382449999999,14.4912498,9,https://www.damejidlo.cz/vegg-go-harfa
+875,vegg-go-chodov,-1.0,0,49 Kč (zdarma od 450 Kč),"Roztylská 2321/19, Praha 4 14800",50.0320692,14.4909962,4,https://www.damejidlo.cz/vegg-go-chodov
+876,vegg-go-praha2,92.0,22,29 Kč (zdarma od 450 Kč),"Náměstí Míru 1221/4, Praha 2 12000",50.07618249999999,14.435825,2,https://www.damejidlo.cz/vegg-go-praha2
+877,vegg-go-smichov,88.0,25,29 Kč (zdarma od 450 Kč),"Plzeňská 8, Praha 5 15000",50.0729376,14.4023466,5,https://www.damejidlo.cz/vegg-go-smichov
+878,vegyne,-1.0,0,49 Kč,"Národní obrany 718/22, Praha 16000",50.1015976,14.3978465,16000,https://www.damejidlo.cz/vegyne
+879,via-italia-praha,87.0,77,49 Kč,"Milady Horákové 815/42, Praha 7 17000",50.0999799,14.4270744,7,https://www.damejidlo.cz/via-italia-praha
+880,pho-viet,86.0,52,39 Kč až 49 Kč (zdarma od 700 Kč),"Jaromírova 14, Praha 2 12000",50.0649084,14.4271783,2,https://www.damejidlo.cz/pho-viet
+881,vietnamska-bageterie-anbi,-1.0,0,29 Kč (zdarma od 700 Kč),"Zenklova 15, Praha 8 18000",50.1042606,14.4730099,8,https://www.damejidlo.cz/vietnamska-bageterie-anbi
+882,vietnamska-restaurace-koriandr,-1.0,0,29 Kč (zdarma od 700 Kč),"Počernická 473/81, Praha 10 10000",50.083232,14.5064188,10,https://www.damejidlo.cz/vietnamska-restaurace-koriandr
+883,vietnamske-bistro,84.0,18,49 Kč (zdarma od 700 Kč),"Bucharova 2641/14, Praha 5 15000",50.0515188,14.3521567,5,https://www.damejidlo.cz/vietnamske-bistro
+884,vino-clv,-1.0,0,49 Kč (zdarma od 500 Kč),"Klapkova 124/10, Praha 8 18200",50.1225751,14.4560562,8,https://www.damejidlo.cz/vino-clv
+885,vinoteka-andre,-1.0,0,49 Kč (zdarma od 700 Kč),"Petržílkova 2589/19, Praha 5 15000",50.0505249,14.3431939,5,https://www.damejidlo.cz/vinoteka-andre
+886,vinoteka-mala-morava,-1.0,0,29 Kč (zdarma od 700 Kč),"Jana Masaryka 265/58, Praha 2 12000",50.0728403,14.4415363,2,https://www.damejidlo.cz/vinoteka-mala-morava
+887,vinoteka-vinohradska,,,,,,,,https://www.damejidlo.cz/vinoteka-vinohradska
+888,violete,90.0,161,zdarma až 29 Kč,"Bobkova 787/6, Praha 9 19800",50.1064292,14.5797099,9,https://www.damejidlo.cz/violete
+889,violete-pizzerie-ristorante,89.0,47,zdarma až 29 Kč,"Pod Harfou 938/40, Praha 9 19000",50.1037833,14.5098211,9,https://www.damejidlo.cz/violete-pizzerie-ristorante
+890,voltur-food-drink,74.0,76,zdarma až 59 Kč,"K Ďáblicům 1117/1, Praha 8 18400",50.1461242,14.4514801,8,https://www.damejidlo.cz/voltur-food-drink
+891,vozovna-bistro,60.0,6,29 Kč (zdarma od 700 Kč),"Starostrašnická 58, Praha 10 10800",50.0760902,14.4896941,10,https://www.damejidlo.cz/vozovna-bistro
+892,walter-s-food,84.0,71,zdarma až 150 Kč,"Butovická 44/70, Praha 5 15000",50.0526628,14.3596535,5,https://www.damejidlo.cz/walter-s-food
+893,wan-fu-lou,68.0,5,49 Kč (zdarma od 700 Kč),"Jeremiášova 1249/7, Praha 5 15500",50.0416366,14.3154017,5,https://www.damejidlo.cz/wan-fu-lou
+894,wasabi-sushi,81.0,273,0 Kč,"V Jámě 1371/8, Praha 1 11000",50.0799899,14.4248414,1,https://www.damejidlo.cz/wasabi-sushi
+895,white-and-crispy,,,,,,,,https://www.damejidlo.cz/white-and-crispy
+896,white-and-crispy-zizkov,,,,,,,,https://www.damejidlo.cz/white-and-crispy-zizkov
+897,wine-cellar,-1.0,0,49 Kč (zdarma od 500 Kč),"Čumpelíkova 13, Praha 8 18000",50.1275848,14.4601791,8,https://www.damejidlo.cz/wine-cellar
+898,winghaus,79.0,123,79 Kč,"Vinohradská 1215/32, Praha 2 12000",50.0775517,14.4380304,2,https://www.damejidlo.cz/winghaus
+899,wings-point,76.0,72,49 Kč,"milady horákové 41, Praha 7 17000",50.0995948,14.4280267,7,https://www.damejidlo.cz/wings-point
+900,woker,88.0,35,49 Kč (zdarma od 500 Kč),"Urxova 436/10, Praha 8 18600",50.09504889999999,14.4576433,8,https://www.damejidlo.cz/woker
+901,wrap-roll,60.0,10,29 Kč (zdarma od 700 Kč),"Havlíčkova 1014/2, Praha 11000",50.0874628,14.4326981,11000,https://www.damejidlo.cz/wrap-roll
+902,x-bowling-zizkov,,,,,,,,https://www.damejidlo.cz/x-bowling-zizkov
+903,yam-yam-cerny-most,86.0,58,zdarma až 60 Kč,"Bryksova 818/48, Praha 14 19800",50.1084097,14.5798592,14,https://www.damejidlo.cz/yam-yam-cerny-most
+904,yam-yam-jankovcova,87.0,440,zdarma až 95 Kč,"Jankovcova 18, Praha 7 17000",50.1105294,14.4507429,7,https://www.damejidlo.cz/yam-yam-jankovcova
+905,yam-yam-turbo,84.0,189,29 Kč,"Kongresová 1, Praha 4 14000",50.0627877,14.432054,4,https://www.damejidlo.cz/yam-yam-turbo
+906,yam-yam-turboii,84.0,44,zdarma až 75 Kč,"Jankovcova 18, Praha 7 17000",50.1105294,14.4507429,7,https://www.damejidlo.cz/yam-yam-turboii
+907,yam-yam-vysehrad,86.0,718,29 Kč,"Kongresová 1, Praha 4 14000",50.0627877,14.432054,4,https://www.damejidlo.cz/yam-yam-vysehrad
+908,yobar-galerie-harfa,,,,,,,,https://www.damejidlo.cz/yobar-galerie-harfa
+909,yu-xiang-lou,89.0,103,29 Kč,"Na Hrázi 202/9, Praha 8 - Libeň 18000",50.1052632,14.4740869,8,https://www.damejidlo.cz/yu-xiang-lou
+910,yum-snack,,,,,,,,https://www.damejidlo.cz/yum-snack
+911,yumitime,94.0,238,49 Kč až 69 Kč,"Prusíkova 2577/16, Praha 15500",50.0380458,14.3384908,15500,https://www.damejidlo.cz/yumitime
+912,zariva-perla,60.0,5,49 Kč (zdarma od 700 Kč),"Švehlova 1391/32, Praha 10 - Hostivař 10200",50.0532812,14.5171881,10,https://www.damejidlo.cz/zariva-perla
+913,zariva-perla-vinohrady,76.0,19,29 Kč (zdarma od 500 Kč),"Slezská 16, Praha 2 12000",50.07609720000001,14.441066,2,https://www.damejidlo.cz/zariva-perla-vinohrady
+914,zbraslavska-jidelna,80.0,10,59 Kč až 149 Kč,"Zbraslavské nám. 462, Praha 15600",49.9757105,14.3938237,15600,https://www.damejidlo.cz/zbraslavska-jidelna
+915,zelena-zahrada,77.0,14,29 Kč (zdarma od 1 000 Kč),"Šmilovského 12, Praha 2 12000",50.0707625,14.4428523,2,https://www.damejidlo.cz/zelena-zahrada
+916,su-moo,85.0,170,29 Kč,"Kongresová 1, Praha 4 14000",50.0627877,14.432054,4,https://www.damejidlo.cz/su-moo
+917,su-mooii,84.0,51,zdarma až 95 Kč,"Jankovcova 18, Praha 7 17000",50.1105294,14.4507429,7,https://www.damejidlo.cz/su-mooii
+918,zebirkov-i,87.0,99,79 Kč,"Srbínská 4, Praha 10 10000",50.0684216,14.4942545,10,https://www.damejidlo.cz/zebirkov-i
+919,zebirkov-nocni,-1.0,0,129 Kč,"Srbínská 4, Praha 10 10000",50.0684216,14.4942545,10,https://www.damejidlo.cz/zebirkov-nocni
+920,zizkovsky-restaurant-olse,88.0,47,29 Kč (zdarma od 700 Kč),"táboritská 26/17, Praha 3 13000",50.08231550000001,14.4580826,3,https://www.damejidlo.cz/zizkovsky-restaurant-olse

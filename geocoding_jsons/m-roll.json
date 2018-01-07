@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJUwcbKfSUC0cRUAw44SEDsHE",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4177003802915,
+        "lat": 50.07548458029149
+      },
+      "southwest": {
+        "lng": 14.4150024197085,
+        "lat": 50.0727866197085
+      }
+    },
+    "location": {
+      "lng": 14.4163514,
+      "lat": 50.0741356
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "8",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "343",
+      "types": [
+        "premise"
+      ],
+      "short_name": "343"
+    },
+    {
+      "long_name": "Dittrichova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Dittrichova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Dittrichova 343/8, Nové Město, 120 00 Praha-Praha 2, Czechia"
+}

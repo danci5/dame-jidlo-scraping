@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJC9WlOiWVC0cRt3NgPC3elHE",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3968633802915,
+        "lat": 50.1045926802915
+      },
+      "southwest": {
+        "lng": 14.3941654197085,
+        "lat": 50.1018947197085
+      }
+    },
+    "location": {
+      "lng": 14.3955144,
+      "lat": 50.1032437
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "8",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "611",
+      "types": [
+        "premise"
+      ],
+      "short_name": "611"
+    },
+    {
+      "long_name": "Jugoslávských partyzánů",
+      "types": [
+        "route"
+      ],
+      "short_name": "Jugoslávských partyzánů"
+    },
+    {
+      "long_name": "Bubeneč",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Bubeneč"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Jugoslávských partyzánů 611/8, 160 00 Praha 6-Bubeneč, Czechia"
+}

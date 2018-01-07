@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJwasEHfGUC0cR23uhUYMJQZ8",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4161196802915,
+        "lat": 50.0797059802915
+      },
+      "southwest": {
+        "lng": 14.4134217197085,
+        "lat": 50.0770080197085
+      }
+    },
+    "location": {
+      "lng": 14.4147707,
+      "lat": 50.078357
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "9",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "9"
+    },
+    {
+      "long_name": "241",
+      "types": [
+        "premise"
+      ],
+      "short_name": "241"
+    },
+    {
+      "long_name": "Vojtěšská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vojtěšská"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Vojtěšská 241/9, Nové Město, 110 00 Praha-Praha 1, Czechia"
+}

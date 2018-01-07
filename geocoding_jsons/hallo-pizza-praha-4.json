@@ -1,0 +1,83 @@
+{
+  "place_id": "ChIJv7UstIaTC0cRklvXu716QdE",
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.4530578,
+        "lat": 50.0619042
+      },
+      "southwest": {
+        "lng": 14.4501185,
+        "lat": 50.0602087
+      }
+    },
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4530578,
+        "lat": 50.0624054302915
+      },
+      "southwest": {
+        "lng": 14.4501185,
+        "lat": 50.0597074697085
+      }
+    },
+    "location": {
+      "lng": 14.4516698,
+      "lat": 50.0609334
+    }
+  },
+  "types": [
+    "route"
+  ],
+  "address_components": [
+    {
+      "long_name": "K Podjezdu",
+      "types": [
+        "route"
+      ],
+      "short_name": "K Podjezdu"
+    },
+    {
+      "long_name": "Praha 4",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 4"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "140 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "140 00"
+    }
+  ],
+  "formatted_address": "K Podjezdu, 140 00 Praha 4, Czechia"
+}

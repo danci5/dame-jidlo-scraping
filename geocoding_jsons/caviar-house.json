@@ -1,0 +1,88 @@
+{
+  "place_id": "EjJaYm9yb3Zza8OhIDQ5LCAxNTAgMDAgUHJhaGEgNS1NYWzDoSBTdHJhbmEsIMSMZXNrbw",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4082625802915,
+        "lat": 50.08239888029149
+      },
+      "southwest": {
+        "lng": 14.4055646197085,
+        "lat": 50.07970091970849
+      }
+    },
+    "location": {
+      "lng": 14.4069136,
+      "lat": 50.0810499
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "49",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "49"
+    },
+    {
+      "long_name": "Zborovská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Zborovská"
+    },
+    {
+      "long_name": "Malá Strana",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Malá Strana"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Zborovská 49, 150 00 Praha 5-Malá Strana, Czechia"
+}

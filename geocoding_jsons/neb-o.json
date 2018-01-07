@@ -1,0 +1,88 @@
+{
+  "place_id": "EjFQZXJsb3bDoSAxMCwgMTEwIDAwIFByYWhhIDEtU3RhcsOpIE3Em3N0bywgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4223632802915,
+        "lat": 50.08490868029149
+      },
+      "southwest": {
+        "lng": 14.4196653197085,
+        "lat": 50.0822107197085
+      }
+    },
+    "location": {
+      "lng": 14.4210143,
+      "lat": 50.0835597
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "10",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "10"
+    },
+    {
+      "long_name": "Perlová",
+      "types": [
+        "route"
+      ],
+      "short_name": "Perlová"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Perlová 10, 110 00 Praha 1-Staré Město, Czechia"
+}

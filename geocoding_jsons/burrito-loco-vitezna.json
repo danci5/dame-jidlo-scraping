@@ -1,0 +1,81 @@
+{
+  "place_id": "EitWw610xJt6bsOhIDE1LCBQcmFoYSA1LU1hbMOhIFN0cmFuYSwgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4059457802915,
+        "lat": 50.08253068029149
+      },
+      "southwest": {
+        "lng": 14.4032478197085,
+        "lat": 50.07983271970849
+      }
+    },
+    "location": {
+      "lng": 14.4045968,
+      "lat": 50.08118169999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "15",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "15"
+    },
+    {
+      "long_name": "Vítězná",
+      "types": [
+        "route"
+      ],
+      "short_name": "Vítězná"
+    },
+    {
+      "long_name": "Malá Strana",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Malá Strana"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    }
+  ],
+  "formatted_address": "Vítězná 15, Praha 5-Malá Strana, Czechia"
+}

@@ -1,0 +1,89 @@
+{
+  "place_id": "ChIJpbJjNxGTC0cRt7pJt0SXrFs",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4942040802915,
+        "lat": 50.0778533802915
+      },
+      "southwest": {
+        "lng": 14.4915061197085,
+        "lat": 50.0751554197085
+      }
+    },
+    "location": {
+      "lng": 14.4928551,
+      "lat": 50.0765044
+    }
+  },
+  "types": [
+    "establishment",
+    "finance",
+    "point_of_interest",
+    "post_office"
+  ],
+  "address_components": [
+    {
+      "long_name": "20",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "20"
+    },
+    {
+      "long_name": "2020",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2020"
+    },
+    {
+      "long_name": "Černokostelecká",
+      "types": [
+        "route"
+      ],
+      "short_name": "Černokostelecká"
+    },
+    {
+      "long_name": "Strašnice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Strašnice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "100 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "100 00"
+    }
+  ],
+  "formatted_address": "Černokostelecká 2020/20, 100 00 Praha 10-Strašnice, Czechia"
+}

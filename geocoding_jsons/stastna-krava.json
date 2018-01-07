@@ -1,0 +1,106 @@
+{
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.3372395,
+        "lat": 50.0502909
+      },
+      "southwest": {
+        "lng": 14.3368108,
+        "lat": 50.04999770000001
+      }
+    },
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3383741302915,
+        "lat": 50.0514932802915
+      },
+      "southwest": {
+        "lng": 14.3356761697085,
+        "lat": 50.04879531970851
+      }
+    },
+    "location": {
+      "lng": 14.3370251,
+      "lat": 50.0501443
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "16",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "16"
+    },
+    {
+      "long_name": "2522",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2522"
+    },
+    {
+      "long_name": "Volutová",
+      "types": [
+        "route"
+      ],
+      "short_name": "Volutová"
+    },
+    {
+      "long_name": "Stodůlky",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Stodůlky"
+    },
+    {
+      "long_name": "Praha 13",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 13"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "158 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "158 00"
+    }
+  ],
+  "formatted_address": "Volutová 2522/16, 158 00 Praha 13-Stodůlky, Czechia",
+  "types": [
+    "premise"
+  ],
+  "place_id": "ChIJ3YHuBPCVC0cRZk1CE5Pp77E",
+  "partial_match": true
+}

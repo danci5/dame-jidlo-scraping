@@ -1,0 +1,53 @@
+{
+  "place_id": "ChIJXeiEJNnqC0cRmc_Mcon3EMc",
+  "geometry": {
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4198049802915,
+        "lat": 50.12903438029149
+      },
+      "southwest": {
+        "lng": 14.4171070197085,
+        "lat": 50.1263364197085
+      }
+    },
+    "location": {
+      "lng": 14.418456,
+      "lat": 50.1276854
+    }
+  },
+  "types": [
+    "bank",
+    "establishment",
+    "finance",
+    "point_of_interest"
+  ],
+  "address_components": [
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "181 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "181 00"
+    }
+  ],
+  "formatted_address": "Lodžská 850/6, OC Krakov, 181 00 Praha 8, Czechia"
+}

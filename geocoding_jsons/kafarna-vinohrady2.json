@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ-37CzIOUC0cRBWNIiY8J3-4",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4497569802915,
+        "lat": 50.0744558802915
+      },
+      "southwest": {
+        "lng": 14.4470590197085,
+        "lat": 50.0717579197085
+      }
+    },
+    "location": {
+      "lng": 14.448408,
+      "lat": 50.0731069
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "1",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "2508",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2508"
+    },
+    {
+      "long_name": "Bezručovy sady",
+      "types": [
+        "route"
+      ],
+      "short_name": "Bezručovy sady"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "Bezručovy sady 2508/1, 120 00 Praha 2-Vinohrady, Czechia"
+}

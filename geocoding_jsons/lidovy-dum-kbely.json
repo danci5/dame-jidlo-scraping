@@ -1,0 +1,87 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5417348802915,
+        "lat": 50.1367863802915
+      },
+      "southwest": {
+        "lng": 14.5390369197085,
+        "lat": 50.1340884197085
+      }
+    },
+    "location": {
+      "lng": 14.5403859,
+      "lat": 50.1354374
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "9",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "9"
+    },
+    {
+      "long_name": "964",
+      "types": [
+        "premise"
+      ],
+      "short_name": "964"
+    },
+    {
+      "long_name": "Toužimská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Toužimská"
+    },
+    {
+      "long_name": "Kbely",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Kbely"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "197 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "197 00"
+    }
+  ],
+  "formatted_address": "Toužimská 964/9, 197 00 Praha-Kbely, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJo5ZDXv7sC0cR8sFumT_3wm0",
+  "partial_match": true
+}

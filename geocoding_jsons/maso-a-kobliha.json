@@ -1,0 +1,88 @@
+{
+  "place_id": "EjRQZXRyc2vDoSAzMSwgMTEwIDAwIFByYWhhIDEtUGV0cnNrw6EgxI10dnLFpSwgxIxlc2tv",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4371048802915,
+        "lat": 50.0931509802915
+      },
+      "southwest": {
+        "lng": 14.4344069197085,
+        "lat": 50.09045301970851
+      }
+    },
+    "location": {
+      "lng": 14.4357559,
+      "lat": 50.091802
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "31",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "31"
+    },
+    {
+      "long_name": "Petrská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Petrská"
+    },
+    {
+      "long_name": "Petrská čtvrť",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Petrská čtvrť"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Petrská 31, 110 00 Praha 1-Petrská čtvrť, Czechia"
+}

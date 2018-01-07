@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJPWuI4kWVC0cRnbHlzmmz1ko",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3758062802915,
+        "lat": 50.1083527802915
+      },
+      "southwest": {
+        "lng": 14.3731083197085,
+        "lat": 50.1056548197085
+      }
+    },
+    "location": {
+      "lng": 14.3744573,
+      "lat": 50.1070038
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "74",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "74"
+    },
+    {
+      "long_name": "1274",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1274"
+    },
+    {
+      "long_name": "Na Pískách",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Pískách"
+    },
+    {
+      "long_name": "Dejvice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Dejvice"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Na Pískách 1274/74, 160 00 Praha 6-Dejvice, Czechia"
+}

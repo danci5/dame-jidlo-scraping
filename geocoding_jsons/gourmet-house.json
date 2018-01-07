@@ -1,0 +1,60 @@
+{
+  "place_id": "ChIJ51VIuumVC0cRhRFKJ6AuHYs",
+  "geometry": {
+    "location_type": "GEOMETRIC_CENTER",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3518069802915,
+        "lat": 50.05266698029149
+      },
+      "southwest": {
+        "lng": 14.3491090197085,
+        "lat": 50.04996901970849
+      }
+    },
+    "location": {
+      "lng": 14.350458,
+      "lat": 50.05131799999999
+    }
+  },
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store"
+  ],
+  "address_components": [
+    {
+      "long_name": "Praha 13",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha 13"
+    },
+    {
+      "long_name": "Praha 13",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Praha 13"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "15800",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "15800"
+    }
+  ],
+  "formatted_address": "Bucharova 2817/9, Budova Metronom, 15800 Praha 13, Czechia"
+}

@@ -1,0 +1,88 @@
+{
+  "place_id": "ChIJ8_xRsr3sC0cR-xYaX4M_RKA",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4983371802915,
+        "lat": 50.12271898029149
+      },
+      "southwest": {
+        "lng": 14.4956392197085,
+        "lat": 50.1200210197085
+      }
+    },
+    "location": {
+      "lng": 14.4969882,
+      "lat": 50.12137
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "816",
+      "types": [
+        "premise"
+      ],
+      "short_name": "816"
+    },
+    {
+      "long_name": "Park Přátelství",
+      "types": [
+        "route"
+      ],
+      "short_name": "Park Přátelství"
+    },
+    {
+      "long_name": "Prosek",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Prosek"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 00"
+    }
+  ],
+  "formatted_address": "Park Přátelství 816, 190 00 Praha 9-Prosek, Czechia"
+}

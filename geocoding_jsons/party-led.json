@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ3xirU6KUC0cRhHkE7oYytPM",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4521195802915,
+        "lat": 50.09146998029149
+      },
+      "southwest": {
+        "lng": 14.4494216197085,
+        "lat": 50.0887720197085
+      }
+    },
+    "location": {
+      "lng": 14.4507706,
+      "lat": 50.090121
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "16A",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "16A"
+    },
+    {
+      "long_name": "653",
+      "types": [
+        "premise"
+      ],
+      "short_name": "653"
+    },
+    {
+      "long_name": "Pernerova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Pernerova"
+    },
+    {
+      "long_name": "Karlín",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Karlín"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "186 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "186 00"
+    }
+  ],
+  "formatted_address": "Pernerova 653/16A, 186 00 Praha 8-Karlín, Czechia"
+}

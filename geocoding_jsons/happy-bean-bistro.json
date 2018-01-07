@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ8-6H6JyUC0cRsWY3oEpwdT4",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4518275802915,
+        "lat": 50.0800458802915
+      },
+      "southwest": {
+        "lng": 14.4491296197085,
+        "lat": 50.0773479197085
+      }
+    },
+    "location": {
+      "lng": 14.4504786,
+      "lat": 50.0786969
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "1659",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1659"
+    },
+    {
+      "long_name": "Laubova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Laubova"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Laubova 1659/2, 130 00 Praha 3-Vinohrady, Czechia"
+}

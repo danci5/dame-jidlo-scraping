@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJSUur1cGUC0cRDLEcSv4vDZw",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4294745802915,
+        "lat": 50.0920557802915
+      },
+      "southwest": {
+        "lng": 14.4267766197085,
+        "lat": 50.0893578197085
+      }
+    },
+    "location": {
+      "lng": 14.4281256,
+      "lat": 50.0907068
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2"
+    },
+    {
+      "long_name": "1084",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1084"
+    },
+    {
+      "long_name": "Soukenická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Soukenická"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Soukenická 1084/2, Nové Město, 110 00 Praha-Praha 1, Czechia"
+}

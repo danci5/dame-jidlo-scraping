@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJOZl_utqUC0cRSFIDHUQFCvk",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4231779802915,
+        "lat": 50.10235418029149
+      },
+      "southwest": {
+        "lng": 14.4204800197085,
+        "lat": 50.09965621970849
+      }
+    },
+    "location": {
+      "lng": 14.421829,
+      "lat": 50.1010052
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "3",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "3"
+    },
+    {
+      "long_name": "287",
+      "types": [
+        "premise"
+      ],
+      "short_name": "287"
+    },
+    {
+      "long_name": "Keramická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Keramická"
+    },
+    {
+      "long_name": "Bubeneč",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Bubeneč"
+    },
+    {
+      "long_name": "Praha 7",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 7"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "170 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "170 00"
+    }
+  ],
+  "formatted_address": "Keramická 287/3, 170 00 Praha 7-Bubeneč, Czechia"
+}

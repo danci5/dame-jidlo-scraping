@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4588062802915,
+        "lat": 50.0958084802915
+      },
+      "southwest": {
+        "lng": 14.4561083197085,
+        "lat": 50.0931105197085
+      }
+    },
+    "location": {
+      "lng": 14.4574573,
+      "lat": 50.0944595
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "483",
+      "types": [
+        "premise"
+      ],
+      "short_name": "483"
+    },
+    {
+      "long_name": "Urxova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Urxova"
+    },
+    {
+      "long_name": "Karlín",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Karlín"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "186 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "186 00"
+    }
+  ],
+  "formatted_address": "Urxova 483/5, 186 00 Praha 8-Karlín, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJOx3di6aUC0cRNO85WYjcWS0",
+  "partial_match": true
+}

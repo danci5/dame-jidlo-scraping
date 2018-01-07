@@ -1,0 +1,88 @@
+{
+  "place_id": "EjJPcGxldGFsb3ZhIDIwLCAxMTAgMDAgUHJhaGEgMS1Ob3bDqSBNxJtzdG8sIMSMZXNrbw",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4319024802915,
+        "lat": 50.0830594802915
+      },
+      "southwest": {
+        "lng": 14.4292045197085,
+        "lat": 50.0803615197085
+      }
+    },
+    "location": {
+      "lng": 14.4305535,
+      "lat": 50.0817105
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "20",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "20"
+    },
+    {
+      "long_name": "Opletalova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Opletalova"
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Opletalova 20, 110 00 Praha 1-Nové Město, Czechia"
+}

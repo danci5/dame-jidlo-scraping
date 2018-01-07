@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJxXMRkZyUC0cR6cbhPT_41YM",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4505800802915,
+        "lat": 50.0804756802915
+      },
+      "southwest": {
+        "lng": 14.4478821197085,
+        "lat": 50.0777777197085
+      }
+    },
+    "location": {
+      "lng": 14.4492311,
+      "lat": 50.0791267
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "8",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "2296",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2296"
+    },
+    {
+      "long_name": "Ondříčkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Ondříčkova"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Ondříčkova 2296/8, 130 00 Praha 3-Vinohrady, Czechia"
+}

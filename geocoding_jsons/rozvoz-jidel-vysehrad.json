@@ -1,0 +1,96 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4254820802915,
+        "lat": 50.06464838029149
+      },
+      "southwest": {
+        "lng": 14.4227841197085,
+        "lat": 50.0619504197085
+      }
+    },
+    "location": {
+      "lng": 14.4241331,
+      "lat": 50.0632994
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "23",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "23"
+    },
+    {
+      "long_name": "90",
+      "types": [
+        "premise"
+      ],
+      "short_name": "90"
+    },
+    {
+      "long_name": "Lumírova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Lumírova"
+    },
+    {
+      "long_name": "Nusle",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nusle"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "128 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "128 00"
+    }
+  ],
+  "formatted_address": "Lumírova 90/23, 128 00 Praha 2-Nusle, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJ_5Nil2aUC0cRwmgr7oDb6Ok",
+  "partial_match": true
+}

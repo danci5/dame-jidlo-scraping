@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJvZL6gMnsC0cRYs6zQAgGBKs",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5047116802915,
+        "lat": 50.10902958029149
+      },
+      "southwest": {
+        "lng": 14.5020137197085,
+        "lat": 50.10633161970849
+      }
+    },
+    "location": {
+      "lng": 14.5033627,
+      "lat": 50.10768059999999
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "12",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "12"
+    },
+    {
+      "long_name": "1",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1"
+    },
+    {
+      "long_name": "Freyova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Freyova"
+    },
+    {
+      "long_name": "Vysočany",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vysočany"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 00"
+    }
+  ],
+  "formatted_address": "Freyova 1/12, 190 00 Praha 9-Vysočany, Czechia"
+}

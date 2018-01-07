@@ -18,7 +18,11 @@ g = Grab()
 g.go(dame_jidlo)
 
 def get_the_restaurant_refs():
-    """ Gets all the links for restaurants from the damejidlo catalog. """
+    """Gets all the links for restaurants from the damejidlo catalog.
+    
+    Returns:
+        all restaurant references in catalogue
+    """
     
     # grabbing the catalog
     g.go('/katalog/')
@@ -37,15 +41,15 @@ def get_the_restaurant_refs():
 
     return refs
 
-def get_rating(url):
-    """ Gets ratings for restaurant.
+def get_rating():
+    """Gets ratings for restaurant.
     
-    0-100 rating
-    -1    no ratings
-    None  restaurant doesn't offer anything at the moment/wrong structure 
+    Returns:
+        0-100 rating
+        -1    no ratings
+        None  restaurant doesn't offer anything at the moment/wrong structure 
     """
 
-    g.go(url)
     try:
         rat = g.doc.select("(//div[@class='restaurant-rating__text-top'])[1]")
         rat_nodes = rat.node().getchildren()
@@ -70,14 +74,14 @@ def get_rating(url):
 
     return rating
 
-def get_number_of_ratings(url):
-    """ Gets number of ratings for restaurant.
+def get_number_of_ratings():
+    """Gets number of ratings for restaurant.
     
-    0-x   number of ratings
-    None  restaurant doesn't offer anything at the moment/wrong structure
+    Returns:
+        0-x   number of ratings
+        None  restaurant doesn't offer anything at the moment/wrong structure
     """
 
-    g.go(url)
     try:
         nor = g.doc.select("(//div[@class='restaurant-rating__text-bottom'])[1]")
         nor_nodes = nor.node().getchildren()
@@ -104,14 +108,17 @@ def get_number_of_ratings(url):
             
     return number_of_ratings
 
-def get_delivery_fee(url):
-    """ Gets deliver fee for restaurant.
-    DEPENDS on the address
+def get_delivery_fee():
+    """Gets deliver fee for restaurant.
 
-    None    restaurant doesn't offer anything at the moment/wrong structure
+    Delivery fee price depends on the address and sometimes varies based on the price of the order.
+    Thus it's string for now.
+
+    Returns:
+        string  including delivery fee prices
+        None    restaurant doesn't offer anything at the moment/wrong structure
     """
 
-    g.go(url)
     try:
         fee_selection = g.doc.select("(//div[@class='delivery-info__price delivery-info__item'])[1]")
         fee = fee_selection.text()
@@ -121,19 +128,20 @@ def get_delivery_fee(url):
         return None
     return fee
 
-def fill_lat_long_and_return_geocoding_response(url, addresses, lats, lngs):
-    """ Gets address and geocodes the address to lat long with gmaps API.
+def fill_lat_long_and_return_geocoding_response(addresses, lats, lngs):
+    """Gets address and geocodes the address to lat long with gmaps API.
     
-    lat   saved into lats list
-    lng   saved into lngs list
+    lat - saved into lats list
+    lng - saved into lngs list
     
     When incapable of getting lat, lng values, filling None because:
     -restaurant doesn't offer anything at the moment/wrong structure
     -the API didnt't handle the format of the address    
 
-    Returns the API json response or None.
+    Returns:
+        dict of geocoding response from API
+        None
     """
-    g.go(url)
     try:
         gmaps_link = g.doc.select("(//div[@class='moreinfo__address-image'])[1]/a/@href").text()
         url_encoded_address = gmaps_link.split('=')[1]
@@ -169,11 +177,15 @@ def fill_lat_long_and_return_geocoding_response(url, addresses, lats, lngs):
     return geocode_result[0]
 
 def get_municipal_district(address):
-    """ Gets the district from the address. 
+    """Gets the district from the address. 
     
     Worth to mention:
-    -it's not always in the address.  
-    -scans through string looking for the first location of Praha 'number'   
+    -it's not always in the address and sometimes it's not correct
+    -scans through address looking for the first location of Praha 'number'
+
+    Returns:
+        number of municipal district
+        None - it's not always in the address
     """
     if address is not None:
         municipal_district = re.search('Praha\s(\d+)', address) 
@@ -195,6 +207,7 @@ def create_dataset(names, urls, ratings, number_of_ratings, addresses, lats, lng
     return df
 
 def export_dataset(dataframe):
+    """Exports dataframe to csv and json file."""
     dir_path = os.path.dirname(os.path.realpath(__file__))
     csv_file = dataframe.to_csv(os.path.join(dir_path, 'dame_jidlo_prague.csv'), encoding='utf-8')
     out = dataframe.to_json(orient='records')
@@ -202,6 +215,7 @@ def export_dataset(dataframe):
         json_file.write(out)
 
 def save_geocoding_responses(names, geocoding_dicts):
+    """Saves dicts from Google Maps Geocoding API to json files for future use."""
     dir_path = os.path.dirname(os.path.realpath(__file__))
     for i in range(len(names)):
         with open(os.path.join(dir_path, 'geocoding_jsons/%s.json' % (names[i])), 'w') as geocoding_file:
@@ -209,34 +223,20 @@ def save_geocoding_responses(names, geocoding_dicts):
 
 def main():    
     refs = get_the_restaurant_refs()
-
     lats, lngs, addresses = [], [], []
-    geocoding_dicts = [fill_lat_long_and_return_geocoding_response(ref, addresses, lats, lngs) for ref in refs]
+    ratings, number_of_ratings, delivery_fees = [], [], []
+    geocoding_dicts = []
+
+    for ref in refs:
+        g.go(ref)
+        geocoding_dicts.append(fill_lat_long_and_return_geocoding_response(addresses, lats, lngs))
+        ratings.append(get_rating())
+        number_of_ratings.append(get_number_of_ratings())
+        delivery_fees.append(get_delivery_fee())
+
     urls = ['https://www.damejidlo.cz' + ref for ref in refs]
     names = [ref.strip('/') for ref in refs]
-    ratings = [get_rating(ref) for ref in refs]
-    number_of_ratings = [get_number_of_ratings(ref) for ref in refs]
-    delivery_fees = [get_delivery_fee(ref) for ref in refs]
     prague_municipal_districts = [get_municipal_district(address) for address in addresses]
-
-    print (len(refs))
-    print ("__________________________________________________")
-    print (len(names))
-    print ("__________________________________________________")
-    print (len(urls))
-    print ("__________________________________________________")
-    print (len(ratings))
-    print ("__________________________________________________")
-    print (len(number_of_ratings))
-    print ("__________________________________________________")
-    print (len(delivery_fees))
-    print ("__________________________________________________")
-    print (len(addresses))
-    print (addresses)
-    print ("__________________________________________________")
-    print (len(geocoding_dicts))
-    print ("__________________________________________________")
-    print (len(prague_municipal_districts))
 
     dataframe = create_dataset(names, urls, ratings, number_of_ratings, addresses, lats, lngs, prague_municipal_districts, delivery_fees)
     dataframe.index.name = 'id'

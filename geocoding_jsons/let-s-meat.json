@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJE3xiX2OTC0cRm2v_IXvu9Ys",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4628692802915,
+        "lat": 50.07826138029149
+      },
+      "southwest": {
+        "lng": 14.4601713197085,
+        "lat": 50.07556341970849
+      }
+    },
+    "location": {
+      "lng": 14.4615203,
+      "lat": 50.0769124
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "107",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "107"
+    },
+    {
+      "long_name": "2130",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2130"
+    },
+    {
+      "long_name": "Slezská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Slezská"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Slezská 2130/107, 130 00 Praha 3-Vinohrady, Czechia"
+}

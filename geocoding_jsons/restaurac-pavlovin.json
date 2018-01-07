@@ -1,0 +1,83 @@
+{
+  "place_id": "ChIJTSsUzTWSC0cRNY1SDdhgCW0",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4997169802915,
+        "lat": 50.0384659802915
+      },
+      "southwest": {
+        "lng": 14.4970190197085,
+        "lat": 50.0357680197085
+      }
+    },
+    "location": {
+      "lng": 14.498368,
+      "lat": 50.03711699999999
+    }
+  },
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "address_components": [
+    {
+      "long_name": "2353/2",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "2353/2"
+    },
+    {
+      "long_name": "Mírového hnutí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Mírového hnutí"
+    },
+    {
+      "long_name": "Praha 11",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 11"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "149 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "149 00"
+    }
+  ],
+  "formatted_address": "Mírového hnutí 2353/2, 149 00 Praha 11, Czechia"
+}

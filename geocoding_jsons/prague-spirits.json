@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJA8K-d5yUC0cRzItONaJ2TxA",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4503535802915,
+        "lat": 50.0821301802915
+      },
+      "southwest": {
+        "lng": 14.4476556197085,
+        "lat": 50.0794322197085
+      }
+    },
+    "location": {
+      "lng": 14.4490046,
+      "lat": 50.0807812
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "5",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "5"
+    },
+    {
+      "long_name": "1282",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1282"
+    },
+    {
+      "long_name": "Škroupovo náměstí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Škroupovo nám."
+    },
+    {
+      "long_name": "Žižkov",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Žižkov"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Škroupovo nám. 1282/5, 130 00 Praha 3-Žižkov, Czechia"
+}

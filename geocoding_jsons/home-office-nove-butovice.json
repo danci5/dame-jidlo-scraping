@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJaUrS4cKVC0cR_vHvYdCx2qI",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3550945802915,
+        "lat": 50.0489547802915
+      },
+      "southwest": {
+        "lng": 14.3523966197085,
+        "lat": 50.0462568197085
+      }
+    },
+    "location": {
+      "lng": 14.3537456,
+      "lat": 50.0476058
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "117",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "117"
+    },
+    {
+      "long_name": "520",
+      "types": [
+        "premise"
+      ],
+      "short_name": "520"
+    },
+    {
+      "long_name": "Radlická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Radlická"
+    },
+    {
+      "long_name": "Jinonice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Jinonice"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "158 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "158 00"
+    }
+  ],
+  "formatted_address": "Radlická 520/117, 158 00 Praha 5-Jinonice, Czechia"
+}

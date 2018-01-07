@@ -1,0 +1,91 @@
+{
+  "geometry": {
+    "bounds": {
+      "northeast": {
+        "lng": 14.5577063,
+        "lat": 50.03549839999999
+      },
+      "southwest": {
+        "lng": 14.557081,
+        "lat": 50.0350382
+      }
+    },
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5587426302915,
+        "lat": 50.03661728029149
+      },
+      "southwest": {
+        "lng": 14.5560446697085,
+        "lat": 50.0339193197085
+      }
+    },
+    "location": {
+      "lng": 14.5573936,
+      "lat": 50.0352683
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "56",
+      "types": [
+        "premise"
+      ],
+      "short_name": "56"
+    },
+    {
+      "long_name": "Bellova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Bellova"
+    },
+    {
+      "long_name": "Praha-Petrovice",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Petrovice"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "109 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "109 00"
+    }
+  ],
+  "formatted_address": "Bellova 56, 109 00 Praha-Petrovice, Czechia",
+  "types": [
+    "premise"
+  ],
+  "place_id": "ChIJjYemeYyNC0cR16AiIT5oFcM",
+  "partial_match": true
+}

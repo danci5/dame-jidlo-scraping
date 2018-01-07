@@ -1,0 +1,97 @@
+{
+  "place_id": "ChIJGz-lqliUC0cRLjke2Rmkk-M",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4158990802915,
+        "lat": 50.07265348029149
+      },
+      "southwest": {
+        "lng": 14.4132011197085,
+        "lat": 50.06995551970849
+      }
+    },
+    "location": {
+      "lng": 14.4145501,
+      "lat": 50.0713045
+    }
+  },
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "address_components": [
+    {
+      "long_name": "58",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "58"
+    },
+    {
+      "long_name": "383",
+      "types": [
+        "premise"
+      ],
+      "short_name": "383"
+    },
+    {
+      "long_name": "Rašínovo nábřeží",
+      "types": [
+        "route"
+      ],
+      "short_name": "Rašínovo nábř."
+    },
+    {
+      "long_name": "Nové Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Nové Město"
+    },
+    {
+      "long_name": "Praha",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "short_name": "Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "128 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "128 00"
+    }
+  ],
+  "formatted_address": "Rašínovo nábř. 383/58, 128 00 Praha-Nové Město, Czechia"
+}

@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJw21fYNzqC0cRlJCj823SFfY",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4140130802915,
+        "lat": 50.13180198029149
+      },
+      "southwest": {
+        "lng": 14.4113151197085,
+        "lat": 50.1291040197085
+      }
+    },
+    "location": {
+      "lng": 14.4126641,
+      "lat": 50.130453
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "20",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "20"
+    },
+    {
+      "long_name": "480",
+      "types": [
+        "premise"
+      ],
+      "short_name": "480"
+    },
+    {
+      "long_name": "Zelenohorská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Zelenohorská"
+    },
+    {
+      "long_name": "Bohnice",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Bohnice"
+    },
+    {
+      "long_name": "Praha 8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 8"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "181 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "181 00"
+    }
+  ],
+  "formatted_address": "Zelenohorská 480/20, 181 00 Praha 8-Bohnice, Czechia"
+}

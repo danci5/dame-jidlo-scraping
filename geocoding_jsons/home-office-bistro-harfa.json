@@ -1,0 +1,88 @@
+{
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4925987802915,
+        "lat": 50.1051734802915
+      },
+      "southwest": {
+        "lng": 14.4899008197085,
+        "lat": 50.1024755197085
+      }
+    },
+    "location": {
+      "lng": 14.4912498,
+      "lat": 50.10382449999999
+    }
+  },
+  "address_components": [
+    {
+      "long_name": "15a",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "15a"
+    },
+    {
+      "long_name": "2420",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2420"
+    },
+    {
+      "long_name": "Českomoravská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Českomoravská"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "190 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "190 00"
+    }
+  ],
+  "formatted_address": "Českomoravská 2420/15a, 190 00 Praha 9, Czechia",
+  "types": [
+    "street_address"
+  ],
+  "place_id": "ChIJw_1fLEuTC0cRt83N5eVMxHw",
+  "partial_match": true
+}

@@ -1,0 +1,80 @@
+{
+  "place_id": "EiZIb2xlxI1rb3ZhIDEyMywgMTUwIDAwIFByYWhhIDUsIMSMZXNrbw",
+  "geometry": {
+    "location_type": "RANGE_INTERPOLATED",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3864640802915,
+        "lat": 50.0731250802915
+      },
+      "southwest": {
+        "lng": 14.3837661197085,
+        "lat": 50.0704271197085
+      }
+    },
+    "location": {
+      "lng": 14.3851151,
+      "lat": 50.0717761
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "123",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "123"
+    },
+    {
+      "long_name": "Holečkova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Holečkova"
+    },
+    {
+      "long_name": "Praha 5",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 5"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "150 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "150 00"
+    }
+  ],
+  "formatted_address": "Holečkova 123, 150 00 Praha 5, Czechia"
+}

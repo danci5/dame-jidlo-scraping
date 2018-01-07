@@ -1,0 +1,80 @@
+{
+  "place_id": "ChIJZ3JrYDGXC0cRv2rhUrCXiDs",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.3951726802915,
+        "lat": 49.9770594802915
+      },
+      "southwest": {
+        "lng": 14.3924747197085,
+        "lat": 49.9743615197085
+      }
+    },
+    "location": {
+      "lng": 14.3938237,
+      "lat": 49.9757105
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "462",
+      "types": [
+        "premise"
+      ],
+      "short_name": "462"
+    },
+    {
+      "long_name": "Zbraslavské náměstí",
+      "types": [
+        "route"
+      ],
+      "short_name": "Zbraslavské nám."
+    },
+    {
+      "long_name": "Praha-Zbraslav",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha-Zbraslav"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "156 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "156 00"
+    }
+  ],
+  "formatted_address": "Zbraslavské nám. 462, 156 00 Praha-Zbraslav, Czechia"
+}

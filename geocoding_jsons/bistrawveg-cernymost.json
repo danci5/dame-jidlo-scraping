@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJUQBtKV_tC0cRCeVN3b926OE",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5846410802915,
+        "lat": 50.11014198029149
+      },
+      "southwest": {
+        "lng": 14.5819431197085,
+        "lat": 50.1074440197085
+      }
+    },
+    "location": {
+      "lng": 14.5832921,
+      "lat": 50.108793
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "6",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "6"
+    },
+    {
+      "long_name": "765",
+      "types": [
+        "premise"
+      ],
+      "short_name": "765"
+    },
+    {
+      "long_name": "Chlumecká",
+      "types": [
+        "route"
+      ],
+      "short_name": "Chlumecká"
+    },
+    {
+      "long_name": "Černý Most",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Černý Most"
+    },
+    {
+      "long_name": "Praha 9",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 9"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "198 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "198 00"
+    }
+  ],
+  "formatted_address": "Chlumecká 765/6, 198 00 Praha 9-Černý Most, Czechia"
+}

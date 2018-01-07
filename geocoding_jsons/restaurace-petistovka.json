@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ6eB2fd-UC0cRscYhylYi09w",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4071428802915,
+        "lat": 50.0978468802915
+      },
+      "southwest": {
+        "lng": 14.4044449197085,
+        "lat": 50.0951489197085
+      }
+    },
+    "location": {
+      "lng": 14.4057939,
+      "lat": 50.0964979
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "16",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "16"
+    },
+    {
+      "long_name": "283",
+      "types": [
+        "premise"
+      ],
+      "short_name": "283"
+    },
+    {
+      "long_name": "Na Valech",
+      "types": [
+        "route"
+      ],
+      "short_name": "Na Valech"
+    },
+    {
+      "long_name": "Hradčany",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Hradčany"
+    },
+    {
+      "long_name": "Praha 6",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 6"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "160 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "160 00"
+    }
+  ],
+  "formatted_address": "Na Valech 283/16, 160 00 Praha 6-Hradčany, Czechia"
+}

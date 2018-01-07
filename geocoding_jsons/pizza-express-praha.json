@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJnY5Z4G6TC0cRWZkmoWhX7XI",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4747237802915,
+        "lat": 50.0794787802915
+      },
+      "southwest": {
+        "lng": 14.4720258197085,
+        "lat": 50.0767808197085
+      }
+    },
+    "location": {
+      "lng": 14.4733748,
+      "lat": 50.0781298
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "8",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "8"
+    },
+    {
+      "long_name": "2405",
+      "types": [
+        "premise"
+      ],
+      "short_name": "2405"
+    },
+    {
+      "long_name": "Votická",
+      "types": [
+        "route"
+      ],
+      "short_name": "Votická"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 3",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 3"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "130 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "130 00"
+    }
+  ],
+  "formatted_address": "Votická 2405/8, 130 00 Praha 3-Vinohrady, Czechia"
+}

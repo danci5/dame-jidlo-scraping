@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJKVkSVeqUC0cR74_oM7vqYPk",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4282405802915,
+        "lat": 50.0895784802915
+      },
+      "southwest": {
+        "lng": 14.4255426197085,
+        "lat": 50.0868805197085
+      }
+    },
+    "location": {
+      "lng": 14.4268916,
+      "lat": 50.0882295
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "11",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "11"
+    },
+    {
+      "long_name": "664",
+      "types": [
+        "premise"
+      ],
+      "short_name": "664"
+    },
+    {
+      "long_name": "Králodvorská",
+      "types": [
+        "route"
+      ],
+      "short_name": "Králodvorská"
+    },
+    {
+      "long_name": "Staré Město",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Staré Město"
+    },
+    {
+      "long_name": "Praha 1",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 1"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "110 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "110 00"
+    }
+  ],
+  "formatted_address": "Králodvorská 664/11, Staré Město, 110 00 Praha-Praha 1, Czechia"
+}

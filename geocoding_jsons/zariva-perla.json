@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJ7dtvi1mSC0cR8IN7wOH0Fik",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.5185370802915,
+        "lat": 50.0546301802915
+      },
+      "southwest": {
+        "lng": 14.5158391197085,
+        "lat": 50.0519322197085
+      }
+    },
+    "location": {
+      "lng": 14.5171881,
+      "lat": 50.0532812
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "32",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "32"
+    },
+    {
+      "long_name": "1391",
+      "types": [
+        "premise"
+      ],
+      "short_name": "1391"
+    },
+    {
+      "long_name": "Švehlova",
+      "types": [
+        "route"
+      ],
+      "short_name": "Švehlova"
+    },
+    {
+      "long_name": "Hostivař",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Hostivař"
+    },
+    {
+      "long_name": "Praha 10",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 10"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "102 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "102 00"
+    }
+  ],
+  "formatted_address": "Švehlova 1391/32, 102 00 Praha 10-Hostivař, Czechia"
+}

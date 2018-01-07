@@ -1,0 +1,95 @@
+{
+  "place_id": "ChIJkTLkg4aUC0cRNj4LrZSv39Y",
+  "geometry": {
+    "location_type": "ROOFTOP",
+    "viewport": {
+      "northeast": {
+        "lng": 14.4428852802915,
+        "lat": 50.0741892802915
+      },
+      "southwest": {
+        "lng": 14.4401873197085,
+        "lat": 50.0714913197085
+      }
+    },
+    "location": {
+      "lng": 14.4415363,
+      "lat": 50.0728403
+    }
+  },
+  "types": [
+    "street_address"
+  ],
+  "address_components": [
+    {
+      "long_name": "58",
+      "types": [
+        "street_number"
+      ],
+      "short_name": "58"
+    },
+    {
+      "long_name": "265",
+      "types": [
+        "premise"
+      ],
+      "short_name": "265"
+    },
+    {
+      "long_name": "Jana Masaryka",
+      "types": [
+        "route"
+      ],
+      "short_name": "J. Masaryka"
+    },
+    {
+      "long_name": "Vinohrady",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "short_name": "Vinohrady"
+    },
+    {
+      "long_name": "Praha 2",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ],
+      "short_name": "Praha 2"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Hlavní město Praha",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "short_name": "Hlavní město Praha"
+    },
+    {
+      "long_name": "Czechia",
+      "types": [
+        "country",
+        "political"
+      ],
+      "short_name": "CZ"
+    },
+    {
+      "long_name": "120 00",
+      "types": [
+        "postal_code"
+      ],
+      "short_name": "120 00"
+    }
+  ],
+  "formatted_address": "J. Masaryka 265/58, 120 00 Praha 2-Vinohrady, Czechia"
+}
