@@ -5,7 +5,7 @@ googlemaps==2.5.1
 grab==0.6.38
 idna==2.6
 lxml==4.1.1
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.21.1
 pkg-resources==0.0.0
 pycurl==7.43.0.1
